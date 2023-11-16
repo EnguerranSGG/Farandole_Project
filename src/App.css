@@ -1224,16 +1224,17 @@ footer p {
     color: rgba(240, 248, 255, 1);
     display: inline-block;
     text-decoration-color: rgba(240, 248, 255, 0);
-    width: auto;
+    width: 140px;
     padding: 12px 16px;
   }
 
   .dropdown:hover .dropdown-content {
-    width: auto;
+    width: 172px;
   }
 
   .dropdown-content a:hover {
     background-color: rgba(0, 0, 0, 0.8);
+    width: 140px;
   }
 
   /** Zone gateaux bonbons **/
@@ -1605,6 +1606,32 @@ footer p {
     font-size: 2.3vw;
   }
 
+
+.dropdown-content a {
+  font-size: 1.5vw;
+  color: rgba(240, 248, 255, 1);
+  display: inline-block;
+  text-decoration-color: rgba(240, 248, 255, 0);
+  width: 200px;
+  padding: 12px 16px;
+}
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+  margin: 0%;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  width: 182px;
+}
+
+.dropdown-content a:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 150px;
+}
+
   /** Zone templates et modales **/
 
   .all_products {
@@ -1945,6 +1972,7 @@ footer p {
 
   .dropdown-content a {
     font-size: 3vw;
+    width: 150px;
   }
 
   /** Zone templates et modales **/
@@ -2167,12 +2195,101 @@ footer p {
   }
 }
 
+@media (min-width: 430px) and (max-width: 600px) {
+  .dropdown-content a {
+    font-size: 3vw;
+    width: auto;
+  }
+
+  .dropdown:hover .dropdown-content {
+    width: 150px;
+  }
+
+  .dropdown-content a:hover {
+    width: 120px;
+  }
+}
+
+@media (min-width: 380px) and (max-width: 429px) {
+  .dropdown-content a {
+    font-size: 3vw;
+    width: auto;
+  }
+
+  .dropdown:hover .dropdown-content {
+    width: 130px;
+  }
+
+  .dropdown-content a:hover {
+    width: 100px;
+  }
+}
+
+@media (min-width: 200px) and (max-width: 380px) {
+  .dropdown-content a {
+    font-size: 3vw;
+    width: auto;
+  }
+
+  .dropdown:hover .dropdown-content {
+    width: auto;
+  }
+
+  .dropdown-content a:hover {
+    width: auto;
+  }
+}
+
 @media (max-width: 1400px) and (min-width: 950px) {
   #images_chateaux {
     display: grid;
     grid-template-columns: 450px 450px;
     grid-template-rows: 250px 250px;
     grid-gap: 5px;
+  }
+
+  .dropdown-content a {
+    font-size: 2.3vw;
+    width: 230px;
+  }
+
+  .dropdown:hover .dropdown-content {
+    width: 230px;
+  }
+
+  .dropdown-content a:hover {
+    width: 198px;
+  }
+
+}
+
+@media (max-width: 1400px) and (min-width: 1100px) {
+  .dropdown-content a {
+    font-size: 2.3vw;
+    width: 270px;
+  }
+
+  .dropdown:hover .dropdown-content {
+    width: 270px;
+  }
+
+  .dropdown-content a:hover {
+    width: 238px;
+  }
+}
+
+@media (max-width: 1400px) and (min-width: 1200px) {
+  .dropdown-content a {
+    font-size: 2.3vw;
+    width: 300px;
+  }
+
+  .dropdown:hover .dropdown-content {
+    width: 300px;
+  }
+
+  .dropdown-content a:hover {
+    width: 270px;
   }
 }
 
