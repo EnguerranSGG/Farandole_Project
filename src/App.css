@@ -1,38 +1,2385 @@
-.App {
-  text-align: center;
+/** Zone globale **/
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 124, 228, 1);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+img {
+  object-fit: cover;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  font-family: 'Kalam', cursive;
+  font-size: 3vw;
+  color: rgba(255, 124, 228, 1);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+h2 {
+  font-family: 'Kalam', cursive;
+  font-size: 2vw;
+}
+
+p {
+  font-size: 1.5vw;
+  font-family: 'Kalam', cursive;
+}
+
+.btn {
+  box-shadow: 2px 2px 10px black;
+  border-radius: 10px;
+  transition: transform 300ms ease-in-out;
+  font-size: 1vw;
+  font-family: 'Kalam', cursive;
+  background-color: aliceblue;
+  color: rgba(255, 124, 228, 1);
+  margin: 1%;
+}
+
+.btn:hover {
+  box-shadow: 4px 4px 15px black;
+  transform: translateY(-7%);
+}
+
+.btn:active {
+  margin-top: 1%;
+  box-shadow: none;
+}
+
+/** Zone Headers */
+
+header {
+  padding-top: 1%;
+  background-color: rgba(0, 0, 0, 0.9);
+  margin: 0%;
+  width: 100%;
+}
+
+/** Header Home */
+
+#HeaderHome {
+  background-image: url("./Illustrations/illustration_marriage.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-template-rows: 100px 100px 600px;
+  padding-top: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+#HeaderHome #banniere_droite {
+  height: 200px;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  background-image: url("./Illustrations/baniere_farandole_droite.png");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+#HeaderHome #banniere_gauche {
+  height: 200px;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  background-image: url("./Illustrations/baniere_farandole_gauche.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#HeaderHome #logo {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  padding-top: 6%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#HeaderHome nav {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.bienvenue {
+  grid-row-start: 3;
+  grid-row-end: 4;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  margin-top: 5%;
+  margin-right: 15%;
+  margin-left: 10%;
+  padding: 2%;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.bienvenue h1 {
+  color: rgba(255, 124, 228, 1);
+}
+
+.bienvenue p,
+.bienvenue h2 {
+  color: aliceblue;
+}
+
+/** Header **/
+
+#header {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-template-rows: 100px 100px;
+  padding-top: 0;
+  height: 200px;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+#logo {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  padding-top: 6%;
+}
+
+#header nav {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.active {
+  font-size: 1.5vw;
+  padding-bottom: 10%;
+}
+
+#banniere_droite {
+  height: 200px;
+  grid-column-start: 3;
+  grid-column-end: 4;
+  background-image: url("./Illustrations/baniere_farandole_droite.png");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+#banniere_gauche {
+  height: 200px;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  background-image: url("./Illustrations/baniere_farandole_gauche.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  justify-items: center;
+  align-items: center;
+  padding: 1%;
+}
+
+.logo {
+  z-index: 1;
+  padding-top: 1%;
+}
+
+.logo img {
+  margin: 0%;
+}
+
+nav a {
+  font-family: 'Kalam', cursive;
+  font-size: 1.6vw;
+  color: rgba(240, 248, 255, 1);
+  text-decoration: none;
+  padding-bottom: 30%;
+  margin: 0%;
+}
+
+.arrows {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.up_down_none {
+  display: none;
+}
+
+.up_down_show {
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  background-color: rgba(255, 124, 228, 0.6);
+  width: 250px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  margin-top: 11px;
+}
+
+.dropdown-content a {
+  font-size: 1.5vw;
+  color: rgba(240, 248, 255, 1);
+  display: inline-block;
+  text-decoration-color: rgba(240, 248, 255, 0);
+  width: 250px;
+  padding: 12px 16px;
+}
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+  margin: 0%;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  width: 300px;
+}
+
+.dropdown-content a:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 269px;
+}
+
+/** Zone footer */
+
+footer {
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+  width: 100%;
+  margin: 0%;
+}
+
+footer p {
+  color: rgba(240, 248, 255, 1);
+  font-size: 1vw;
+}
+
+/** Zone templates et modales **/
+
+.all_products {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  margin: 1%;
+}
+
+.all_products img {
+  width: 100%;
+  height: 450px;
+  border-radius: 10px;
+  transition: transform 300ms ease-in-out;
+  box-shadow: 8px 8px 20px black;
+}
+
+.all_products img:hover {
+  opacity: 0.8;
+  transform: translateY(-1.5%);
+  box-shadow: 11px 11px 20px black;
+}
+
+.products {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 3%;
+  padding-bottom: 2%;
+}
+
+.notViewer {
+  display: none;
+}
+
+.viewer {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+.viewer div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  color: aliceblue;
+  background-color: rgba(255, 124, 228, 0.6);
+  border-radius: 10px;
+  margin: 5%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+#viewer_img {
+  height: 600px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+/** Zone deguisements et accessoires */
+
+.presentation_deguisements {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1%;
+}
+
+.presentation_deguisements div {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1%;
+}
+
+.presentation_deguisements h1 {
+  color: aliceblue;
+}
+
+.btnVoirDeguisements {
+  color: aliceblue;
+  font-family: 'Kalam', cursive;
+  font-size: 1.2vw;
+  background-color: rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  border: 1px solid aliceblue;
+  border-bottom: 4px solid black;
+  border-right: 4px solid black;
+  border-radius: 10px;
+  padding: 0% 1%;
+  transition: transform 300ms ease-in-out;
+}
+
+.btnVoirDeguisements:visited {
+  color: aliceblue;
+}
+
+.btnVoirDeguisements:hover {
+  transform: scale(1.05);
+}
+
+.btnVoirDeguisements:active {
+  transform: scale(0.95);
+  border: 1px solid black;
+}
+
+.presentation_accessoires {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1%;
+  background-color: rgba(0, 0, 0, 0.9);
+  border-bottom: 2px solid rgba(255, 124, 228, 1);
+}
+
+.btnVoirAccessoires {
+  color: rgba(255, 124, 228, 1);
+  font-family: 'Kalam', cursive;
+  font-size: 1.2vw;
+  text-decoration: none;
+  text-decoration: none;
+  border: 1px solid rgba(255, 124, 228, 1);
+  border-bottom: 4px solid aliceblue;
+  border-left: 4px solid aliceblue;
+  border-radius: 10px;
+  padding: 0% 1%;
+  transition: transform 300ms ease-in-out;
+}
+
+.btnVoirAccessoires:visited {
+  color: rgba(255, 124, 228, 1);
+}
+
+.btnVoirAccessoires:hover {
+  transform: scale(1.05);
+}
+
+.btnVoirAccessoires:active {
+  transform: scale(0.95);
+  border: 1px solid aliceblue;
+}
+
+.presentation_accessoires div {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1%;
+}
+
+.presentation_accessoires p {
+  color: aliceblue;
+}
+
+.illustrations_page_DeguisementsAccessories {
+  width: 70%;
+  height: 450px;
+  border-radius: 10px;
+}
+
+.pasProduits {
+  display: none;
+}
+
+.pasAccessoires {
+  display: none;
+}
+
+.produits {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  margin: 0.3%;
+}
+
+.produit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px black;
+  margin: 3%;
+  transition: transform 300ms ease-in-out;
+}
+
+.produits img {
+  height: 600px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.produit div {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 0.5%;
+}
+
+.produit:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  opacity: 0.8;
+  transform: translateY(-1.5%);
+  box-shadow: 15px 15px 25px black;
+}
+
+/** Zone contact **/
+
+.presentation_contact {
+  background-image: url("./Illustrations/illustration_evenementiel.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 750px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.presentation_contact div {
+  color: aliceblue;
+  background-color: rgba(255, 124, 228, 0.5);
+  padding: 2%;
+  border-radius: 10px;
+  position: relative;
+  top: -15%;
+  margin-right: 10%;
+  margin-left: 3%;
+}
+
+/** Zone compositions de dragées **/
+
+.presentation_compositions {
+  display: flex;
+  background-image: url("./Illustrations/presentoire_dragee_coeur.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_compositions div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 3%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+.presentation_compositions p {
+  color: aliceblue;
+}
+
+#compositions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1%;
+}
+
+#compositions h2 {
+  color: aliceblue;
+  font-size: 3vw;
+}
+
+/** Zone chocolats artisanaux **/
+
+.presentation_chocolats {
+  display: flex;
+  background-image: url("./Illustrations/illustration_chocolat.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_chocolats div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 3%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+.presentation_chocolats h2 {
+  color: aliceblue;
+}
+
+#chocolats {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin: 2%;
+}
+
+.chocolats {
+  color: aliceblue;
+  font-size: 2vw;
+  text-align: justify;
+  padding-right: 3%;
+}
+
+.prix_chocolats img {
+  height: 500px;
+  width: auto;
+  margin-top: 1%;
+  border-radius: 10px;
+}
+
+/** Zone Produits régionnaux **/
+
+.presentation_produits_regionnaux {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./Illustrations/illustration_produits_regionnaux.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_produits_regionnaux h2 {
+  color: aliceblue;
+}
+
+.presentation_produits_regionnaux div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+/** Zone Sucrerie d'autrefois **/
+
+.presentation_sucreries_antan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./Illustrations/illustration_sucreries_antan.JPG");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_sucreries_antan h2 {
+  color: aliceblue;
+}
+
+.presentation_sucreries_antan div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+/** Zone gateaux en bonbons **/
+
+.presentation_gateaux_bonbons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./Illustrations/illustration_gateaux_bonbons.avif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_gateaux_bonbons h2 {
+  color: aliceblue;
+}
+
+.presentation_gateaux_bonbons div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+/** Zone cadeaux personnalisables **/
+
+.presentation_cadeaux_perso {
+  display: flex;
+  background-image: url("./Illustrations/illustration_cadeaux_perso.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 700px;
+}
+
+.presentation_cadeaux_perso div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 3%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+.presentation_cadeaux_perso h2 {
+  color: aliceblue;
+}
+
+/** Zone farce et attrape **/
+
+.presentation_farce_attrape {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./Illustrations/illustration_farce_attrape.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_farce_attrape h2 {
+  color: aliceblue;
+}
+
+.presentation_farce_attrape div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+/** Zone cadeaux **/
+
+.presentation_cadeaux {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./Illustrations/illustration_cadeaux.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_cadeaux h2 {
+  color: aliceblue;
+}
+
+.presentation_cadeaux div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+/** Zone machines alimentaires **/
+
+.presentation_machines {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./Illustrations/illustrations_machines-alimentaires.jpg");
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_machines h2 {
+  color: aliceblue;
+}
+
+.presentation_machines div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+.all_machines {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  margin: 1%;
+}
+
+.all_machines img {
+  width: 100%;
+  height: 550px;
+  border-radius: 10px;
+  transition: transform 300ms ease-in-out;
+  box-shadow: 8px 8px 20px black;
+}
+
+.all_machines img:hover {
+  opacity: 0.8;
+  transform: translateY(-1.5%);
+  box-shadow: 11px 11px 20px black;
+}
+
+/** Zone estaminet **/
+
+.presentation_jeux {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./Illustrations/illustration_evenementiel.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_jeux h2 {
+  color: aliceblue;
+}
+
+.presentation_jeux div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+.all_jeux {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  margin: 1%;
+}
+
+.all_jeux img {
+  width: 100%;
+  height: 550px;
+  border-radius: 10px;
+  transition: transform 300ms ease-in-out;
+  box-shadow: 8px 8px 20px black;
+}
+
+.all_jeux img:hover {
+  opacity: 0.8;
+  transform: translateY(-1.5%);
+  box-shadow: 11px 11px 20px black;
+}
+
+/** Zone chateaux gonflables **/
+
+.presentation_chateaux_gonflables {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("./Illustrations/illustration_chateaux_gonflables.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 550px;
+}
+
+.presentation_chateaux_gonflables h2 {
+  color: aliceblue;
+}
+
+.presentation_chateaux_gonflables div {
+  background-color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 2%;
+  margin-right: 30%;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  border-radius: 10px;
+  padding: 0% 2%;
+}
+
+.tous_les_chateaux {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  margin: 1%;
+}
+
+.tous_les_chateaux img {
+  width: 100%;
+  height: 650px;
+  border-radius: 10px;
+  transition: transform 300ms ease-in-out;
+  box-shadow: 8px 8px 20px black;
+}
+
+.tous_les_chateaux img:hover {
+  opacity: 0.8;
+  transform: translateY(-1.5%);
+  box-shadow: 11px 11px 20px black;
+}
+
+.chateaux {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 3%;
+  padding-bottom: 2%;
+}
+
+.viewerChateaux {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.viewerChateaux div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  background-color: rgba(255, 124, 228, 0.6);
+  border-radius: 10px;
+  margin: 5%;
+}
+
+.viewerChateaux h2 {
+  font-size: 2.5vw;
+}
+
+.viewerChateaux p {
+  font-size: 1.5vw;
+}
+
+.viewerChateaux img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+#images_chateaux {
+  display: grid;
+  grid-template-columns: 600px 350px;
+  grid-template-rows: 250px 250px;
+  grid-gap: 10px;
+}
+
+#image1_chateaux {
+  grid-row-start: 1;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+#image2_chateaux {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+#image3_chateaux {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+/** Zone médias queries **/
+
+@media screen and (max-width: 900px) {
+
+  h1 {
+    font-size: 5vw;
   }
-  to {
-    transform: rotate(360deg);
+
+  h2 {
+    font-size: 3vw;
+  }
+
+  .all_products {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    margin: 1%;
+  }
+
+  .produits {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    margin: 0.3%;
+  }
+
+  .produits img {
+    height: 250px;
+  }
+
+  .all_products img {
+    height: 200px;
+  }
+
+  .products {
+    margin: 2%;
+  }
+
+  #viewer_img {
+    height: 400px;
+  }
+
+  .viewer p {
+    font-size: 5vw;
+    text-align: center;
+  }
+
+  .btn {
+    box-shadow: 2px 2px 10px black;
+    border-radius: 10px;
+    transition: transform 300ms ease-in-out;
+    font-size: 3vw;
+    font-family: 'Kalam', cursive;
+    background-color: aliceblue;
+    color: rgba(255, 124, 228, 1);
+    margin: 1%;
+  }
+
+  /** Zone Headers */
+
+  /** Header Home */
+
+  #HeaderHome {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: auto auto auto 600px;
+  }
+
+  #HeaderHome #banniere_droite {
+    height: 50px;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-position: left;
+  }
+
+  #HeaderHome #banniere_gauche {
+    height: 70px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-position: right;
+  }
+
+  #HeaderHome #logo {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #HeaderHome nav {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+
+  .bienvenue {
+    grid-row-start: 4;
+    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 10%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+
+  /** Header **/
+
+  #header {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: auto auto auto;
+    width: 100%;
+    height: auto;
+  }
+
+  #logo {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #header nav {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+  }
+
+  .active {
+    font-size: 3vw;
+  }
+
+  .arrows img {
+    width: 20px;
+  }
+
+  #banniere_droite {
+    height: 70px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    background-position: left;
+  }
+
+  #banniere_gauche {
+    height: 70px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    background-position: right;
+  }
+
+  .logo img {
+    margin: 0%;
+    width: 70%;
+  }
+
+  .dropdown-content a {
+    font-size: 3vw;
+  }
+
+  .dropdown-content {
+    background-color: rgba(255, 124, 228, 0.8);
+    width: auto;
+    margin-top: 4px;
+  }
+
+  .dropdown-content a {
+    font-size: 3vw;
+    color: rgba(240, 248, 255, 1);
+    display: inline-block;
+    text-decoration-color: rgba(240, 248, 255, 0);
+    width: auto;
+    padding: 12px 16px;
+  }
+
+  .dropdown:hover .dropdown-content {
+    width: auto;
+  }
+
+  .dropdown-content a:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  /** Zone gateaux bonbons **/
+
+  .presentation_gateaux_bonbons {
+    height: 250px;
+  }
+
+  /** Zone Sucrerie d'autrefois **/
+
+  .presentation_sucreries_antan {
+    height: 250px;
+  }
+
+  /** Zone Produits régionnaux **/
+
+  .presentation_produits_regionnaux {
+    height: 250px;
+  }
+
+  /** Zone compositions de dragee **/
+
+  .presentation_compositions div {
+    margin-top: 13%;
+    margin-bottom: 13%;
+  }
+
+  .presentation_compositions p {
+    color: aliceblue;
+    font-size: 3vw;
+  }
+
+  #compositions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1%;
+  }
+
+  #compositions h2 {
+    color: aliceblue;
+    font-size: 3vw;
+  }
+
+  .presentation_compositions {
+    height: 250px;
+  }
+
+  /** Zone chocolats artisanaux **/
+
+  .presentation_chocolats {
+    height: 250px;
+  }
+
+  .presentation_chocolats div {
+    margin-top: 15%;
+    margin-bottom: 15%;
+  }
+
+  #chocolats {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 2%;
+  }
+
+  .chocolats {
+    color: aliceblue;
+    font-size: 3vw;
+  }
+
+  .prix_chocolats img {
+    height: 150px;
+    border-radius: 10px;
+  }
+
+  /** Zone cadeaux personnalisables **/
+
+  .presentation_cadeaux_perso {
+    height: 400px;
+  }
+
+  .presentation_cadeaux_perso div {
+    margin-left: 3%;
+    margin-right: 30%;
+    margin-top: 30%;
+    margin-bottom: 30%;
+  }
+
+  /** Zone farce et attrape **/
+
+  .presentation_farce_attrape {
+    height: 250px;
+  }
+
+  /** Zone cadeaux **/
+
+  .presentation_cadeaux {
+    height: 250px;
+  }
+
+  /** Zone deguisements et accessoires */
+
+  .presentation_deguisements p {
+    font-size: 3vw;
+  }
+
+  .presentation_accessoires {
+    border-bottom: 1px solid rgba(255, 124, 228, 1);
+  }
+
+  .presentation_accessoires p {
+    font-size: 3vw;
+  }
+
+  .illustrations_page_DeguisementsAccessories {
+    height: 200px;
+  }
+
+  .btnVoirDeguisements {
+    font-size: 2vw;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+  }
+
+  .btnVoirAccessoires {
+    font-size: 2vw;
+    border-bottom: 2px solid aliceblue;
+    border-left: 2px solid aliceblue;
+  }
+
+  /** Zone machines alimentaires **/
+
+  .presentation_machines {
+    height: 250px;
+  }
+
+  .all_machines img {
+    height: 200px;
+  }
+
+  /** Zone estaminet **/
+
+  .presentation_jeux {
+    height: 200px;
+  }
+
+  .presentation_jeux div {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 2%;
+    margin-right: 30%;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    border-radius: 10px;
+    padding: 0% 2%;
+  }
+
+  .all_jeux {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    margin: 1%;
+  }
+
+  .all_jeux img {
+    height: 250px;
+  }
+
+  /** Zone chateaux gonflables **/
+
+  .presentation_chateaux_gonflables {
+    height: 200px;
+  }
+
+  .tous_les_chateaux {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
+
+  #chateaux_template_img {
+    height: 250px;
+  }
+
+  #images_chateaux {
+    display: grid;
+    grid-template-columns: 150px 150px;
+    grid-template-rows: 250px 150px;
+    grid-gap: 10px;
+  }
+
+  .viewerChateaux h2 {
+    font-size: 6vw;
+  }
+
+  .viewerChateaux p {
+    font-size: 3vw;
+  }
+
+  #image1_chateaux {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+
+  #image2_chateaux {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+
+  #image3_chateaux {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+
+  /** Zone globale **/
+  h1 {
+    font-size: 5vw;
+  }
+
+  h2 {
+    font-size: 3vw;
+  }
+
+  .produits img {
+    height: 600px;
+  }
+
+  .produits img {
+    height: 600px;
+  }
+
+  /** Zone Headers */
+
+  /** Header Home */
+
+  #HeaderHome {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: auto auto auto 600px;
+  }
+
+  #HeaderHome #banniere_droite {
+    height: 200px;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-position: left;
+  }
+
+  #HeaderHome #banniere_gauche {
+    height: 200px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-position: right;
+  }
+
+  #HeaderHome #logo {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #HeaderHome nav {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+
+  .bienvenue {
+    grid-row-start: 4;
+    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 10%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+
+  /** Header **/
+
+  #header {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: 100px 100px auto;
+    width: 100%;
+  }
+
+  #logo {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #header nav {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+  }
+
+  .active {
+    font-size: 2.3vw;
+  }
+
+  #banniere_droite {
+    height: 200px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    background-position: bottom;
+    background-position: left;
+  }
+
+  #banniere_gauche {
+    height: 200px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    background-position: top;
+    background-position: right;
+  }
+
+  .logo img {
+    margin: 0%;
+  }
+
+  .dropdown-content {
+    margin-top: 8px;
+  }
+
+  .dropdown-content a {
+    font-size: 2.3vw;
+  }
+
+  /** Zone templates et modales **/
+
+  .all_products {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    margin: 1%;
+  }
+
+  .all_products img {
+    height: 500px;
+  }
+
+  .products {
+    margin: 2%;
+  }
+
+  #viewer_img {
+    height: 800px;
+  }
+
+  .viewer p {
+    font-size: 5vw;
+    text-align: center;
+  }
+
+
+  /** Zone gateaux bonbons **/
+
+  .presentation_gateaux_bonbons {
+    height: 550px;
+  }
+
+  /** Zone Sucrerie d'autrefois **/
+
+  .presentation_sucreries_antan {
+    height: 500px;
+  }
+
+  /** Zone Produits régionnaux **/
+
+  .presentation_produits_regionnaux {
+    height: 500px;
+  }
+
+  /** Zone compositions de dragee **/
+
+  .presentation_compositions div {
+    margin-top: 9%;
+    margin-bottom: 9%;
+    padding: 0% 2%;
+  }
+
+  .presentation_compositions p {
+    color: aliceblue;
+    font-size: 2.5vw;
+  }
+
+  #compositions h2 {
+    color: aliceblue;
+    font-size: 3vw;
+  }
+
+  .presentation_compositions {
+    height: 500px;
+  }
+
+  /** Zone chocolats artisanaux **/
+
+  .presentation_chocolats {
+    height: 500px;
+  }
+
+  .presentation_chocolats div {
+    margin-top: 7%;
+    margin-bottom: 7%;
+  }
+
+  .chocolats {
+    font-size: 3vw;
+  }
+
+  .prix_chocolats img {
+    height: 400px;
+  }
+
+  /** Zone cadeaux personnalisables **/
+
+  .presentation_cadeaux_perso {
+    height: 800px;
+  }
+
+  .presentation_cadeaux_perso div {
+    margin-left: 3%;
+    margin-right: 30%;
+    margin-top: 18%;
+    margin-bottom: 18%;
+  }
+
+  /** Zone farce et attrape **/
+
+  .presentation_farce_attrape {
+    height: 500px;
+  }
+
+  /** Zone cadeaux **/
+
+  .presentation_cadeaux {
+    height: 550px;
+  }
+
+  /** Zone deguisements et accessoires */
+
+  .presentation_deguisements p {
+    font-size: 3vw;
+  }
+
+  .presentation_accessoires p {
+    font-size: 3vw;
+  }
+
+  .presentation_accessoires {
+    border-bottom: 2px solid rgba(255, 124, 228, 1);
+  }
+
+  .illustrations_page_DeguisementsAccessories {
+    height: 550px;
+  }
+
+  .btnVoirDeguisements {
+    font-size: 2vw;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+  }
+
+  .btnVoirAccessoires {
+    font-size: 2vw;
+    border-bottom: 2px solid aliceblue;
+    border-left: 2px solid aliceblue;
+  }
+
+  /** Zone machines alimentaires **/
+
+  .presentation_machines {
+    height: 500px;
+  }
+
+  .all_machines img {
+    height: 400px;
+  }
+
+  /** Zone estaminet **/
+
+  .presentation_jeux {
+    height: 550px;
+  }
+
+  .all_jeux {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .all_jeux img {
+    height: 550px;
+  }
+
+  /** Zone chateaux gonflables **/
+
+  .presentation_chateaux_gonflables {
+    height: 450px;
+  }
+
+  #chateaux_template_img {
+    height: 450px;
+  }
+
+  .tous_les_chateaux {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    margin: 1%;
+  }
+
+  #images_chateaux {
+    display: grid;
+    grid-template-columns: 350px 350px;
+    grid-template-rows: 400px 250px;
+    grid-gap: 5px;
+  }
+
+  .viewerChateaux h2 {
+    font-size: 6vw;
+  }
+
+  .viewerChateaux p {
+    font-size: 3vw;
+  }
+}
+
+@media (min-width: 430px) and (max-width: 767px) {
+
+  /** Zone globale **/
+  h1 {
+    font-size: 5vw;
+  }
+
+  h2 {
+    font-size: 3vw;
+  }
+
+  .produits img {
+    height: 350px;
+  }
+
+  .produits img {
+    height: 350px;
+  }
+
+  /** Zone Headers */
+
+  /** Header Home */
+
+  #HeaderHome {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: auto auto auto 600px;
+  }
+
+  #HeaderHome #banniere_droite {
+    height: 100%;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-position: left;
+  }
+
+  #HeaderHome #banniere_gauche {
+    height: 100%;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-position: right;
+  }
+
+  #HeaderHome #logo {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #HeaderHome nav {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 4;
+  }
+
+  .bienvenue {
+    grid-row-start: 4;
+    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 10%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+
+  /** Header **/
+
+  #header {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-template-rows: auto auto auto;
+    width: 100%;
+  }
+
+  #logo {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #header nav {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+  }
+
+  .active {
+    font-size: 3vw;
+  }
+
+  #banniere_droite {
+    height: 130px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    background-position: left;
+  }
+
+  #banniere_gauche {
+    height: 160px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    background-position: right;
+  }
+
+  .logo img {
+    margin: 0%;
+  }
+
+  .dropdown-content {
+    margin-top: 8px;
+  }
+
+  .dropdown-content a {
+    font-size: 3vw;
+  }
+
+  /** Zone templates et modales **/
+
+  .all_products {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    margin: 1%;
+  }
+
+  .all_products img {
+    height: 300px;
+  }
+
+  .products {
+    margin: 2%;
+  }
+
+  #viewer_img {
+    height: 500px;
+  }
+
+  .viewer p {
+    font-size: 5vw;
+    text-align: center;
+  }
+
+  /** Zone gateaux bonbons **/
+
+  .presentation_gateaux_bonbons {
+    height: 350px;
+  }
+
+  /** Zone Sucrerie d'autrefois **/
+
+  .presentation_sucreries_antan {
+    height: 500px;
+  }
+
+  /** Zone Produits régionnaux **/
+
+  .presentation_produits_regionnaux {
+    height: 500px;
+  }
+
+  /** Zone compositions de dragee **/
+
+  .presentation_compositions div {
+    margin-top: 9%;
+    margin-bottom: 9%;
+    padding: 0% 2%;
+  }
+
+  .presentation_compositions p {
+    color: aliceblue;
+    font-size: 2.5vw;
+  }
+
+  #compositions h2 {
+    color: aliceblue;
+    font-size: 3vw;
+  }
+
+  .presentation_compositions {
+    height: 500px;
+  }
+
+  /** Zone chocolats artisanaux **/
+
+  .presentation_chocolats {
+    height: 500px;
+  }
+
+  .presentation_chocolats div {
+    margin-top: 7%;
+    margin-bottom: 7%;
+  }
+
+  .chocolats {
+    font-size: 3vw;
+  }
+
+  .prix_chocolats img {
+    height: 400px;
+  }
+
+  /** Zone cadeaux personnalisables **/
+
+  .presentation_cadeaux_perso {
+    height: 800px;
+  }
+
+  .presentation_cadeaux_perso div {
+    margin-left: 3%;
+    margin-right: 30%;
+    margin-top: 18%;
+    margin-bottom: 18%;
+  }
+
+  /** Zone farce et attrape **/
+
+  .presentation_farce_attrape {
+    height: 500px;
+  }
+
+  /** Zone cadeaux **/
+
+  .presentation_cadeaux {
+    height: 550px;
+  }
+
+  /** Zone deguisements et accessoires */
+
+  .presentation_deguisements p {
+    font-size: 3vw;
+  }
+
+  .presentation_accessoires p {
+    font-size: 3vw;
+  }
+
+  .presentation_accessoires {
+    border-bottom: 2px solid rgba(255, 124, 228, 1);
+  }
+
+  .illustrations_page_DeguisementsAccessories {
+    height: 550px;
+  }
+
+  .btnVoirDeguisements {
+    font-size: 2vw;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+  }
+
+  .btnVoirAccessoires {
+    font-size: 2vw;
+    border-bottom: 2px solid aliceblue;
+    border-left: 2px solid aliceblue;
+  }
+
+  /** Zone machines alimentaires **/
+
+  .presentation_machines {
+    height: 500px;
+  }
+
+  .all_machines img {
+    height: 400px;
+  }
+
+  /** Zone estaminet **/
+
+  .presentation_jeux {
+    height: 550px;
+  }
+
+  .all_jeux {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .all_jeux img {
+    height: 550px;
+  }
+
+  /** Zone chateaux gonflables **/
+
+  .presentation_chateaux_gonflables {
+    height: 450px;
+  }
+
+  #chateaux_template_img {
+    height: 450px;
+  }
+
+  .tous_les_chateaux {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    margin: 1%;
+  }
+
+  #images_chateaux {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 300px 150px;
+    grid-gap: 5px;
+  }
+
+  .viewerChateaux h2 {
+    font-size: 7vw;
+  }
+
+  .viewerChateaux p {
+    font-size: 4vw;
+  }
+}
+
+@media (max-width: 380px) {
+  .arrows img {
+    width: 10px;
+  }
+}
+
+@media (max-width: 300px) {
+  #images_chateaux {
+    display: grid;
+    grid-template-columns: 120px 120px;
+    grid-template-rows: 150px 150px;
+    grid-gap: 5px;
+  }
+
+  .viewerChateaux h2 {
+    font-size: 9vw;
+  }
+
+  .viewerChateaux p {
+    font-size: 6vw;
+  }
+}
+
+@media (max-width: 1400px) and (min-width: 950px) {
+  #images_chateaux {
+    display: grid;
+    grid-template-columns: 450px 450px;
+    grid-template-rows: 250px 250px;
+    grid-gap: 5px;
+  }
+}
+
+@media (max-width: 1400px) and (min-width: 1020px) {
+  #images_chateaux {
+    display: grid;
+    grid-template-columns: 350px 350px;
+    grid-template-rows: 150px 150px;
+    grid-gap: 5px;
+  }
+
+  .viewerChateaux h2 {
+    font-size: 3vw;
+  }
+
+  .viewerChateaux p {
+    font-size: 1.5vw;
+  }
+}
+
+@media (max-width: 1400px) and (orientation: landscape) {
+
+  #viewer_img {
+    height: fit-content;
+  }
+
+  .viewer div {
+    width: 35%;
+    height: 100%;
+  }
+
+  .viewer p {
+    font-size: 2vw;
+  }
+
+  .btn {
+    font-size: 2vw;
+  }
+}
+
+@media (max-width: 1000px) and (orientation: landscape) {
+
+  #viewer_img {
+    height: fit-content;
+  }
+
+  .viewer div {
+    width: 25%;
+    height: 100%;
+  }
+
+  .viewer p {
+    font-size: 1.5vw;
+  }
+
+  .btn {
+    font-size: 1.5vw;
+  }
+
+  #images_chateaux {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 150px;
+    grid-gap: 5px;
+  }
+
+  .viewerChateaux h2 {
+    font-size: 3vw;
+  }
+
+  .viewerChateaux p {
+    font-size: 2vw;
+  }
+
+  #image1_chateaux {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+
+  #image2_chateaux {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
+
+  #image3_chateaux {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 3;
+    grid-column-end: 4;
+  }
+}
+
+@media (max-width: 800px) and (orientation: landscape) {
+
+  #viewer_img {
+    height: fit-content;
+  }
+
+  .viewer div {
+    width: 25%;
+    height: 100%;
+  }
+
+  .viewer p {
+    font-size: 2vw;
+  }
+
+  .btn {
+    font-size: 2vw;
+  }
+}
+
+@media (max-width: 750px) and (orientation: landscape) {
+
+  #viewer_img {
+    height: fit-content;
+  }
+
+  .viewer div {
+    width: 25%;
+    height: 100%;
+  }
+
+  .viewer p {
+    font-size: 1.7vw;
+  }
+
+  .btn {
+    font-size: 1.7vw;
+  }
+}
+
+@media (max-width: 720px) and (orientation: landscape) {
+
+  #viewer_img {
+    height: fit-content;
+  }
+
+  .viewer div {
+    width: 30%;
+    height: 100%;
+  }
+
+  .viewer p {
+    font-size: 2vw;
+  }
+
+  .btn {
+    font-size: 2vw;
+  }
+}
+
+@media (max-width: 700px) and (orientation: landscape) {
+
+  #viewer_img {
+    height: fit-content;
+  }
+
+  .viewer div {
+    width: 25%;
+    height: 100%;
+  }
+
+  .viewer p {
+    font-size: 1.7vw;
+  }
+
+  .btn {
+    font-size: 1.7vw;
+  }
+
+  #images_chateaux {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 100px;
+    grid-gap: 5px;
+  }
+
+  .viewerChateaux h2 {
+    font-size: 3vw;
+  }
+
+  .viewerChateaux p {
+    font-size: 2vw;
+  }
+}
+
+@media (max-width: 600px) and (orientation: landscape) {
+
+  #viewer_img {
+    height: fit-content;
+  }
+
+  .viewer div {
+    width: 25%;
+    height: 100%;
+  }
+
+  .viewer p {
+    font-size: 1.7vw;
+  }
+
+  .btn {
+    font-size: 1.7vw;
   }
 }
