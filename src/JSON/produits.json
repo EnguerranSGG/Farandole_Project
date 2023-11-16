@@ -1,0 +1,849 @@
+{
+  "produits": {
+    "deguisements": [
+      {
+        "nom": "Déguisement de Père Noël",
+        "catégorie": "Homme",
+        "style": "Noël",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_pere_noel.avif"
+      },
+      {
+        "nom": "Déguisement de reine",
+        "catégorie": "Femme",
+        "style": "Reine / Princesse / Médiéval",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_reine.avif"
+      },
+      {
+        "nom": "Déguisement de hippie",
+        "catégorie": "Femme",
+        "style": "Hippie / 70's / Années 70 / Disco",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_hippie_femme.avif"
+      },
+      {
+        "nom": "Déguisement de roi",
+        "catégorie": "Homme",
+        "style": "Roi / Prince / Médiéval",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_roi.avif"
+      },
+      {
+        "nom": "Déguisement de reine",
+        "catégorie": "Femme",
+        "style": "Reine / Princesse / Médiéval",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_reine_2.avif"
+      },
+      {
+        "nom": "Déguisement de chevalier",
+        "catégorie": "Homme",
+        "style": "Roi / Chevalier / Médiéval / Croisé",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_chevalier.avif"
+      },
+      {
+        "nom": "Déguisement de pirate",
+        "catégorie": "Homme",
+        "style": "Pirate / Corsaire",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_pirate.avif"
+      },
+      {
+        "nom": "Déguisement robe de soirée",
+        "catégorie": "Femme",
+        "style": "Robe / Soirée / Nouvelle Année / Nouvel An",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_robe_soiree.avif"
+      },
+      {
+        "id": 9,
+        "nom": "Déguisement robe de soirée films noirs",
+        "catégorie": "Femme",
+        "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_films_noirs_femme_1.avif"
+      },
+      {
+        "nom": "Déguisement robe de soirée films noirs",
+        "catégorie": "Femme",
+        "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_films_noirs_femme_2.avif"
+      },
+      {
+        "nom": "Déguisement robe de soirée films noirs",
+        "catégorie": "Femme",
+        "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_films_noirs_femme_3.avif"
+      },
+      {
+        "nom": "Déguisement robe de soirée films noirs",
+        "catégorie": "Femme",
+        "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An / Disco",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_films_noirs_femme_4.avif"
+      },
+      {
+        "nom": "Déguisement de pharaon",
+        "catégorie": "Femme",
+        "style": "Robe / Égyptien / Pharaon",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_pharaon.avif"
+      },
+      {
+        "nom": "Déguisement de vampire",
+        "catégorie": "Femme",
+        "style": "Robe / Vampire / Halloween / Dracula",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_vampire_femme.avif"
+      },
+      {
+        "id": 15,
+        "nom": "Déguisement d'infirmière",
+        "catégorie": "Femme",
+        "style": "Robe / Infirmière",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_infirmiere.avif"
+      },
+      {
+        "nom": "Déguisement robe style 70's",
+        "catégorie": "Femme",
+        "style": "Hippie / 70's / Années 70 / Disco",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_70s_femme.avif"
+      },
+      {
+        "nom": "Déguisement d'infirmière",
+        "catégorie": "Femme",
+        "style": "Robe / Infirmière",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_infirmiere_2.avif"
+      },
+      {
+        "nom": "Déguisement de loup-garou",
+        "catégorie": "Homme",
+        "style": "Loup-garou / Loup garou / Halloween",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_loup_garou.avif"
+      },
+      {
+        "nom": "Déguisement Marilyn Monroe",
+        "catégorie": "Femme",
+        "style": "Robe / Marilyn Monroe / Soirée",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_marilyn_monroe.avif"
+      },
+      {
+        "nom": "Déguisement tenue style 70's",
+        "catégorie": "Femme",
+        "style": "Hippie / 70's / Années 70 / Disco",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_70s_femme_2.avif"
+      },
+      {
+        "nom": "Déguisement de savant fou",
+        "catégorie": "Homme",
+        "style": "Savant fou / Chimiste / Halloween",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_savant_fou.avif"
+      },
+      {
+        "nom": "Déguisement de prisonnier",
+        "catégorie": "Homme",
+        "style": "Prisonnier / Évadé / Halloween",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_prisonnier.avif"
+      },
+      {
+        "nom": "Déguisement de César",
+        "catégorie": "Homme",
+        "style": "César / Romain",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_cesar.avif"
+      },
+      {
+        "nom": "Déguisement de pirate",
+        "catégorie": "Femme",
+        "style": "Pirate / Corsaire",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_pirate_femme.avif"
+      },
+      {
+        "nom": "Déguisement de prisonnier",
+        "catégorie": "Homme",
+        "style": "Prisonnier / Évadé / Halloween",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_prisonnier_2.avif"
+      },
+      {
+        "nom": "Déguisement d'écossais",
+        "catégorie": "Homme",
+        "style": "Écossais / St Patrick / Kilt",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_ecossais.avif"
+      },
+      {
+        "nom": "Déguisement de braqueur",
+        "catégorie": "Homme",
+        "style": "Braqueur / Squid Game / La casa de papel",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_braqueur.avif"
+      },
+      {
+        "nom": "Déguisement de ballerine",
+        "catégorie": "Femme",
+        "style": "Robe / Ballerine / Ballet / Soirée / Nouvelle Année / Nouvel An",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_ballerine.avif"
+      },
+      {
+        "nom": "Déguisement de sorcière",
+        "catégorie": "Femme",
+        "style": "Robe / Sorcière / Halloween",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_sorciere.avif"
+      },
+      {
+        "nom": "Déguisement de clown",
+        "catégorie": "Femme",
+        "style": "Clown / Cirque / Halloween",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_clown_1.avif"
+      },
+      {
+        "nom": "Déguisement de pilote",
+        "catégorie": "Homme",
+        "style": "Pilote / Avion",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_pilote.avif"
+      },
+      {
+        "nom": "Déguisement robe disco",
+        "catégorie": "Femme",
+        "style": "Robe / Disco / Hippie / 70's / Années 70",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_robe_disco.avif"
+      },
+      {
+        "nom": "Déguisement de socière",
+        "catégorie": "Enfant",
+        "style": "Robe / Sorcière / Halloween",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_sorciere_enfant.avif"
+      },
+      {
+        "nom": "Déguisement de clown",
+        "catégorie": "Enfant",
+        "style": "Clown / Cirque / Halloween",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_clown_enfant.avif"
+      },
+      {
+        "nom": "Déguisement exploratrice galactique",
+        "catégorie": "Femme",
+        "style": "Espace / Galactique / Exploratrice",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_galactique_femme.avif"
+      },
+      {
+        "nom": "Déguisement de ninja",
+        "catégorie": "Homme",
+        "style": "Ninja / Samouraï / Asiatique",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_ninja.avif"
+      },
+      {
+        "nom": "Déguisement robe asiatique",
+        "catégorie": "Femme",
+        "style": "Ninja / Asiatique",
+        "prix": 30,
+        "image": "../Produits/Deguisements/deguisement_robe_asiatique.avif"
+      }
+    ],
+    "accessoires": [
+      {
+        "nom": "Capsule de faux sang",
+        "catégorie": "Maquillage",
+        "prix": 30,
+        "image": "../Produits/Accessoires/accessoires_capsules_sang.avif"
+      },
+      {
+        "nom": "Spray pour cheveux couleur rouge",
+        "catégorie": "Cheveux",
+        "prix": 30,
+        "image": "../Produits/Accessoires/accessoires_spray_cheveux_rouges.avif"
+      },
+      {
+        "nom": "Spray pour cheveux couleur noir",
+        "catégorie": "Cheveux",
+        "prix": 30,
+        "image": "../Produits/Accessoires/accessoires_spray_cheveux_noir.avif"
+      },
+      {
+        "nom": "Spray pour cheveux couleur bleu",
+        "prix": 30,
+        "catégorie": "Cheveux",
+        "image": "../Produits/Accessoires/accessoires_spray_cheveux_bleu.avif"
+      },
+      {
+        "nom": "Kit de maquillage de clown",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_clown.avif"
+      },
+      {
+        "nom": "Kit de maquillage de pirate",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_pirate.avif"
+      },
+      {
+        "nom": "Kit de maquillage de diable",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_diable.avif"
+      },
+      {
+        "nom": "Kit de maquillage de vampire",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_vampire.avif"
+      },
+      {
+        "nom": "Kit de maquillage de faucheuse",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_faucheuse.avif"
+      },
+      {
+        "nom": "Collier de faux sang",
+        "prix": 30,
+        "catégorie": "Collier",
+        "image": "../Produits/Accessoires/collier_faux_sang.avif"
+      },
+      {
+        "nom": "Palette de maquillage",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/palette_maquillage.avif"
+      },
+      {
+        "nom": "Crayons de maquillage phosphorescent",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/crayons_maquillage_phosphorescent.avif"
+      },
+      {
+        "nom": "Maquillage arc-en-ciel",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/maquillage_arc_en_ciel.avif"
+      },
+      {
+        "nom": "Kit maquillage noir et blanc",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_noir_et_blanc.avif"
+      },
+      {
+        "nom": "Kit maquillage rouge et noir",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_rouge_et_noir.avif"
+      },
+      {
+        "nom": "Kit maquillage rouge et noir",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_rouge_et_noir.avif"
+      },
+      {
+        "nom": "Tatouage brûlure au visage",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/tatouage_brulure_visage.avif"
+      },
+      {
+        "nom": "Kit de maquillage de sorcière",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_sorciere.avif"
+      },
+      {
+        "nom": "Kit de maquillage de zombie",
+        "prix": 30,
+        "catégorie": "Maquillage",
+        "image": "../Produits/Accessoires/kit_maquillage_zombie.avif"
+      },
+      {
+        "nom": "Lentilles noir absolu",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/lentilles_noir_absolu.avif"
+      },
+      {
+        "nom": "Lentilles rouges yeux de loup",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/lentilles_rouges_yeux_de_loup.avif"
+      },
+      {
+        "nom": "Lentilles bleues arctiques",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/lentilles_bleues_arctiques.avif"
+      },
+      {
+        "nom": "Maquillage rose phosphorescent",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/maquillage_rose_phosphorescent.avif"
+      },
+      {
+        "nom": "Maquillage noir",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/maquillage_noir.avif"
+      },
+      {
+        "nom": "Maquillage drapeau français",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/maquillage_drapeau_francais.avif"
+      },
+      {
+        "nom": "Maquillage vert phosphorescent",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/maquillage_vert_phosphorescent.avif"
+      },
+      {
+        "nom": "Maquillage orange phosphorescent",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/maquillage_orange_phosphorescent.avif"
+      },
+      {
+        "nom": "Maquillage jaune phosphorescent",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/maquillage_jaune_phosphorescent.avif"
+      },
+      {
+        "nom": "Palette de maquillage phosphorescent",
+        "prix": 30,
+        "catégorie": "Lentilles",
+        "image": "../Produits/Accessoires/palette_maquillage_phosphorescent.avif"
+      }
+    ],
+    "compositions_dragees": [
+      {
+        "nom": "Composition bébé et grande roue en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_dragee_bebe_roue.avif"
+      },
+      {
+        "nom": "Composition panda et grande roue en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_dragee_panda_roue.avif"
+      },
+      {
+        "nom": "Composition wrecking chair en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_wrecking_chair.avif"
+      },
+      {
+        "nom": "Composition voiture en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_dragee_voiture_osier.avif"
+      },
+      {
+        "nom": "Composition en soier bleue",
+        "image": "../Produits/Compositions_dragees/presentoire_dragees_bleu.avif"
+      },
+      {
+        "nom": "Composition licorne en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_dragees_licorne.avif"
+      },
+      {
+        "nom": "Composition grande roue en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_grande_roue.avif"
+      },
+      {
+        "nom": "Composition licornes et fées en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_licornes_fees.avif"
+      },
+      {
+        "nom": "Composition panda et manège en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_manege_panda.avif"
+      },
+      {
+        "nom": "Composition licorne et mongolfière en osier",
+        "image": "../Produits/Compositions_dragees/presentoire_mongolfiere_licorne.avif"
+      }
+    ],
+    "gateaux_bonbons": [
+      {
+        "nom": "Gateau en bonbons d'anniversaire",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_anniversaire.jpg"
+      },
+      {
+        "nom": "Gateau en bonbons ballon de foot",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_ballon.jpg"
+      },
+      {
+        "nom": "Gateau en bonbons barbie",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_barbie.jpg"
+      },
+      {
+        "nom": "Gateau en bonbons bébé",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_bebe.avif"
+      },
+      {
+        "nom": "Gateau en bonbons citrouille",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_citrouille.avif"
+      },
+      {
+        "nom": "Gateau en bonbons licorne",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_licorne.avif"
+      },
+      {
+        "nom": "Gateau en bonbons madame",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_madame.avif"
+      },
+      {
+        "nom": "Gateau en bonbons madame",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_mariés.avif"
+      },
+      {
+        "nom": "Gateau en bonbons poisson",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_poisson.avif"
+      },
+      {
+        "nom": "Gateau en bonbons spiderman",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_spiderman.avif"
+      },
+      {
+        "nom": "Gateau en bonbons roi lion",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_roi_lion.avif"
+      },
+      {
+        "nom": "Gateau en bonbons Minnie",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_minnie.avif"
+      },
+      {
+        "nom": "Gateau en bonbons barbie",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_barbie_bleu.avif"
+      },
+      {
+        "nom": "Gateau en bonbons barbie",
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_barbie_photo.avif"
+      },
+      {
+        "nom": "Composition de petits gateaux sur le thème du foot",
+        "image": "../Produits/Gateaux_bonbons/compo_gateaux_1.avif"
+      },
+      {
+        "nom": "Composition de petits gateaux en forme de coeur",
+        "image": "../Produits/Gateaux_bonbons/compo_gateau_2.avif"
+      },
+      {
+        "nom": "Composition de petits gateaux initial",
+        "image": "../Produits/Gateaux_bonbons/compo_gateaux_3.avif"
+      }
+    ],
+    "sucreries_antan": [
+      {
+        "nom": "Bois de réglisse",
+        "image": "../Produits/sucrecries_antan/bois_reglisse.JPG"
+      },
+      {
+        "nom": "Car en sac",
+        "image": "../Produits/sucrecries_antan/car_en_sac.JPG"
+      },
+      {
+        "nom": "Bonbons à la violette",
+        "image": "../Produits/sucrecries_antan/bonbons_violettes.JPG"
+      },
+      {
+        "nom": "Boules coco",
+        "image": "../Produits/sucrecries_antan/boules_coco.JPG"
+      },
+      {
+        "nom": "Cacahuètes Kubli",
+        "image": "../Produits/sucrecries_antan/cacahuetes_kubli.JPG"
+      },
+      {
+        "nom": "Colliers Dextrose",
+        "image": "../Produits/sucrecries_antan/collier_dextrose.JPG"
+      },
+      {
+        "nom": "Sucettes Dextrose",
+        "image": "../Produits/sucrecries_antan/sucettes_dextrose.JPG"
+      },
+      {
+        "nom": "Fondants au sucre",
+        "image": "../Produits/sucrecries_antan/fondants_aux_sucres.JPG"
+      },
+      {
+        "nom": "Fraises mallow",
+        "image": "../Produits/sucrecries_antan/fraises_mallow.JPG"
+      },
+      {
+        "nom": "Frizzy pazzy",
+        "image": "../Produits/sucrecries_antan/frizzy_pazzy.JPG"
+      },
+      {
+        "nom": "Guimauves michoco",
+        "image": "../Produits/sucrecries_antan/guimauves_michoco.JPG"
+      },
+      {
+        "nom": "Killtoïds",
+        "image": "../Produits/sucrecries_antan/Killtoids.JPG"
+      },
+      {
+        "nom": "Palets au caramel",
+        "image": "../Produits/sucrecries_antan/palets_caramel.JPG"
+      },
+      {
+        "nom": "Pipas",
+        "image": "../Produits/sucrecries_antan/pipas.JPG"
+      },
+      {
+        "nom": "Pois au lard goût anis",
+        "image": "../Produits/sucrecries_antan/pois_lard_anis.JPG"
+      },
+      {
+        "nom": "Roudoudous",
+        "image": "../Produits/sucrecries_antan/roudoudou.JPG"
+      },
+      {
+        "nom": "Snap crackle",
+        "image": "../Produits/sucrecries_antan/snap_and_crackle.JPG"
+      },
+      {
+        "nom": "Souris au caramel",
+        "image": "../Produits/sucrecries_antan/souris_caramel.JPG"
+      },
+      {
+        "nom": "Sucettes Attrape",
+        "image": "../Produits/sucrecries_antan/sucettes_attrape.JPG"
+      },
+      {
+        "nom": "Tubble gum",
+        "image": "../Produits/sucrecries_antan/tubble_gum.JPG"
+      },
+      {
+        "nom": "Zan goût menthe",
+        "image": "../Produits/sucrecries_antan/zan_menthe.JPG"
+      },
+      {
+        "nom": "Zan goût réglisse",
+        "image": "../Produits/sucrecries_antan/zan_reglisse.JPG"
+      }
+    ],
+    "machines_alimentaires": [
+      {
+        "nom": "Machine à crèpes professionnelle",
+        "image": "../Produits/Machines_alimentaires/machine_crepes_pro.jpg"
+      },
+      {
+        "nom": "Machine à barbe à papa",
+        "image": "../Produits/Machines_alimentaires/machine_barbe_a_papa.jpg"
+      },
+      {
+        "nom": "Machine à pop-corn",
+        "image": "../Produits/Machines_alimentaires/machine_pop_corn.jpg"
+      },
+      {
+        "nom": "Machine à granités",
+        "image": "../Produits/Machines_alimentaires/machine_granites.png"
+      }
+    ],
+    "jeux_estaminet": [
+      {
+        "nom": "Jeu de la grenouille",
+        "image": "../Produits/jeux_estaminet/jeu_grenouille.jpg"
+      },
+      {
+        "nom": "Billard Nicolas",
+        "image": "../Produits/jeux_estaminet/billard_nicolas.jpg"
+      },
+      {
+        "nom": "Boules à clapets",
+        "image": "../Produits/jeux_estaminet/boules_clapets.jpg"
+      },
+      {
+        "nom": "Jeu de l'aéroboule",
+        "image": "../Produits/jeux_estaminet/jeu_aeroboule.jpg"
+      },
+      {
+        "nom": "Jeu des battons",
+        "image": "../Produits/jeux_estaminet/jeu_batton.jpg"
+      },
+      {
+        "nom": "Jeu d'estaminet",
+        "image": "../Produits/jeux_estaminet/jeu_estaminet.jpg"
+      },
+      {
+        "nom": "Jeu à puces",
+        "image": "../Produits/jeux_estaminet/jeu_puces.jpg"
+      },
+      {
+        "nom": "Mikado géant",
+        "image": "../Produits/jeux_estaminet/mikado_geant.jpg"
+      },
+      {
+        "nom": "Rolup",
+        "image": "../Produits/jeux_estaminet/rolup.jpg"
+      },
+      {
+        "nom": "Tables à élastiques",
+        "image": "../Produits/jeux_estaminet/table_elastiques.jpg"
+      },
+      {
+        "nom": "Tables à glisser",
+        "image": "../Produits/jeux_estaminet/table_glisser.jpg"
+      },
+      {
+        "nom": "Table hollandais",
+        "image": "../Produits/jeux_estaminet/table_hollandais.jpg"
+      }
+    ],
+    "farce_attrape": [
+      {
+        "nom": "Bombes puantes",
+        "image": "../Produits/Farce_attrape/bombes_puantes.jpg"
+      },
+      {
+        "nom": "Fart candies",
+        "image": "../Produits/Farce_attrape/fart_candies.jpg"
+      },
+      {
+        "nom": "Doigt blessé",
+        "image": "../Produits/Farce_attrape/horrible_finger.jpg"
+      },
+      {
+        "nom": "Poudre à gratter",
+        "image": "../Produits/Farce_attrape/itching_powder.jpg"
+      },
+      {
+        "nom": "Money snaptcher",
+        "image": "../Produits/Farce_attrape/money_snaptcher.jpg"
+      },
+      {
+        "nom": "Poudre éternuante",
+        "image": "../Produits/Farce_attrape/sneezing_powder.jpg"
+      },
+      {
+        "nom": "Bonbons au savont",
+        "image": "../Produits/Farce_attrape/soap_sweets.jpg"
+      }
+    ],
+    "produits_regionnaux": [
+      {
+        "nom": "Babeluttes de Lille",
+        "image": "../Produits/Produits_regionnaux/babeluttes_de_lille.avif"
+      },
+      {
+        "nom": "Babeluttes des Lys",
+        "image": "../Produits/Produits_regionnaux/babeluttes_des_lys.avif"
+      },
+      {
+        "nom": "Bétîses de Cambrai",
+        "image": "../Produits/Produits_regionnaux/betises_de_cambrai.avif"
+      },
+      {
+        "nom": "Bétîses des Ch'tits",
+        "image": "../Produits/Produits_regionnaux/betises_des_chtits.avif"
+      },
+      {
+        "nom": "Bétîses nationales",
+        "image": "../Produits/Produits_regionnaux/betises_nationales.jpg"
+      },
+      {
+        "nom": "Chiques de Bavay",
+        "image": "../Produits/Produits_regionnaux/chiques_de_bavay.jpg"
+      },
+      {
+        "nom": "Chuques du Nord",
+        "image": "../Produits/Produits_regionnaux/chuques_du_nord.jpg"
+      },
+      {
+        "nom": "Coeurs de guimmauves",
+        "image": "../Produits/Produits_regionnaux/coeurs_de_guimauves.jpg"
+      },
+      {
+        "nom": "Gaufrettes amusantes goût vanille",
+        "image": "../Produits/Produits_regionnaux/gaufrettes_amusantes_vanilles.jpg"
+      },
+      {
+        "nom": "Guimauves moelleuses",
+        "image": "../Produits/Produits_regionnaux/guimauves_moelleuses.jpg"
+      }
+    ],
+    "cadeaux_occasionnels": [
+      {
+        "nom": "Soutien-gorge en bonbons",
+        "image": "../Produits/cadeaux/cadeaux_soutif_bonbons.jpg"
+      },
+      {
+        "nom": "Bas en bonbons",
+        "image": "../Produits/cadeaux/cadeaux_slip_bonbons.jpg"
+      },
+      {
+        "nom": "Cravates toutes occasions",
+        "image": "../Produits/cadeaux/cadeaux_cravates_celebrationelles.jpg"
+      },
+      {
+        "nom": "Biberons tout âge",
+        "image": "../Produits/cadeaux/cadeaux_biberon_30ans.jpg"
+      },
+      {
+        "nom": "Bavoirs femme",
+        "image": "../Produits/cadeaux/cadeaux_bavoir_femme_60ans.jpg"
+      },
+      {
+        "nom": "Bavoirs homme",
+        "image": "../Produits/cadeaux/cadeaux_bavoir_homme_50ans.jpg"
+      },
+      {
+        "nom": "T-Shirts à dédicacer",
+        "image": "../Produits/cadeaux/cadeaux_Tshirt_18ans.jpg"
+      },
+      {
+        "nom": "Tabliers à dédicacer",
+        "image": "../Produits/cadeaux/cadeaux_tablier_30ans.jpg"
+      },
+      {
+        "nom": "Verre citation",
+        "image": "../Produits/cadeaux/cadeaux_verre_citation1.jpg"
+      },
+      {
+        "nom": "Verre citation",
+        "image": "../Produits/cadeaux/cadeaux_verre_citation2.jpg"
+      },
+      {
+        "nom": "Verre citation",
+        "image": "../Produits/cadeaux/cadeaux_verre_citation3.jpg"
+      },
+      {
+        "nom": "Choppe citation",
+        "image": "../Produits/cadeaux/cadeaux_verre_citation4.jpg"
+      }
+    ],
+    "chateaux_gonflables": [
+      {
+        "nom": "Le capitaine",
+        "image1": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate.jpg",
+        "image2": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate_2.jpg",
+        "image3": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate_3.jpg"
+      },
+      {
+        "nom": "Le parcours",
+        "image1": "../Produits/Chateaux_gonflables/grand_chateau_gonflable.jpg",
+        "image2": "../Produits/Chateaux_gonflables/grand_chateau_gonflable_2.jpg",
+        "image3": "../Produits/Chateaux_gonflables/grand_chateau_gonflable_3.jpg"
+      }
+    ]
+  }
+}
