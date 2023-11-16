@@ -1,5 +1,5 @@
 import React from "react";
-import choco_prix from "../Illustrations/chocolats_prix.jpg";
+import choco_prix from "../Illustrations/chocolats_prix.avif";
 
 function Chocolats() {
     return (

@@ -1,4 +1,4 @@
-import illustration from '../Illustrations/illusatration_deguisement_provisoire.jpg';
+import illustration from '../Illustrations/illusatration_deguisement_provisoire.avif';
 import useProduits from '../hooks/convertFetchProduits';
 import { isEmpty, viewerProduits } from '../services/utilitaires';
 import { voirDeguisements } from '../services/utilitaires';

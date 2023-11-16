@@ -59,7 +59,7 @@ header {
 /** Header Home */
 
 #HeaderHome {
-  background-image: url("./Illustrations/illustration_marriage.jpg");
+  background-image: url("./Illustrations/illustration_marriage.avif");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
@@ -509,7 +509,7 @@ footer p {
 /** Zone contact **/
 
 .presentation_contact {
-  background-image: url("./Illustrations/illustration_evenementiel.jpg");
+  background-image: url("./Illustrations/illustration_evenementiel.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -535,7 +535,7 @@ footer p {
 
 .presentation_compositions {
   display: flex;
-  background-image: url("./Illustrations/presentoire_dragee_coeur.jpg");
+  background-image: url("./Illustrations/presentoire_dragee_coeur.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -575,7 +575,7 @@ footer p {
 
 .presentation_chocolats {
   display: flex;
-  background-image: url("./Illustrations/illustration_chocolat.jpg");
+  background-image: url("./Illustrations/illustration_chocolat.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -627,7 +627,7 @@ footer p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./Illustrations/illustration_produits_regionnaux.jpg");
+  background-image: url("./Illustrations/illustration_produits_regionnaux.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -657,7 +657,7 @@ footer p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./Illustrations/illustration_sucreries_antan.JPG");
+  background-image: url("./Illustrations/illustration_sucreries_antan.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -715,7 +715,7 @@ footer p {
 
 .presentation_cadeaux_perso {
   display: flex;
-  background-image: url("./Illustrations/illustration_cadeaux_perso.jpg");
+  background-image: url("./Illustrations/illustration_cadeaux_perso.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -745,7 +745,7 @@ footer p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./Illustrations/illustration_farce_attrape.jpg");
+  background-image: url("./Illustrations/illustration_farce_attrape.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -775,7 +775,7 @@ footer p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./Illustrations/illustration_cadeaux.jpg");
+  background-image: url("./Illustrations/illustration_cadeaux.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -805,7 +805,7 @@ footer p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./Illustrations/illustrations_machines-alimentaires.jpg");
+  background-image: url("./Illustrations/illustrations_machines-alimentaires.avif");
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -856,7 +856,7 @@ footer p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./Illustrations/illustration_evenementiel.jpg");
+  background-image: url("./Illustrations/illustration_evenementiel.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -907,7 +907,7 @@ footer p {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./Illustrations/illustration_chateaux_gonflables.jpg");
+  background-image: url("./Illustrations/illustration_chateaux_gonflables.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
