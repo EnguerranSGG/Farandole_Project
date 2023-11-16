@@ -31,6 +31,10 @@ const router = createBrowserRouter([
         element: <><HeaderHome /></>
       },
       {
+        path: 'Farandole_Project',
+        element: <><HeaderHome /></>
+      },
+      {
         path: 'Deguisements',
         element: <><Header /><Deguisements /><Accessoires /></>
       },
