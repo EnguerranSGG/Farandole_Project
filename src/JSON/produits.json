@@ -484,7 +484,7 @@
     "gateaux_bonbons": [
       {
         "nom": "Gateau en bonbons d'anniversaire",
-        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_anniversaire.jpg"
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_anniversaire.avif"
       },
       {
         "nom": "Gateau en bonbons ballon de foot",
@@ -834,15 +834,15 @@
     "chateaux_gonflables": [
       {
         "nom": "Le capitaine",
-        "image1": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate.jpg",
-        "image2": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate_2.jpg",
-        "image3": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate_3.jpg"
+        "image1": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate.avif",
+        "image2": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate_2.avif",
+        "image3": "../Produits/Chateaux_gonflables/chateau_gonflable_pirate_3.avif"
       },
       {
         "nom": "Le parcours",
-        "image1": "../Produits/Chateaux_gonflables/grand_chateau_gonflable.jpg",
-        "image2": "../Produits/Chateaux_gonflables/grand_chateau_gonflable_2.jpg",
-        "image3": "../Produits/Chateaux_gonflables/grand_chateau_gonflable_3.jpg"
+        "image1": "../Produits/Chateaux_gonflables/grand_chateau_gonflable.avif",
+        "image2": "../Produits/Chateaux_gonflables/grand_chateau_gonflable_2.avif",
+        "image3": "../Produits/Chateaux_gonflables/grand_chateau_gonflable_3.avif"
       }
     ]
   }
