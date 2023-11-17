@@ -5,20 +5,56 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 750px;
+    height: 900px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-  }
-  
-  .presentation_contact div {
+}
+
+.presentation_contact div {
     color: aliceblue;
     background-color: rgba(0, 0, 0, 0.4);
     padding: 2%;
     border-radius: 10px;
     position: relative;
-    top: -5%;
     margin-right: 10%;
     margin-left: 3%;
-  }
+}
+
+.presentation_contact p {
+    font-size: 2vw;
+}
+
+/** Media queries **/
+
+@media (max-width: 700px) {
+    .presentation_contact {
+        height: 500px;
+    }
+
+    .presentation_contact p {
+        font-size: 3vw;
+    }
+}
+
+@media (min-width: 701px) and (max-width: 1000px) {
+    .presentation_contact {
+        height: 800px;
+    }
+    .presentation_contact p {
+        font-size: 3vw;
+    }
+}
+
+/** Media queries landscape **/
+
+@media (max-width: 700px) and (orientation: landscape) {
+    .presentation_contact {
+        height: 600px;
+    }
+
+    .presentation_contact p {
+        font-size: 3vw;
+    }
+}
