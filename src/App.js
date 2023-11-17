@@ -1,5 +1,6 @@
 import './CSS/App.css';
 import './CSS/Contact.css';
+import './CSS/Footer.css';
 
 import Header from './Components/header';
 import Deguisements from './Components/deguisements';
