@@ -1,0 +1,24 @@
+/** Zone contact **/
+
+.presentation_contact {
+    background-image: url("../Illustrations/acceuil_farandole.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .presentation_contact div {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 2%;
+    border-radius: 10px;
+    position: relative;
+    top: -5%;
+    margin-right: 10%;
+    margin-left: 3%;
+  }

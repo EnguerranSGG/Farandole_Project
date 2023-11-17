@@ -1,4 +1,5 @@
-import './App.css';
+import './CSS/App.css';
+import './CSS/Contact.css';
 
 import Header from './Components/header';
 import Deguisements from './Components/deguisements';
