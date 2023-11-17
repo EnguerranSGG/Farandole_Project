@@ -4,8 +4,7 @@ footer {
     background-color: rgba(0, 0, 0, 0.9);
     display: flex;
     flex-direction: column;
-    justify-content: end;
-    align-items: center;
+    justify-content: space-between;
     width: 100%;
     margin: 0%;
   }
@@ -13,11 +12,52 @@ footer {
   footer p {
     color: rgba(240, 248, 255, 1);
     font-size: 1vw;
+    text-align: center;
+  }
+
+  .liens_contact {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 50px;
+  }
+
+  #contact a {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3%;
+  }
+
+  #facebook {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3%;
+  }
+
+  #facebook img {
+    width: 50px;
   }
 
   @media (max-width: 700px) {
     footer p {
       font-size: 2vw;
     }
+    #contact a {
+        padding-top: 10%;
+      }
+    #facebook img {
+        width: 25px;
+      }
   }
   
