@@ -488,11 +488,11 @@
       },
       {
         "nom": "Gateau en bonbons ballon de foot",
-        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_ballon.jpg"
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_ballon.avif"
       },
       {
         "nom": "Gateau en bonbons barbie",
-        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_barbie.jpg"
+        "image": "../Produits/Gateaux_bonbons/gateau_bonbon_barbie.avif"
       },
       {
         "nom": "Gateau en bonbons bébé",
@@ -554,105 +554,105 @@
     "sucreries_antan": [
       {
         "nom": "Bois de réglisse",
-        "image": "../Produits/sucrecries_antan/bois_reglisse.JPG"
+        "image": "../Produits/sucrecries_antan/bois_reglisse.avif"
       },
       {
         "nom": "Car en sac",
-        "image": "../Produits/sucrecries_antan/car_en_sac.JPG"
+        "image": "../Produits/sucrecries_antan/car_en_sac.avif"
       },
       {
         "nom": "Bonbons à la violette",
-        "image": "../Produits/sucrecries_antan/bonbons_violettes.JPG"
+        "image": "../Produits/sucrecries_antan/bonbons_violettes.avif"
       },
       {
         "nom": "Boules coco",
-        "image": "../Produits/sucrecries_antan/boules_coco.JPG"
+        "image": "../Produits/sucrecries_antan/boules_coco.avif"
       },
       {
         "nom": "Cacahuètes Kubli",
-        "image": "../Produits/sucrecries_antan/cacahuetes_kubli.JPG"
+        "image": "../Produits/sucrecries_antan/cacahuetes_kubli.avif"
       },
       {
         "nom": "Colliers Dextrose",
-        "image": "../Produits/sucrecries_antan/collier_dextrose.JPG"
+        "image": "../Produits/sucrecries_antan/collier_dextrose.avif"
       },
       {
         "nom": "Sucettes Dextrose",
-        "image": "../Produits/sucrecries_antan/sucettes_dextrose.JPG"
+        "image": "../Produits/sucrecries_antan/sucettes_dextrose.avif"
       },
       {
         "nom": "Fondants au sucre",
-        "image": "../Produits/sucrecries_antan/fondants_aux_sucres.JPG"
+        "image": "../Produits/sucrecries_antan/fondants_aux_sucres.avif"
       },
       {
         "nom": "Fraises mallow",
-        "image": "../Produits/sucrecries_antan/fraises_mallow.JPG"
+        "image": "../Produits/sucrecries_antan/fraises_mallow.avif"
       },
       {
         "nom": "Frizzy pazzy",
-        "image": "../Produits/sucrecries_antan/frizzy_pazzy.JPG"
+        "image": "../Produits/sucrecries_antan/frizzy_pazzy.avif"
       },
       {
         "nom": "Guimauves michoco",
-        "image": "../Produits/sucrecries_antan/guimauves_michoco.JPG"
+        "image": "../Produits/sucrecries_antan/guimauves_michoco.avif"
       },
       {
         "nom": "Killtoïds",
-        "image": "../Produits/sucrecries_antan/Killtoids.JPG"
+        "image": "../Produits/sucrecries_antan/Killtoids.avif"
       },
       {
         "nom": "Palets au caramel",
-        "image": "../Produits/sucrecries_antan/palets_caramel.JPG"
+        "image": "../Produits/sucrecries_antan/palets_caramel.avif"
       },
       {
         "nom": "Pipas",
-        "image": "../Produits/sucrecries_antan/pipas.JPG"
+        "image": "../Produits/sucrecries_antan/pipas.avif"
       },
       {
         "nom": "Pois au lard goût anis",
-        "image": "../Produits/sucrecries_antan/pois_lard_anis.JPG"
+        "image": "../Produits/sucrecries_antan/pois_lard_anis.avif"
       },
       {
         "nom": "Roudoudous",
-        "image": "../Produits/sucrecries_antan/roudoudou.JPG"
+        "image": "../Produits/sucrecries_antan/roudoudou.avif"
       },
       {
         "nom": "Snap crackle",
-        "image": "../Produits/sucrecries_antan/snap_and_crackle.JPG"
+        "image": "../Produits/sucrecries_antan/snap_and_crackle.avif"
       },
       {
         "nom": "Souris au caramel",
-        "image": "../Produits/sucrecries_antan/souris_caramel.JPG"
+        "image": "../Produits/sucrecries_antan/souris_caramel.avif"
       },
       {
         "nom": "Sucettes Attrape",
-        "image": "../Produits/sucrecries_antan/sucettes_attrape.JPG"
+        "image": "../Produits/sucrecries_antan/sucettes_attrape.avif"
       },
       {
         "nom": "Tubble gum",
-        "image": "../Produits/sucrecries_antan/tubble_gum.JPG"
+        "image": "../Produits/sucrecries_antan/tubble_gum.avif"
       },
       {
         "nom": "Zan goût menthe",
-        "image": "../Produits/sucrecries_antan/zan_menthe.JPG"
+        "image": "../Produits/sucrecries_antan/zan_menthe.avif"
       },
       {
         "nom": "Zan goût réglisse",
-        "image": "../Produits/sucrecries_antan/zan_reglisse.JPG"
+        "image": "../Produits/sucrecries_antan/zan_reglisse.avif"
       }
     ],
     "machines_alimentaires": [
       {
         "nom": "Machine à crèpes professionnelle",
-        "image": "../Produits/Machines_alimentaires/machine_crepes_pro.jpg"
+        "image": "../Produits/Machines_alimentaires/machine_crepes_pro.avif"
       },
       {
         "nom": "Machine à barbe à papa",
-        "image": "../Produits/Machines_alimentaires/machine_barbe_a_papa.jpg"
+        "image": "../Produits/Machines_alimentaires/machine_barbe_a_papa.avif"
       },
       {
         "nom": "Machine à pop-corn",
-        "image": "../Produits/Machines_alimentaires/machine_pop_corn.jpg"
+        "image": "../Produits/Machines_alimentaires/machine_pop_corn.avif"
       },
       {
         "nom": "Machine à granités",
@@ -662,51 +662,51 @@
     "jeux_estaminet": [
       {
         "nom": "Jeu de la grenouille",
-        "image": "../Produits/jeux_estaminet/jeu_grenouille.jpg"
+        "image": "../Produits/jeux_estaminet/jeu_grenouille.avif"
       },
       {
         "nom": "Billard Nicolas",
-        "image": "../Produits/jeux_estaminet/billard_nicolas.jpg"
+        "image": "../Produits/jeux_estaminet/billard_nicolas.avif"
       },
       {
         "nom": "Boules à clapets",
-        "image": "../Produits/jeux_estaminet/boules_clapets.jpg"
+        "image": "../Produits/jeux_estaminet/boules_clapets.avif"
       },
       {
         "nom": "Jeu de l'aéroboule",
-        "image": "../Produits/jeux_estaminet/jeu_aeroboule.jpg"
+        "image": "../Produits/jeux_estaminet/jeu_aeroboule.avif"
       },
       {
         "nom": "Jeu des battons",
-        "image": "../Produits/jeux_estaminet/jeu_batton.jpg"
+        "image": "../Produits/jeux_estaminet/jeu_batton.avif"
       },
       {
         "nom": "Jeu d'estaminet",
-        "image": "../Produits/jeux_estaminet/jeu_estaminet.jpg"
+        "image": "../Produits/jeux_estaminet/jeu_estaminet.avif"
       },
       {
         "nom": "Jeu à puces",
-        "image": "../Produits/jeux_estaminet/jeu_puces.jpg"
+        "image": "../Produits/jeux_estaminet/jeu_puces.avif"
       },
       {
         "nom": "Mikado géant",
-        "image": "../Produits/jeux_estaminet/mikado_geant.jpg"
+        "image": "../Produits/jeux_estaminet/mikado_geant.avif"
       },
       {
         "nom": "Rolup",
-        "image": "../Produits/jeux_estaminet/rolup.jpg"
+        "image": "../Produits/jeux_estaminet/rolup.avif"
       },
       {
         "nom": "Tables à élastiques",
-        "image": "../Produits/jeux_estaminet/table_elastiques.jpg"
+        "image": "../Produits/jeux_estaminet/table_elastiques.avif"
       },
       {
         "nom": "Tables à glisser",
-        "image": "../Produits/jeux_estaminet/table_glisser.jpg"
+        "image": "../Produits/jeux_estaminet/table_glisser.avif"
       },
       {
         "nom": "Table hollandais",
-        "image": "../Produits/jeux_estaminet/table_hollandais.jpg"
+        "image": "../Produits/jeux_estaminet/table_hollandais.avif"
       }
     ],
     "farce_attrape": [
@@ -758,27 +758,27 @@
       },
       {
         "nom": "Bétîses nationales",
-        "image": "../Produits/Produits_regionnaux/betises_nationales.jpg"
+        "image": "../Produits/Produits_regionnaux/betises_nationales.avif"
       },
       {
         "nom": "Chiques de Bavay",
-        "image": "../Produits/Produits_regionnaux/chiques_de_bavay.jpg"
+        "image": "../Produits/Produits_regionnaux/chiques_de_bavay.avif"
       },
       {
         "nom": "Chuques du Nord",
-        "image": "../Produits/Produits_regionnaux/chuques_du_nord.jpg"
+        "image": "../Produits/Produits_regionnaux/chuques_du_nord.avif"
       },
       {
         "nom": "Coeurs de guimmauves",
-        "image": "../Produits/Produits_regionnaux/coeurs_de_guimauves.jpg"
+        "image": "../Produits/Produits_regionnaux/coeurs_de_guimauves.avif"
       },
       {
         "nom": "Gaufrettes amusantes goût vanille",
-        "image": "../Produits/Produits_regionnaux/gaufrettes_amusantes_vanilles.jpg"
+        "image": "../Produits/Produits_regionnaux/gaufrettes_amusantes_vanilles.avif"
       },
       {
         "nom": "Guimauves moelleuses",
-        "image": "../Produits/Produits_regionnaux/guimauves_moelleuses.jpg"
+        "image": "../Produits/Produits_regionnaux/guimauves_moelleuses.avif"
       }
     ],
     "cadeaux_occasionnels": [
