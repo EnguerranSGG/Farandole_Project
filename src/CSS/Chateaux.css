@@ -1,0 +1,352 @@
+/** Zone chateaux gonflables **/
+
+.presentation_chateaux_gonflables {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("../Illustrations/illustration_chateaux_gonflables.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 550px;
+}
+
+.presentation_chateaux_gonflables h2 {
+    color: aliceblue;
+}
+
+.presentation_chateaux_gonflables div {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 2%;
+    margin-right: 30%;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    border-radius: 10px;
+    padding: 0% 2%;
+}
+
+.tous_les_chateaux {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    margin: 1%;
+}
+
+.tous_les_chateaux img {
+    width: 100%;
+    height: 650px;
+    border-radius: 10px;
+    transition: transform 300ms ease-in-out;
+    box-shadow: 8px 8px 20px black;
+}
+
+.tous_les_chateaux img:hover {
+    opacity: 0.8;
+    transform: translateY(-1.5%);
+    box-shadow: 11px 11px 20px black;
+}
+
+.chateaux {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3%;
+    padding-bottom: 2%;
+}
+
+.viewerChateaux {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.viewerChateaux div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    background-color: rgba(255, 124, 228, 0.6);
+    border-radius: 10px;
+    margin: 5%;
+}
+
+.viewerChateaux h2 {
+    font-size: 2.5vw;
+}
+
+.viewerChateaux p {
+    font-size: 1.5vw;
+}
+
+.viewerChateaux img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#images_chateaux {
+    display: grid;
+    grid-template-columns: 600px 350px;
+    grid-template-rows: 250px 250px;
+    grid-gap: 10px;
+}
+
+#image1_chateaux {
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+#image2_chateaux {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+#image3_chateaux {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+
+@media screen and (max-width: 900px) {
+    /** Zone chateaux gonflables **/
+
+    .presentation_chateaux_gonflables {
+        height: 200px;
+    }
+
+    .tous_les_chateaux {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+    }
+
+    #chateaux_template_img {
+        height: 250px;
+    }
+
+    #images_chateaux {
+        display: grid;
+        grid-template-columns: 150px 150px;
+        grid-template-rows: 250px 150px;
+        grid-gap: 10px;
+    }
+
+    .viewerChateaux h2 {
+        font-size: 6vw;
+    }
+
+    .viewerChateaux p {
+        font-size: 3vw;
+    }
+
+    #image1_chateaux {
+        grid-row-start: 1;
+        grid-row-end: 2;
+        grid-column-start: 1;
+        grid-column-end: 3;
+    }
+
+    #image2_chateaux {
+        grid-row-start: 2;
+        grid-row-end: 3;
+        grid-column-start: 1;
+        grid-column-end: 2;
+    }
+
+    #image3_chateaux {
+        grid-row-start: 2;
+        grid-row-end: 3;
+        grid-column-start: 2;
+        grid-column-end: 3;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+    /** Zone chateaux gonflables **/
+
+    .presentation_chateaux_gonflables {
+        height: 450px;
+    }
+
+    #chateaux_template_img {
+        height: 450px;
+    }
+
+    .tous_les_chateaux {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        margin: 1%;
+    }
+
+    #images_chateaux {
+        display: grid;
+        grid-template-columns: 350px 350px;
+        grid-template-rows: 400px 250px;
+        grid-gap: 5px;
+    }
+
+    .viewerChateaux h2 {
+        font-size: 6vw;
+    }
+
+    .viewerChateaux p {
+        font-size: 3vw;
+    }
+}
+
+
+@media (min-width: 430px) and (max-width: 767px) {
+    /** Zone chateaux gonflables **/
+
+    .presentation_chateaux_gonflables {
+        height: 450px;
+    }
+
+    #chateaux_template_img {
+        height: 450px;
+    }
+
+    .tous_les_chateaux {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        margin: 1%;
+    }
+
+    #images_chateaux {
+        display: grid;
+        grid-template-columns: 200px 200px;
+        grid-template-rows: 300px 150px;
+        grid-gap: 5px;
+    }
+
+    .viewerChateaux h2 {
+        font-size: 7vw;
+    }
+
+    .viewerChateaux p {
+        font-size: 4vw;
+    }
+}
+
+@media (max-width: 300px) {
+    #images_chateaux {
+        display: grid;
+        grid-template-columns: 120px 120px;
+        grid-template-rows: 150px 150px;
+        grid-gap: 5px;
+    }
+
+    .viewerChateaux h2 {
+        font-size: 9vw;
+    }
+
+    .viewerChateaux p {
+        font-size: 6vw;
+    }
+}
+
+@media (max-width: 1400px) and (min-width: 950px) {
+    #images_chateaux {
+        display: grid;
+        grid-template-columns: 450px 450px;
+        grid-template-rows: 250px 250px;
+        grid-gap: 5px;
+    }
+
+}
+
+@media (max-width: 1400px) and (min-width: 1020px) {
+    #images_chateaux {
+        display: grid;
+        grid-template-columns: 350px 350px;
+        grid-template-rows: 150px 150px;
+        grid-gap: 5px;
+    }
+
+    .viewerChateaux h2 {
+        font-size: 3vw;
+    }
+
+    .viewerChateaux p {
+        font-size: 1.5vw;
+    }
+}
+
+
+@media (max-width: 1000px) and (orientation: landscape) {
+
+    #images_chateaux {
+        display: grid;
+        grid-template-columns: 200px 200px 200px;
+        grid-template-rows: 150px;
+        grid-gap: 5px;
+    }
+
+    .viewerChateaux h2 {
+        font-size: 3vw;
+    }
+
+    .viewerChateaux p {
+        font-size: 2vw;
+    }
+
+    #image1_chateaux {
+        grid-row-start: 1;
+        grid-row-end: 2;
+        grid-column-start: 1;
+        grid-column-end: 2;
+    }
+
+    #image2_chateaux {
+        grid-row-start: 1;
+        grid-row-end: 2;
+        grid-column-start: 2;
+        grid-column-end: 3;
+    }
+
+    #image3_chateaux {
+        grid-row-start: 1;
+        grid-row-end: 2;
+        grid-column-start: 3;
+        grid-column-end: 4;
+    }
+}
+
+
+@media (max-width: 700px) and (orientation: landscape) {
+    #images_chateaux {
+        display: grid;
+        grid-template-columns: 150px 150px 150px;
+        grid-template-rows: 100px;
+        grid-gap: 5px;
+    }
+
+    .viewerChateaux h2 {
+        font-size: 3vw;
+    }
+
+    .viewerChateaux p {
+        font-size: 2vw;
+    }
+}

@@ -1,6 +1,21 @@
 import './CSS/App.css';
 import './CSS/Contact.css';
 import './CSS/Footer.css';
+import './CSS/Header_home.css';
+import './CSS/Header.css';
+import './CSS/Chateaux.css';
+import './CSS/Modales_Templates.css';
+import './CSS/Deguisements_Accessoires.css';
+import './CSS/Dragees.css';
+import './CSS/Produits_regionaux.css';
+import './CSS/Chocolats.css';
+import './CSS/Sucreries_autrefois.css';
+import './CSS/Gateaux_bonbons.css';
+import './CSS/Cadeaux_perso.css';
+import './CSS/Farces.css';
+import './CSS/Cadeaux.css';
+import './CSS/Machines_alimentaires.css';
+import './CSS/Estaminet.css';
 
 import Header from './Components/header';
 import Deguisements from './Components/deguisements';

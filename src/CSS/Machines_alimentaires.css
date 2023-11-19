@@ -1,0 +1,84 @@
+/** Zone machines alimentaires **/
+
+.presentation_machines {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("../Illustrations/illustrations_machines-alimentaires.avif");
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 550px;
+}
+
+.presentation_machines h2 {
+    color: aliceblue;
+}
+
+.presentation_machines div {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 2%;
+    margin-right: 30%;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    border-radius: 10px;
+    padding: 0% 2%;
+}
+
+.all_machines {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    margin: 1%;
+}
+
+.all_machines img {
+    width: 100%;
+    height: 550px;
+    border-radius: 10px;
+    transition: transform 300ms ease-in-out;
+    box-shadow: 8px 8px 20px black;
+}
+
+.all_machines img:hover {
+    opacity: 0.8;
+    transform: translateY(-1.5%);
+    box-shadow: 11px 11px 20px black;
+}
+
+@media screen and (max-width: 900px) {
+
+    .presentation_machines {
+        height: 250px;
+    }
+
+    .all_machines img {
+        height: 200px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 1300px) {
+
+    .presentation_machines {
+        height: 500px;
+    }
+
+    .all_machines img {
+        height: 400px;
+    }
+}
+
+@media (min-width: 430px) and (max-width: 767px) {
+
+    .presentation_machines {
+        height: 500px;
+    }
+
+    .all_machines img {
+        height: 400px;
+    }
+}

@@ -1,0 +1,120 @@
+/** Zone chocolats artisanaux **/
+
+.presentation_chocolats {
+    display: flex;
+    background-image: url("../Illustrations/illustration_chocolat.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 550px;
+}
+
+.presentation_chocolats div {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 3%;
+    margin-right: 30%;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    border-radius: 10px;
+    padding: 0% 2%;
+}
+
+.presentation_chocolats h2 {
+    color: aliceblue;
+}
+
+#chocolats {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 2%;
+}
+
+.chocolats {
+    color: aliceblue;
+    font-size: 2vw;
+    text-align: justify;
+    padding-right: 3%;
+}
+
+.prix_chocolats img {
+    height: 500px;
+    width: auto;
+    margin-top: 1%;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 900px) {
+
+    .presentation_chocolats {
+        height: 250px;
+    }
+
+    .presentation_chocolats div {
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+
+    #chocolats {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        margin: 2%;
+    }
+
+    .chocolats {
+        color: aliceblue;
+        font-size: 3vw;
+    }
+
+    .prix_chocolats img {
+        height: 150px;
+        border-radius: 10px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+
+    .presentation_chocolats {
+        height: 500px;
+    }
+
+    .presentation_chocolats div {
+        margin-top: 7%;
+        margin-bottom: 7%;
+    }
+
+    .chocolats {
+        font-size: 3vw;
+    }
+
+    .prix_chocolats img {
+        height: 400px;
+    }
+}
+
+@media (min-width: 430px) and (max-width: 767px) {
+
+    .presentation_chocolats {
+        height: 500px;
+    }
+
+    .presentation_chocolats div {
+        margin-top: 7%;
+        margin-bottom: 7%;
+    }
+
+    .chocolats {
+        font-size: 3vw;
+    }
+
+    .prix_chocolats img {
+        height: 400px;
+    }
+}

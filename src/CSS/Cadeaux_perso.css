@@ -1,0 +1,70 @@
+/** Zone cadeaux personnalisables **/
+
+.presentation_cadeaux_perso {
+    display: flex;
+    background-image: url("../Illustrations/illustration_cadeaux_perso.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.presentation_cadeaux_perso div {
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 3%;
+    margin-right: 30%;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    border-radius: 10px;
+    padding: 0% 2%;
+}
+
+.presentation_cadeaux_perso h2 {
+    color: aliceblue;
+}
+
+
+@media screen and (max-width: 900px) {
+
+    .presentation_cadeaux_perso {
+        height: 400px;
+    }
+
+    .presentation_cadeaux_perso div {
+        margin-left: 3%;
+        margin-right: 30%;
+        margin-top: 30%;
+        margin-bottom: 30%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+
+    .presentation_cadeaux_perso {
+        height: 800px;
+    }
+
+    .presentation_cadeaux_perso div {
+        margin-left: 3%;
+        margin-right: 30%;
+        margin-top: 18%;
+        margin-bottom: 18%;
+    }
+}
+
+@media (min-width: 430px) and (max-width: 767px) {
+
+    .presentation_cadeaux_perso {
+        height: 800px;
+    }
+
+    .presentation_cadeaux_perso div {
+        margin-left: 3%;
+        margin-right: 30%;
+        margin-top: 18%;
+        margin-bottom: 18%;
+    }
+}

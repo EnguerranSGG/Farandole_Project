@@ -1,0 +1,199 @@
+/** Zone deguisements et accessoires */
+
+.presentation_deguisements {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1%;
+}
+
+.presentation_deguisements div {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+}
+
+.presentation_deguisements h1 {
+    color: aliceblue;
+}
+
+.btnVoirDeguisements {
+    color: aliceblue;
+    font-family: 'Kalam', cursive;
+    font-size: 1.2vw;
+    background-color: rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    border: 1px solid aliceblue;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    border-radius: 10px;
+    padding: 0% 1%;
+    transition: transform 300ms ease-in-out;
+}
+
+.btnVoirDeguisements:visited {
+    color: aliceblue;
+}
+
+.btnVoirDeguisements:hover {
+    transform: scale(1.05);
+}
+
+.btnVoirDeguisements:active {
+    transform: scale(0.95);
+    border: 1px solid black;
+}
+
+.presentation_accessoires {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1%;
+    background-color: rgba(0, 0, 0, 0.9);
+    border-bottom: 2px solid rgba(255, 124, 228, 1);
+}
+
+.btnVoirAccessoires {
+    color: rgba(255, 124, 228, 1);
+    font-family: 'Kalam', cursive;
+    font-size: 1.2vw;
+    text-decoration: none;
+    text-decoration: none;
+    border: 1px solid rgba(255, 124, 228, 1);
+    border-bottom: 4px solid aliceblue;
+    border-left: 4px solid aliceblue;
+    border-radius: 10px;
+    padding: 0% 1%;
+    transition: transform 300ms ease-in-out;
+}
+
+.btnVoirAccessoires:visited {
+    color: rgba(255, 124, 228, 1);
+}
+
+.btnVoirAccessoires:hover {
+    transform: scale(1.05);
+}
+
+.btnVoirAccessoires:active {
+    transform: scale(0.95);
+    border: 1px solid aliceblue;
+}
+
+.presentation_accessoires div {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1%;
+}
+
+.presentation_accessoires p {
+    color: aliceblue;
+}
+
+.illustrations_page_DeguisementsAccessories {
+    width: 70%;
+    height: 450px;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 900px) {
+
+    .presentation_deguisements p {
+        font-size: 3vw;
+    }
+
+    .presentation_accessoires {
+        border-bottom: 1px solid rgba(255, 124, 228, 1);
+    }
+
+    .presentation_accessoires p {
+        font-size: 3vw;
+    }
+
+    .illustrations_page_DeguisementsAccessories {
+        height: 200px;
+    }
+
+    .btnVoirDeguisements {
+        font-size: 2vw;
+        border-bottom: 2px solid black;
+        border-right: 2px solid black;
+    }
+
+    .btnVoirAccessoires {
+        font-size: 2vw;
+        border-bottom: 2px solid aliceblue;
+        border-left: 2px solid aliceblue;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1300px) {
+
+    .presentation_deguisements p {
+        font-size: 3vw;
+    }
+
+    .presentation_accessoires p {
+        font-size: 3vw;
+    }
+
+    .presentation_accessoires {
+        border-bottom: 2px solid rgba(255, 124, 228, 1);
+    }
+
+    .illustrations_page_DeguisementsAccessories {
+        height: 550px;
+    }
+
+    .btnVoirDeguisements {
+        font-size: 2vw;
+        border-bottom: 2px solid black;
+        border-right: 2px solid black;
+    }
+
+    .btnVoirAccessoires {
+        font-size: 2vw;
+        border-bottom: 2px solid aliceblue;
+        border-left: 2px solid aliceblue;
+    }
+}
+
+
+@media (min-width: 430px) and (max-width: 767px) {
+
+    .presentation_deguisements p {
+        font-size: 3vw;
+    }
+
+    .presentation_accessoires p {
+        font-size: 3vw;
+    }
+
+    .presentation_accessoires {
+        border-bottom: 2px solid rgba(255, 124, 228, 1);
+    }
+
+    .illustrations_page_DeguisementsAccessories {
+        height: 550px;
+    }
+
+    .btnVoirDeguisements {
+        font-size: 2vw;
+        border-bottom: 2px solid black;
+        border-right: 2px solid black;
+    }
+
+    .btnVoirAccessoires {
+        font-size: 2vw;
+        border-bottom: 2px solid aliceblue;
+        border-left: 2px solid aliceblue;
+    }
+}
