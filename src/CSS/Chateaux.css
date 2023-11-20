@@ -184,7 +184,7 @@
     /** Zone chateaux gonflables **/
 
     .presentation_chateaux_gonflables {
-        height: 450px;
+        height: auto;
     }
 
     #chateaux_template_img {

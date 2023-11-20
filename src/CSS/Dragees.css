@@ -86,7 +86,7 @@
     }
 
     .presentation_compositions {
-        height: 500px;
+        height: auto;
     }
 
 }

@@ -82,7 +82,7 @@
 @media (min-width: 768px) and (max-width: 1300px) {
 
     .presentation_chocolats {
-        height: 500px;
+        height: auto;
     }
 
     .presentation_chocolats div {
