@@ -658,7 +658,7 @@
       },
       {
         "nom": "Machine à granités",
-        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires/machine_granites.png"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_granites.avif"
       }
     ],
     "jeux_estaminet": [
@@ -688,7 +688,7 @@
       },
       {
         "nom": "Jeu à puces",
-        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/jeux_estaminet/jeu_puces.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_puces.avif"
       },
       {
         "nom": "Mikado géant",
