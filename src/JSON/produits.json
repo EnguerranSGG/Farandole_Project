@@ -714,31 +714,31 @@
     "farce_attrape": [
       {
         "nom": "Bombes puantes",
-        "image": "../Produits/Farce_attrape/bombes_puantes.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/bombes_puantes.avif"
       },
       {
         "nom": "Fart candies",
-        "image": "../Produits/Farce_attrape/fart_candies.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/fart_candies.avif"
       },
       {
         "nom": "Doigt blessé",
-        "image": "../Produits/Farce_attrape/horrible_finger.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/horrible_finger.avif"
       },
       {
         "nom": "Poudre à gratter",
-        "image": "../Produits/Farce_attrape/itching_powder.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/itching_powder.avif"
       },
       {
         "nom": "Money snaptcher",
-        "image": "../Produits/Farce_attrape/money_snaptcher.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/money_snaptcher.avif"
       },
       {
         "nom": "Poudre éternuante",
-        "image": "../Produits/Farce_attrape/sneezing_powder.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/sneezing_powder.avif"
       },
       {
         "nom": "Bonbons au savont",
-        "image": "../Produits/Farce_attrape/soap_sweets.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/soap_sweets.avif"
       }
     ],
     "produits_regionnaux": [
@@ -786,51 +786,51 @@
     "cadeaux_occasionnels": [
       {
         "nom": "Soutien-gorge en bonbons",
-        "image": "../Produits/cadeaux/cadeaux_soutif_bonbons.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_soutif_bonbons.avif"
       },
       {
         "nom": "Bas en bonbons",
-        "image": "../Produits/cadeaux/cadeaux_slip_bonbons.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_slip_bonbons.avif"
       },
       {
         "nom": "Cravates toutes occasions",
-        "image": "../Produits/cadeaux/cadeaux_cravates_celebrationelles.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_cravates_celebrationelles.avif"
       },
       {
         "nom": "Biberons tout âge",
-        "image": "../Produits/cadeaux/cadeaux_biberon_30ans.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_biberon_30ans.avif"
       },
       {
         "nom": "Bavoirs femme",
-        "image": "../Produits/cadeaux/cadeaux_bavoir_femme_60ans.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_bavoir_femme_60ans.avif"
       },
       {
         "nom": "Bavoirs homme",
-        "image": "../Produits/cadeaux/cadeaux_bavoir_homme_50ans.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_bavoir_homme_50ans.avif"
       },
       {
         "nom": "T-Shirts à dédicacer",
-        "image": "../Produits/cadeaux/cadeaux_Tshirt_18ans.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_Tshirt_18ans.avif"
       },
       {
         "nom": "Tabliers à dédicacer",
-        "image": "../Produits/cadeaux/cadeaux_tablier_30ans.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_tablier_30ans.avif"
       },
       {
         "nom": "Verre citation",
-        "image": "../Produits/cadeaux/cadeaux_verre_citation1.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation1.avif"
       },
       {
         "nom": "Verre citation",
-        "image": "../Produits/cadeaux/cadeaux_verre_citation2.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation2.avif"
       },
       {
         "nom": "Verre citation",
-        "image": "../Produits/cadeaux/cadeaux_verre_citation3.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation3.avif"
       },
       {
         "nom": "Choppe citation",
-        "image": "../Produits/cadeaux/cadeaux_verre_citation4.jpg"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation4.avif"
       }
     ],
     "chateaux_gonflables": [
