@@ -2,7 +2,7 @@
 
 .presentation_compositions {
     display: flex;
-    background-image: url("../Illustrations/presentoire_dragee_coeur.avif");
+    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/presentoire_dragee_coeur.avif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

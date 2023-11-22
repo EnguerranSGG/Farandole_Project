@@ -2,7 +2,7 @@
 
 .presentation_cadeaux_perso {
     display: flex;
-    background-image: url("../Illustrations/illustration_cadeaux_perso.avif");
+    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_cadeaux_perso.avif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
