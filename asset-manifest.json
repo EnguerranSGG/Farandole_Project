@@ -1,36 +1,22 @@
 {
   "files": {
-    "main.css": "/Farandole_Project/static/css/main.205c8697.css",
+    "main.css": "/Farandole_Project/static/css/main.df35d80c.css",
     "main.js": "/Farandole_Project/static/js/main.01c63e3c.js",
     "static/js/787.2c30b784.chunk.js": "/Farandole_Project/static/js/787.2c30b784.chunk.js",
-    "static/media/illustration_evenementiel.avif": "/Farandole_Project/static/media/illustration_evenementiel.a4b5dd442757d6b62050.avif",
     "static/media/baniere_farandole_gauche.png": "/Farandole_Project/static/media/baniere_farandole_gauche.0f182283971c64aac083.png",
     "static/media/baniere_farandole_droite.png": "/Farandole_Project/static/media/baniere_farandole_droite.929e7bff4c9901bcac44.png",
-    "static/media/presentoire_dragee_coeur.avif": "/Farandole_Project/static/media/presentoire_dragee_coeur.d2a076356aa22b0b425a.avif",
     "static/media/illusatration_deguisement_provisoire.avif": "/Farandole_Project/static/media/illusatration_deguisement_provisoire.f0e9dd57ccd036c7382c.avif",
-    "static/media/illustration_cadeaux_perso.avif": "/Farandole_Project/static/media/illustration_cadeaux_perso.b9cf5d9cf03d8e33799f.avif",
     "static/media/chocolats_prix.avif": "/Farandole_Project/static/media/chocolats_prix.bcd2220738e43ac1d9de.avif",
-    "static/media/illustration_cadeaux.avif": "/Farandole_Project/static/media/illustration_cadeaux.b3085c7cff1445be1b50.avif",
-    "static/media/illustration_chocolat.avif": "/Farandole_Project/static/media/illustration_chocolat.18e51312e95f13abf411.avif",
-    "static/media/illustration_farce_attrape.avif": "/Farandole_Project/static/media/illustration_farce_attrape.5e9c01a93e3ef1c12e6d.avif",
-    "static/media/illustration_produits_regionnaux.avif": "/Farandole_Project/static/media/illustration_produits_regionnaux.7dcff0928d4b2c846203.avif",
-    "static/media/illustration_gateaux_bonbons.avif": "/Farandole_Project/static/media/illustration_gateaux_bonbons.8681abbb6d28968b7197.avif",
-    "static/media/acceuil_farandole.avif": "/Farandole_Project/static/media/acceuil_farandole.0377a4fca12eee688bb0.avif",
-    "static/media/illustration_sucreries_antan.avif": "/Farandole_Project/static/media/illustration_sucreries_antan.8ce4bab51d2e489d871d.avif",
-    "static/media/illustration_deco.avif": "/Farandole_Project/static/media/illustration_deco.cc5ed83c708309ddf088.avif",
-    "static/media/illustration_marriage.avif": "/Farandole_Project/static/media/illustration_marriage.e5503b04d0462b0c2fd5.avif",
-    "static/media/illustrations_machines-alimentaires.avif": "/Farandole_Project/static/media/illustrations_machines-alimentaires.0369f5870b6037fa9156.avif",
-    "static/media/illustration_chateaux_gonflables.avif": "/Farandole_Project/static/media/illustration_chateaux_gonflables.ecd43e1886ca0ff10140.avif",
     "index.html": "/Farandole_Project/index.html",
     "static/media/facebook-logo.svg": "/Farandole_Project/static/media/facebook-logo.5003b0bfdbaf9484998bd59e337f7475.svg",
     "static/media/caret-up.svg": "/Farandole_Project/static/media/caret-up.bb76a491cb02ed907bbcbec0fe8bb649.svg",
     "static/media/caret-down.svg": "/Farandole_Project/static/media/caret-down.a87e544c96b9906c312f5a72c770d48e.svg",
-    "main.205c8697.css.map": "/Farandole_Project/static/css/main.205c8697.css.map",
+    "main.df35d80c.css.map": "/Farandole_Project/static/css/main.df35d80c.css.map",
     "main.01c63e3c.js.map": "/Farandole_Project/static/js/main.01c63e3c.js.map",
     "787.2c30b784.chunk.js.map": "/Farandole_Project/static/js/787.2c30b784.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.205c8697.css",
+    "static/css/main.df35d80c.css",
     "static/js/main.01c63e3c.js"
   ]
 }
