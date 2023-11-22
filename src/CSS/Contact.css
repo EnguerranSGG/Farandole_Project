@@ -5,10 +5,10 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 900px;
+    height: 1250px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
 }
 
@@ -20,6 +20,7 @@
     position: relative;
     margin-right: 10%;
     margin-left: 3%;
+    margin-top: 10%;
 }
 
 .presentation_contact p {
@@ -28,9 +29,17 @@
 
 /** Media queries **/
 
-@media (max-width: 700px) {
+@media (max-width: 390px) {
     .presentation_contact {
-        height: 500px;
+        height: 550px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .presentation_contact div {
+        margin-top: 0%;
     }
 
     .presentation_contact p {
@@ -38,12 +47,44 @@
     }
 }
 
+@media (min-width: 390px) and (max-width: 700px) {
+    .presentation_contact {
+        height: 750px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .presentation_contact div {
+        margin-top: 0%;
+    }
+
+    .presentation_contact p {
+        font-size: 4vw;
+    }
+    
+}
+
 @media (min-width: 701px) and (max-width: 1000px) {
     .presentation_contact {
-        height: 800px;
+        height: 1100px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .presentation_contact p {
         font-size: 3vw;
+    }
+
+    .presentation_contact div {
+        margin-top: 0%;
+    }
+}
+
+@media (min-width: 1001px) and (max-width: 1400px) {
+    .presentation_contact {
+        height: 1100px;
     }
 }
 
