@@ -60,12 +60,49 @@
     grid-row-end: 4;
     grid-column-start: 1;
     grid-column-end: 4;
+}
+
+.bienvenue div {
     margin-top: 5%;
     margin-right: 15%;
     margin-left: 10%;
     padding: 2%;
     background-color: rgba(0, 0, 0, 0.2);
     border-radius: 10px;
+}
+
+.contact_home {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.btn_contact_home {
+    color: aliceblue;
+    font-family: 'Kalam', cursive;
+    font-size: 1.4vw;
+    background-color: rgba(255, 124, 228, 1);
+    text-decoration: none;
+    border: 1px solid aliceblue;
+    border-bottom: 4px solid black;
+    border-left: 4px solid black;
+    border-radius: 10px;
+    padding: 0% 1%;
+    margin-right: 5%;
+    transition: transform 300ms ease-in-out;
+}
+
+.btn_contact_home:visited {
+    color: aliceblue;
+}
+
+.btn_contact_home:hover {
+    transform: scale(1.05);
+}
+
+.btn_contact_home:active {
+    transform: scale(0.95);
+    border: 1px solid aliceblue;
 }
 
 .bienvenue h1 {
@@ -77,13 +114,17 @@
     color: aliceblue;
 }
 
-@media screen and (max-width: 900px) {
+.bienvenue p {
+    text-align: justify;
+}
+
+@media (min-width: 767px) and (max-width: 900px) {
 
     #HeaderHome {
         width: 100%;
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
-        grid-template-rows: auto auto auto 600px;
+        grid-template-rows: auto auto auto 900px;
     }
 
     #HeaderHome #banniere_droite {
@@ -127,23 +168,44 @@
         grid-row-end: 5;
         grid-column-start: 1;
         grid-column-end: 4;
-        margin-top: 5%;
+    }
+
+    .bienvenue div {
+        margin-top: 15%;
         margin-right: 15%;
         margin-left: 10%;
         padding: 2%;
-        background-color: rgba(0, 0, 0, 0.2);
+        background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
+    }
+
+    .bienvenue h1 {
+        font-size: 7vw;
+    }
+
+    .bienvenue h2 {
+        font-size: 4vw;
+    }
+
+    .bienvenue p {
+        font-size: 3.5vw;
+    }
+
+    .btn_contact_home {
+        font-size: 3.5vw;
+        border-bottom: 3px solid black;
+        border-left: 3px solid black;
     }
 
 }
 
-@media (min-width: 768px) and (max-width: 1300px) {
+@media (min-width: 901px) and (max-width: 1300px) {
 
     #HeaderHome {
         width: 100%;
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
-        grid-template-rows: auto auto auto 600px;
+        grid-template-rows: auto auto auto 1010px;
     }
 
     #HeaderHome #banniere_droite {
@@ -187,22 +249,44 @@
         grid-row-end: 5;
         grid-column-start: 1;
         grid-column-end: 4;
-        margin-top: 5%;
+    }
+
+    .bienvenue div {
+        margin-top: 15%;
         margin-right: 15%;
         margin-left: 10%;
         padding: 2%;
-        background-color: rgba(0, 0, 0, 0.2);
+        background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
+    }
+
+    .btn_contact_home {
+        font-size: 3vw;
+        border-bottom: 5px solid black;
+        border-left: 5px solid black;
+        border-radius: 20px;
+    }
+
+    .bienvenue h1 {
+        font-size: 5vw;
+    }
+
+    .bienvenue h2 {
+        font-size: 3.5vw;
+    }
+
+    .bienvenue p {
+        font-size: 3vw;
     }
 }
 
-@media (min-width: 430px) and (max-width: 767px) {
-
+@media (min-width: 601px) and (max-width: 767px) {
+    
     #HeaderHome {
         width: 100%;
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
-        grid-template-rows: auto auto auto 600px;
+        grid-template-rows: auto auto auto 750px;
     }
 
     #HeaderHome #banniere_droite {
@@ -246,11 +330,192 @@
         grid-row-end: 5;
         grid-column-start: 1;
         grid-column-end: 4;
-        margin-top: 5%;
+    }
+
+    .bienvenue div {
+        margin-top: 20%;
         margin-right: 15%;
         margin-left: 10%;
         padding: 2%;
-        background-color: rgba(0, 0, 0, 0.2);
+        background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
     }
+
+    .btn_contact_home {
+        font-size: 3vw;
+        border-bottom: 3px solid black;
+        border-left: 3px solid black;
+    }
+
+    .bienvenue h1 {
+        font-size: 5vw;
+    }
+
+    .bienvenue h2 {
+        font-size: 4vw;
+    }
+
+    .bienvenue p {
+        font-size: 3.5vw;
+    }
+}
+
+@media (min-width: 381px) and (max-width: 600px) {
+    #HeaderHome {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 4fr 1fr;
+        grid-template-rows: auto auto auto 750px;
+    }
+
+    #HeaderHome #banniere_droite {
+        height: 100%;
+        grid-column-start: 3;
+        grid-column-end: 4;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        background-position: left;
+    }
+
+    #HeaderHome #banniere_gauche {
+        height: 100%;
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        background-position: right;
+    }
+
+    #HeaderHome #logo {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #HeaderHome nav {
+        grid-column-start: 1;
+        grid-column-end: 4;
+        grid-row-start: 3;
+        grid-row-end: 4;
+    }
+
+    .bienvenue {
+        grid-row-start: 4;
+        grid-row-end: 5;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .bienvenue div {
+        margin-top: 20%;
+        margin-right: 10%;
+        margin-left: 10%;
+        padding: 2%;
+        background-color: rgba(0, 0, 0, 0.4);
+        border-radius: 10px;
+    }
+
+    .btn_contact_home {
+        font-size: 3vw;
+        border-bottom: 3px solid black;
+        border-left: 3px solid black;
+    }
+
+    .bienvenue h1 {
+        font-size: 7vw;
+    }
+
+    .bienvenue h2 {
+        font-size: 5vw;
+    }
+
+    .bienvenue p {
+        font-size: 4vw;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 380px) {
+
+    #HeaderHome {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 4fr 1fr;
+        grid-template-rows: auto auto auto 500px;
+    }
+
+    #HeaderHome #banniere_droite {
+        height: 100%;
+        grid-column-start: 3;
+        grid-column-end: 4;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        background-position: left;
+    }
+
+    #HeaderHome #banniere_gauche {
+        height: 100%;
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        background-position: right;
+    }
+
+    #HeaderHome #logo {
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 3;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #HeaderHome nav {
+        grid-column-start: 1;
+        grid-column-end: 4;
+        grid-row-start: 3;
+        grid-row-end: 4;
+    }
+
+    .bienvenue {
+        grid-row-start: 4;
+        grid-row-end: 5;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .bienvenue div {
+        margin-top: 20%;
+        margin-right: 10%;
+        margin-left: 10%;
+        padding: 2%;
+        background-color: rgba(0, 0, 0, 0.4);
+        border-radius: 10px;
+    }
+
+    .btn_contact_home {
+        font-size: 3vw;
+        border-bottom: 3px solid black;
+        border-left: 3px solid black;
+    }
+
+    .bienvenue h1 {
+        font-size: 5vw;
+    }
+
+    .bienvenue h2 {
+        font-size: 4vw;
+    }
+
+    .bienvenue p {
+        font-size: 3.5vw;
+    }
+
 }

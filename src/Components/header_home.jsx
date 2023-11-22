@@ -50,9 +50,12 @@ function HeaderHome() {
             </nav>
             <div id='banniere_droite' />
             <div className='bienvenue'>
+                <div>
                 <h1>Vous organisez un événement ? </h1>
                 <h2>Un événement important pour <strong>vous</strong> est aussi important pour <strong>nous</strong>. </h2>
                 <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, eligendi. Vero error id cupiditate animi. Sed modi, odit veritatis earum nostrum labore consectetur fugiat minima officia hic nisi saepe quidem.</p>
+                <section className='contact_home'><NavLink to="/Contact" className="btn_contact_home">Nous contacter</NavLink></section>
+                </div>
             </div>
         </header>
     )
