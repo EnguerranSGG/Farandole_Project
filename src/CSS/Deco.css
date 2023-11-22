@@ -1,7 +1,7 @@
 /** Zone deco **/
 
 .presentation_deco {
-    background-image: url("../Illustrations/acceuil_farandole.avif");
+    background-image: url("../Illustrations/illustration_deco.avif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -28,9 +28,9 @@
 
 /** Media queries **/
 
-@media (max-width: 700px) {
+@media (max-width: 390px) {
     .presentation_deco {
-        height: 500px;
+        height: 600px;
     }
 
     .presentation_deco p {
@@ -38,12 +38,28 @@
     }
 }
 
+@media (min-width: 390px) and (max-width: 700px) {
+    .presentation_deco {
+        height: 750px;
+    }
+
+    .presentation_deco p {
+        font-size: 4vw;
+    }
+}
+
 @media (min-width: 701px) and (max-width: 1000px) {
     .presentation_deco {
-        height: 800px;
+        height: 1100px;
     }
     .presentation_deco p {
         font-size: 3vw;
+    }
+}
+
+@media (min-width: 1001px) and (max-width: 1400px) {
+    .presentation_deco {
+        height: 1100px;
     }
 }
 
