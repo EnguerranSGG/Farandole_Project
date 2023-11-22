@@ -16,6 +16,8 @@ import './CSS/Farces.css';
 import './CSS/Cadeaux.css';
 import './CSS/Machines_alimentaires.css';
 import './CSS/Estaminet.css';
+import './CSS/Deco.css';
+import './CSS/Error.css';
 
 import Header from './Components/header';
 import Deguisements from './Components/deguisements';
@@ -34,6 +36,8 @@ import Farces from './Components/farces_attrapes';
 import Celebrations from './Components/cadeaux_celebrationnels';
 import Machines_alimentaires from './Components/machines_sucreries';
 import Estaminet from './Components/jeux_estaminet';
+import Deco from './Components/deco_evenementielle';
+import Error from './Components/error';
 
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom';
 
@@ -41,7 +45,7 @@ const router = createBrowserRouter([
   {
     path: '/',
     element: <><Outlet /><Footer /></>,
-    errorElement: <><Header /><h1>Désolé mais cette page n'existe pas.</h1><Footer /></>,
+    errorElement: <><Header /><Error /><Footer /></>,
     children: [
       {
         path: '',
@@ -117,6 +121,11 @@ const router = createBrowserRouter([
         path: 'Jeux_estaminet',
 
         element: <><Header /><Estaminet /></>
+      },
+      {
+        path: 'Deco_evenementielle',
+
+        element: <><Header /><Deco /></>
       },
       {
         path: 'Contact',

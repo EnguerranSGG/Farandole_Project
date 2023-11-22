@@ -44,7 +44,7 @@ function HeaderHome() {
                         <NavLink className="active" to="/Chateaux_gonflables">Chateaux gonflables</NavLink>
                         <NavLink className="active" to="/Machines_alimentaires">Machines à sucreries</NavLink>
                         <NavLink className="active" to="/Jeux_estaminet">Jeux d'estaminet</NavLink>
-                        <a href=""> Décorations </a>
+                        <NavLink className="active" to="/Deco_evenementielle">Décoration</NavLink>
                     </div>
                 </div>
             </nav>
