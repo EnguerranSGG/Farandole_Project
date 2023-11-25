@@ -16,7 +16,7 @@
 }
 
 .presentation_gateaux_bonbons div {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
     display: flex;
     flex-direction: column;
     justify-content: center;
