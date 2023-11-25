@@ -31,8 +31,15 @@ footer p {
 }
 
 #contact a:hover {
-  transform: scale(1.1);
   color: rgba(255, 124, 228, 1);
+}
+
+#contact {
+  transition: transform 300ms ease-in-out;
+}
+
+#contact:hover {
+  transform: scale(1.05);
 }
 
 #facebook {
