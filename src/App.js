@@ -18,6 +18,7 @@ import './CSS/Machines_alimentaires.css';
 import './CSS/Estaminet.css';
 import './CSS/Deco.css';
 import './CSS/Error.css';
+import './CSS/Mentions_legales.css';
 
 import Header from './Components/header';
 import Deguisements from './Components/deguisements';
@@ -38,6 +39,7 @@ import Machines_alimentaires from './Components/machines_sucreries';
 import Estaminet from './Components/jeux_estaminet';
 import Deco from './Components/deco_evenementielle';
 import Error from './Components/error';
+import Mentions from './Components/mentions_legales';
 
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom';
 
@@ -131,6 +133,11 @@ const router = createBrowserRouter([
         path: 'Contact',
 
         element: <><Header /><Contact /></>
+      },
+      {
+        path: 'Mentions_legales',
+
+        element: <><Header /><Mentions /></>
       }
     ]
   }

@@ -1,0 +1,79 @@
+/** Zone mentions legales **/
+
+.presentation_mentions {
+    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/acceuil_farandole.avif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.presentation_mentions div {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2%;
+    border-radius: 10px;
+    position: relative;
+    margin: 1%;
+}
+
+.presentation_mentions h2 {
+    color: rgba(255, 124, 228, 1);
+}
+
+.presentation_mentions p {
+    font-size: 2vw;
+}
+
+/** Media queries **/
+
+@media (max-width: 390px) {
+    .presentation_mentions {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .presentation_mentions p {
+        font-size: 3vw;
+    }
+}
+
+@media (min-width: 390px) and (max-width: 700px) {
+    .presentation_mentions {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .presentation_mentions p {
+        font-size: 4vw;
+    }
+    
+}
+
+@media (min-width: 701px) and (max-width: 1000px) {
+    .presentation_mentions {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .presentation_mentions p {
+        font-size: 3vw;
+    }
+}
+
+/** Media queries landscape **/
+
+@media (max-width: 700px) and (orientation: landscape) {
+
+    .presentation_mentions p {
+        font-size: 3vw;
+    }
+}

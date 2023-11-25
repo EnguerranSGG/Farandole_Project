@@ -28,7 +28,6 @@ function HeaderHome() {
                         <NavLink to="/Perso"> Mugs et puzzles personnalisables</NavLink>
                         <NavLink to="/Farces_attrapes"> Farce et attrape</NavLink>
                         <NavLink to="/Celebrations">Cadeaux toutes occasions</NavLink>
-                        <NavLink to="/Contact">Événements clès-en-mains</NavLink>
                     </div>
                 </div>
                 <div className='dropdown'>
