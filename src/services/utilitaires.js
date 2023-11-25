@@ -50,6 +50,24 @@ export const viewerProduits = (produit) => {
   })
 }
 
+export const showCoco = (produit) => {
+  const viewer = document.getElementById('showCoco');
+  viewer.className = 'showCoco';
+
+  viewer.innerHTML = `
+    <section class="showCocoSection">
+    <div><img src="${produit.image}" alt="${produit.nom}" id="choco_img"/></div>
+    <div class="showCocoText"><p>${produit.nom}</p>
+    <p>${produit.description}</p>
+    <button class="btn" id="fermer_deguisements">Fermer</button></div></section>`
+
+  const btn = document.getElementById('fermer_deguisements');
+
+  btn.addEventListener('click', () => {
+    viewer.className = 'notViewer';
+  })
+}
+
 export const viewerAccessoires = (produit) => {
   const viewer = document.getElementById('viewer_accessoires');
   viewer.className = 'viewer';

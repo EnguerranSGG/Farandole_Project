@@ -48,6 +48,57 @@
     border-radius: 10px;
 }
 
+.notViewer {
+    display: none;
+}
+
+.showCoco {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.showCocoSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+    background-color: rgba(255, 124, 228, 0.6);
+    border-radius: 10px;
+    margin: 5%;
+}
+
+.showCocoText {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+    padding: 3%;
+}
+
+.showCocoText p {
+    font-size: 2vw;
+}
+
+#choco_img {
+    height: 550px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+
 @media screen and (max-width: 900px) {
 
     .presentation_chocolats {
@@ -77,6 +128,24 @@
         border-radius: 10px;
     }
 
+    #choco_img {
+        height: 400px;
+        width: 100%;
+    }
+
+    .showCocoSection {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin: 5%;
+    }
+
+    .showCoco p {
+        font-size: 5vw;
+        text-align: center;
+    }
+
 }
 
 @media (min-width: 768px) and (max-width: 1300px) {
@@ -96,6 +165,16 @@
 
     .prix_chocolats img {
         height: 400px;
+    }
+
+    #choco_img {
+        height: 700px;
+        width: 400px;
+    }
+
+    .showCoco p {
+        font-size: 4vw;
+        text-align: center;
     }
 }
 
@@ -117,4 +196,65 @@
     .prix_chocolats img {
         height: 400px;
     }
+
+    #choco_img {
+        height: 500px;
+    }
+
+    .showCoco p {
+        font-size: 5vw;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 1250px) and (orientation: landscape) {
+
+    #choco_img {
+        height: 350px;
+        min-width: 250px;
+    }
+
+    .showCocoSection {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        color: aliceblue;
+        background-color: rgba(255, 124, 228, 0.6);
+        border-radius: 10px;
+        gap: 1%;
+        margin: 5%;
+    }
+
+    .showCoco p {
+        font-size: 2.5vw;
+    }
+}
+
+@media (max-width: 800px) and (orientation: landscape) {
+
+    #choco_img {
+        height: 300px;
+    }
+
+}
+
+@media (max-width: 700px) and (orientation: landscape) {
+
+    #choco_img {
+        height: 300px;
+        min-width: 250px;
+    }
+
+
+}
+
+@media (max-width: 600px) and (orientation: landscape) {
+
+    #choco_img {
+        height: 250px;
+        min-width: 200px;
+    }
+
 }
