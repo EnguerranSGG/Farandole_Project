@@ -56,7 +56,7 @@ export const showCoco = (produit) => {
 
   viewer.innerHTML = `
     <section class="showCocoSection">
-    <div><img src="${produit.image}" onError={e => e.currentTarget.src ="${produit.imageJPG}" } alt="${produit.nom}" id="choco_img"/></div>
+    <div><img src="${produit.image}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}" id="choco_img"/></div>
     <div class="showCocoText"><p>${produit.nom}</p>
     <p>${produit.description}</p>
     <button class="btn" id="fermer_deguisements">Fermer</button></div></section>`
