@@ -34,6 +34,7 @@ p {
   border-radius: 10px;
   transition: transform 300ms ease-in-out;
   font-size: 1vw;
+  text-align: center;
   font-family: 'Kalam', cursive;
   background-color: aliceblue;
   color: rgba(255, 124, 228, 1);
