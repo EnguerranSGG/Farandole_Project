@@ -36,9 +36,9 @@
 
 .chocolats {
     color: aliceblue;
-    font-size: 2vw;
     text-align: justify;
     padding-right: 3%;
+    color: aliceblue;
 }
 
 .prix_chocolats img {

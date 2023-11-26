@@ -551,6 +551,11 @@
     ],
     "chocolats_artisanaux": [
       {
+        "nom": "Chocolats artisanaux en balottins",
+        "description": "Disponibles en magasin et sur commande",
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/chocolats_prix.avif"
+      },
+      {
         "nom": "La couronne",
         "description": "Ganache rhum raisin enrobée de chocolat noir",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_la_couronne.avif"

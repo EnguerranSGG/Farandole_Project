@@ -1,6 +1,5 @@
 import React from "react";
 import useProduits from "../hooks/convertFetchProduits";
-import choco_prix from "../Illustrations/chocolats_prix.avif";
 import { isEmpty, showCoco } from "../services/utilitaires";
 
 function Chocolats() {
@@ -20,12 +19,9 @@ function Chocolats() {
                 </div>
             </section>
             <section id="chocolats">
-                <p className="chocolats">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt et doloremque modi quidem quia voluptatibus, dicta aspernatur aliquid eveniet, accusantium explicabo ea quasi placeat vel. Obcaecati debitis reiciendis nesciunt ullam.
-                </p>
-                <div className="prix_chocolats">
-                    <img src={choco_prix} alt="Prix des chocolats" />
-                </div>
+                <h1 className="chocolats">
+                    Toute notre gamme :
+                </h1>
             </section>
             <section className='all_products'>
                     {Array.isArray(chocolats) && !isEmpty(chocolats) && chocolats.map((produit, index) => (
