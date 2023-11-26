@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Farandole_Project/static/css/main.7f03184a.css",
-    "main.js": "/Farandole_Project/static/js/main.dbbd738d.js",
+    "main.js": "/Farandole_Project/static/js/main.617e7722.js",
     "static/js/787.2c30b784.chunk.js": "/Farandole_Project/static/js/787.2c30b784.chunk.js",
     "static/media/baniere_farandole_gauche.png": "/Farandole_Project/static/media/baniere_farandole_gauche.0f182283971c64aac083.png",
     "static/media/baniere_farandole_droite.png": "/Farandole_Project/static/media/baniere_farandole_droite.929e7bff4c9901bcac44.png",
@@ -11,11 +11,11 @@
     "static/media/caret-up.svg": "/Farandole_Project/static/media/caret-up.bb76a491cb02ed907bbcbec0fe8bb649.svg",
     "static/media/caret-down.svg": "/Farandole_Project/static/media/caret-down.a87e544c96b9906c312f5a72c770d48e.svg",
     "main.7f03184a.css.map": "/Farandole_Project/static/css/main.7f03184a.css.map",
-    "main.dbbd738d.js.map": "/Farandole_Project/static/js/main.dbbd738d.js.map",
+    "main.617e7722.js.map": "/Farandole_Project/static/js/main.617e7722.js.map",
     "787.2c30b784.chunk.js.map": "/Farandole_Project/static/js/787.2c30b784.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f03184a.css",
-    "static/js/main.dbbd738d.js"
+    "static/js/main.617e7722.js"
   ]
 }
