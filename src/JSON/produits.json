@@ -560,49 +560,49 @@
         "nom": "La couronne",
         "description": "Ganache rhum raisin enrobée de chocolat noir",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_la_couronne.avif",
-        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/chocolats_la_couronne.jpg?raw=true"
+        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_la_couronne.JPG?raw=true"
       },
       {
         "nom": "Chiraz",
         "description": "Pranliné brésilien amandes/noisettes caramélisées enrobé de chocolat noir",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_chiraz.avif",
-        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_chiraz.jpg?raw=true"
+        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_chiraz.JPG?raw=true"
       },
       {
         "nom": "Frivole",
         "description": "Pâte d'amande aux fruits confits enrobée de chocolat noir et surmontée d'une amande entière",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_frivole.avif",
-        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_frivole.jpg?raw=true"
+        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_frivole.JPG?raw=true"
       },
       {
         "nom": "Louise",
         "description": "Praliné au chocolat noir enrobé de chocolat noir",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_louise.avif",
-        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_louise.jpg?raw=true"
+        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_louise.JPG?raw=true"
       },
       {
         "nom": "Macchiato",
         "description": "Praliné au café enrobé de chocolat au lait",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_macchiato.avif",
-        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_macchiato.jpg?raw=true"
+        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_macchiato.JPG?raw=true"
       },
       {
         "nom": "Monica",
         "description": "Ganache moka enrobée de chocolat au lait",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_monica.avif",
-        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_monica.jpg?raw=true"
+        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_monica.JPG?raw=true"
       },
       {
         "nom": "Sinatra",
         "description": "Praliné croustillant enrobé de chocolat au lait",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_sinatra.avif",
-        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_sinatra.jpg?raw=true"
+        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_sinatra.JPG?raw=true"
       },
       {
         "nom": "Stromboli",
         "description": "Praliné brésilien amandes/noisettes caramélisées et concassées enrobé de chocolat noir",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chocolats_artisanaux/choco_stromboli.avif",
-        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_stromboli.jpg?raw=true"
+        "imageJPG":"https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chocolats_artisanaux_JPG/choco_stromboli.JPG?raw=true"
       }
     ],
     "sucreries_antan": [
