@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/Farandole_Project/static/css/main.bdfe1ca4.css",
-    "main.js": "/Farandole_Project/static/js/main.427b5870.js",
+    "main.css": "/Farandole_Project/static/css/main.4f1798ab.css",
+    "main.js": "/Farandole_Project/static/js/main.09d914cb.js",
     "static/js/787.2c30b784.chunk.js": "/Farandole_Project/static/js/787.2c30b784.chunk.js",
     "static/media/baniere_farandole_gauche.png": "/Farandole_Project/static/media/baniere_farandole_gauche.0f182283971c64aac083.png",
     "static/media/baniere_farandole_droite.png": "/Farandole_Project/static/media/baniere_farandole_droite.929e7bff4c9901bcac44.png",
     "static/media/illusatration_deguisement_provisoire.avif": "/Farandole_Project/static/media/illusatration_deguisement_provisoire.f0e9dd57ccd036c7382c.avif",
-    "static/media/chocolats_prix.avif": "/Farandole_Project/static/media/chocolats_prix.bcd2220738e43ac1d9de.avif",
     "index.html": "/Farandole_Project/index.html",
     "static/media/facebook-logo.svg": "/Farandole_Project/static/media/facebook-logo.5003b0bfdbaf9484998bd59e337f7475.svg",
     "static/media/caret-up.svg": "/Farandole_Project/static/media/caret-up.bb76a491cb02ed907bbcbec0fe8bb649.svg",
     "static/media/caret-down.svg": "/Farandole_Project/static/media/caret-down.a87e544c96b9906c312f5a72c770d48e.svg",
-    "main.bdfe1ca4.css.map": "/Farandole_Project/static/css/main.bdfe1ca4.css.map",
-    "main.427b5870.js.map": "/Farandole_Project/static/js/main.427b5870.js.map",
+    "main.4f1798ab.css.map": "/Farandole_Project/static/css/main.4f1798ab.css.map",
+    "main.09d914cb.js.map": "/Farandole_Project/static/js/main.09d914cb.js.map",
     "787.2c30b784.chunk.js.map": "/Farandole_Project/static/js/787.2c30b784.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdfe1ca4.css",
-    "static/js/main.427b5870.js"
+    "static/css/main.4f1798ab.css",
+    "static/js/main.09d914cb.js"
   ]
 }
