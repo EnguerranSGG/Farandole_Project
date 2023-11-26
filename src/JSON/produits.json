@@ -241,7 +241,7 @@
         "style": "Clown / Cirque / Halloween",
         "prix": 30,
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_clown_1.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_clown_1.jpg?raw=true"
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_clown.jpg?raw=true"
       },
       {
         "nom": "Déguisement de pilote",
@@ -599,7 +599,7 @@
       {
         "nom": "Gateau en bonbons Minnie",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_minnie.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_minie.jpg?raw=true"
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_minnie.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons avec jouet : hélicoptère",
@@ -624,7 +624,7 @@
       {
         "nom": "Composition de petits gateaux en forme de coeur",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/compo_gateau_2.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/compo_gateaux_2.jpg?raw=true"
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/compo_gateau_2.jpg?raw=true"
       },
       {
         "nom": "Composition de petits gateaux initial",
