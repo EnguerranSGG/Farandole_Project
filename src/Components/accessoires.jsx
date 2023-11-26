@@ -25,7 +25,7 @@ function Accessoires() {
       <section id='accessoires' className='pasAccessoires'>
         {Array.isArray(accessoires) && !isEmpty(accessoires) && accessoires.map((produit) => (
           <><div className='produit' key={produit.id}>
-            <img src={produit.image} alt={produit.nom} onClick={() => viewerAccessoires(produit)} />
+            <img src={produit.image} onError={e => e.currentTarget.src =`${produit.imageJPG}` } alt={produit.nom} onClick={() => viewerAccessoires(produit)} />
           </div>
             <div id='viewer_accessoires' className='notViewer'></div>
           </>

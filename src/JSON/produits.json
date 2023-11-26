@@ -6,56 +6,64 @@
         "catégorie": "Homme",
         "style": "Noël",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pere_noel.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pere_noel.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_pere_noel.jpg?raw=true"
       },
       {
         "nom": "Déguisement de reine",
         "catégorie": "Femme",
         "style": "Reine / Princesse / Médiéval",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_reine.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_reine.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_reine.jpg?raw=true"
       },
       {
         "nom": "Déguisement de hippie",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_hippie_femme.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_hippie_femme.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_hippie_femme.jpg?raw=true"
       },
       {
         "nom": "Déguisement de roi",
         "catégorie": "Homme",
         "style": "Roi / Prince / Médiéval",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_roi.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_roi.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_roi.jpg?raw=true"
       },
       {
         "nom": "Déguisement de reine",
         "catégorie": "Femme",
         "style": "Reine / Princesse / Médiéval",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_reine_2.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_reine_2.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_reine_2.jpg?raw=true"
       },
       {
         "nom": "Déguisement de chevalier",
         "catégorie": "Homme",
         "style": "Roi / Chevalier / Médiéval / Croisé",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_chevalier.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_chevalier.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_chevalier.jpg?raw=true"
       },
       {
         "nom": "Déguisement de pirate",
         "catégorie": "Homme",
         "style": "Pirate / Corsaire",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pirate.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pirate.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_pirate.jpg?raw=true"
       },
       {
         "nom": "Déguisement robe de soirée",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Nouvelle Année / Nouvel An",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_robe_soiree.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_robe_soiree.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_robe_soiree.jpg?raw=true"
       },
       {
         "id": 9,
@@ -63,42 +71,48 @@
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_films_noirs_femme_1.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_films_noirs_femme_1.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_films_noirs_femme_1.jpg?raw=true"
       },
       {
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_films_noirs_femme_2.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_films_noirs_femme_2.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_films_noirs_femme_2.jpg?raw=true"
       },
       {
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_films_noirs_femme_3.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_films_noirs_femme_3.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_films_noirs_femme_3.jpg?raw=true"
       },
       {
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An / Disco",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_films_noirs_femme_4.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_films_noirs_femme_4.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_films_noirs_femme_4.jpg?raw=true"
       },
       {
         "nom": "Déguisement de pharaon",
         "catégorie": "Femme",
         "style": "Robe / Égyptien / Pharaon",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pharaon.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pharaon.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_pharaon.jpg?raw=true"
       },
       {
         "nom": "Déguisement de vampire",
         "catégorie": "Femme",
         "style": "Robe / Vampire / Halloween / Dracula",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_vampire_femme.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_vampire_femme.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_vampire_femme.jpg?raw=true"
       },
       {
         "id": 15,
@@ -106,161 +120,184 @@
         "catégorie": "Femme",
         "style": "Robe / Infirmière",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_infirmiere.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_infirmiere.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_infirmiere.jpg?raw=true"
       },
       {
         "nom": "Déguisement robe style 70's",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_70s_femme.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_70s_femme.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_70s_femme.jpg?raw=true"
       },
       {
         "nom": "Déguisement d'infirmière",
         "catégorie": "Femme",
         "style": "Robe / Infirmière",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_infirmiere_2.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_infirmiere_2.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_infirmiere_2.jpg?raw=true"
       },
       {
         "nom": "Déguisement de loup-garou",
         "catégorie": "Homme",
         "style": "Loup-garou / Loup garou / Halloween",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_loup_garou.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_loup_garou.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_loup_garou.jpg?raw=true"
       },
       {
         "nom": "Déguisement Marilyn Monroe",
         "catégorie": "Femme",
         "style": "Robe / Marilyn Monroe / Soirée",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_marilyn_monroe.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_marilyn_monroe.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_marilyn_monroe.jpg?raw=true"
       },
       {
         "nom": "Déguisement tenue style 70's",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_70s_femme_2.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_70s_femme_2.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_70s_femme_2.jpg?raw=true"
       },
       {
         "nom": "Déguisement de savant fou",
         "catégorie": "Homme",
         "style": "Savant fou / Chimiste / Halloween",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_savant_fou.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_savant_fou.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_savant_fou.jpg?raw=true"
       },
       {
         "nom": "Déguisement de prisonnier",
         "catégorie": "Homme",
         "style": "Prisonnier / Évadé / Halloween",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_prisonnier.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_prisonnier.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_prisonnier.jpg?raw=true"
       },
       {
         "nom": "Déguisement de César",
         "catégorie": "Homme",
         "style": "César / Romain",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_cesar.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_cesar.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_cesar.jpg?raw=true"
       },
       {
         "nom": "Déguisement de pirate",
         "catégorie": "Femme",
         "style": "Pirate / Corsaire",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pirate_femme.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pirate_femme.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_pirate.jpg?raw=true"
       },
       {
         "nom": "Déguisement de prisonnier",
         "catégorie": "Homme",
         "style": "Prisonnier / Évadé / Halloween",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_prisonnier_2.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_prisonnier_2.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_prisonnier_2.jpg?raw=true"
       },
       {
         "nom": "Déguisement d'écossais",
         "catégorie": "Homme",
         "style": "Écossais / St Patrick / Kilt",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_ecossais.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_ecossais.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_ecossais.jpg?raw=true"
       },
       {
         "nom": "Déguisement de braqueur",
         "catégorie": "Homme",
         "style": "Braqueur / Squid Game / La casa de papel",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_braqueur.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_braqueur.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_braqueur.jpg?raw=true"
       },
       {
         "nom": "Déguisement de ballerine",
         "catégorie": "Femme",
         "style": "Robe / Ballerine / Ballet / Soirée / Nouvelle Année / Nouvel An",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_ballerine.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_ballerine.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_ballerine.jpg?raw=true"
       },
       {
         "nom": "Déguisement de sorcière",
         "catégorie": "Femme",
         "style": "Robe / Sorcière / Halloween",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_sorciere.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_sorciere.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_sorciere.jpg?raw=true"
       },
       {
         "nom": "Déguisement de clown",
         "catégorie": "Femme",
         "style": "Clown / Cirque / Halloween",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_clown_1.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_clown_1.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_clown_1.jpg?raw=true"
       },
       {
         "nom": "Déguisement de pilote",
         "catégorie": "Homme",
         "style": "Pilote / Avion",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pilote.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pilote.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_pilote.jpg?raw=true"
       },
       {
         "nom": "Déguisement robe disco",
         "catégorie": "Femme",
         "style": "Robe / Disco / Hippie / 70's / Années 70",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_robe_disco.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_robe_disco.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_robe_disco.jpg?raw=true"
       },
       {
         "nom": "Déguisement de socière",
         "catégorie": "Enfant",
         "style": "Robe / Sorcière / Halloween",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_sorciere_enfant.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_sorciere_enfant.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_sorciere_enfant.jpg?raw=true"
       },
       {
         "nom": "Déguisement de clown",
         "catégorie": "Enfant",
         "style": "Clown / Cirque / Halloween",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_clown_enfant.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_clown_enfant.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_clown_enfant.jpg?raw=true"
       },
       {
         "nom": "Déguisement exploratrice galactique",
         "catégorie": "Femme",
         "style": "Espace / Galactique / Exploratrice",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_galactique_femme.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_galactique_femme.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_galactique_femme.jpg?raw=true"
       },
       {
         "nom": "Déguisement de ninja",
         "catégorie": "Homme",
         "style": "Ninja / Samouraï / Asiatique",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_ninja.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_ninja.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_ninja.jpg?raw=true"
       },
       {
         "nom": "Déguisement robe asiatique",
         "catégorie": "Femme",
         "style": "Ninja / Asiatique",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_robe_asiatique.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_robe_asiatique.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_robe_asiatique.jpg?raw=true"
       }
     ],
     "accessoires": [
@@ -268,169 +305,197 @@
         "nom": "Spray pour cheveux couleur rouge",
         "catégorie": "Cheveux",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/accessoires_spray_cheveux_bleu.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/accessoires_spray_cheveux_bleu.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/accessoires_spray_cheveux_bleu.jpg?raw=true"
       },
       {
         "nom": "Spray pour cheveux couleur noir",
         "catégorie": "Cheveux",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/accessoires_spray_cheveux_noir.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/accessoires_spray_cheveux_noir.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/accessoires_spray_cheveux_noir.jpg?raw=true"
       },
       {
         "nom": "Spray pour cheveux couleur bleu",
         "prix": 30,
         "catégorie": "Cheveux",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/accessoires_spray_cheveux_rouges.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/accessoires_spray_cheveux_rouges.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/accessoires_spray_cheveux_rouges.jpg?raw=true"
       },
       {
         "nom": "Kit de maquillage de clown",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_clown.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_clown.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_clown.jpg?raw=true"
       },
       {
         "nom": "Kit de maquillage de pirate",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_pirate.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_pirate.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_pirate.jpg?raw=true"
       },
       {
         "nom": "Kit de maquillage de diable",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_diable.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_diable.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_diable.jpg?raw=true"
       },
       {
         "nom": "Kit de maquillage de vampire",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_vampire.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_vampire.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_vampire.jpg?raw=true"
       },
       {
         "nom": "Kit de maquillage de faucheuse",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_faucheuse.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_faucheuse.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_faucheuse.jpg?raw=true"
       },
       {
         "nom": "Kit de maquillage de sorcière",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_sorciere.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_sorciere.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_sorciere.jpg?raw=true"
       },
       {
         "nom": "Kit de maquillage de zombie",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_zombie.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_zombie.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_zombie.jpg?raw=true"
       },      
       {
         "nom": "Capsule de faux sang",
         "catégorie": "Maquillage",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/accessoires_capsules_sang.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/accessoires_capsules_sang.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/accessoires_capsules_sang.jpg?raw=true"
       },
       {
         "nom": "Collier de faux sang",
         "prix": 30,
         "catégorie": "Collier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/collier_faux_sang.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/collier_faux_sang.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/collier_faux_sang.jpg?raw=true"
       },
       {
         "nom": "Palette de maquillage",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/palette_maquillage.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/palette_maquillage.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/palette_maquillage.jpg?raw=true"
       },
       {
         "nom": "Maquillage arc-en-ciel",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_arc_en_ciel.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_arc_en_ciel.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/maquillage_arc_en_ciel.jpg?raw=true"
       },
       {
         "nom": "Maquillage drapeau français",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_drapeau_francais.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_drapeau_francais.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/maquillage_drapeau_francais.jpg?raw=true"
       },
       {
         "nom": "Kit maquillage noir et blanc",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_noir_et_blanc.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_noir_et_blanc.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_noir_et_blanc.jpg?raw=true"
       },
       {
         "nom": "Kit maquillage rouge et noir",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_rouge_et_noir.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/kit_maquillage_rouge_et_noir.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/kit_maquillage_rouge_et_noir.jpg?raw=true"
       },
       {
         "nom": "Maquillage noir",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_noir.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_noir.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/maquillage_noir.jpg?raw=true"
       },
       {
         "nom": "Palette de maquillage phosphorescent",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/palette_maquillage_phosphorescent.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/palette_maquillage_phosphorescent.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/palette_maquillage_phosphorescent.jpg?raw=true"
       },
       {
         "nom": "Crayons de maquillage phosphorescent",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/crayons_maquillage_phosphorescent.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/crayons_maquillage_phosphorescent.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/crayons_maquillage_phosphorescent.jpg?raw=true"
       },
       {
         "nom": "Maquillage rose phosphorescent",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_rose_phosphorescent.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_rose_phosphorescent.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/maquillage_rose_phosphorescent.jpg?raw=true"
       },
       {
         "nom": "Maquillage vert phosphorescent",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_vert_phosphorescent.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_vert_phosphorescent.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/maquillage_vert_phosphorescent.jpg?raw=true"
       },
       {
         "nom": "Maquillage orange phosphorescent",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_orange_phosphorescent.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_orange_phosphorescent.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/maquillage_orange_phosphorescent.jpg?raw=true"
       },
       {
         "nom": "Maquillage jaune phosphorescent",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_jaune_phosphorescent.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/maquillage_jaune_phosphorescent.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/maquillage_jaune_phosphorescent.jpg?raw=true"
       },
       {
         "nom": "Tatouage brûlure au visage",
         "prix": 30,
         "catégorie": "Maquillage",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/tatouage_brulure_visage.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/tatouage_brulure_visage.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/tatouage_brulure_visage.jpg?raw=true"
       },
       {
         "nom": "Lentilles noir absolu",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/lentilles_noir_absolu.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/lentilles_noir_absolu.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/lentilles_noir_absolu.jpg?raw=true"
       },
       {
         "nom": "Lentilles rouges yeux de loup",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/lentilles_rouges_yeux_de_loup.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/lentilles_rouges_yeux_de_loup.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/lentilles_rouges_yeux_de_loup.jpg?raw=true"
       },
       {
         "nom": "Lentilles bleues arctiques",
         "prix": 30,
         "catégorie": "Lentilles",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/lentilles_bleues_arctiques.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Accessoires/lentilles_bleues_arctiques.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Accessoires_JPG/lentilles_bleues_arctiques.jpg?raw=true"
       }
     ],
     "compositions_dragees": [
@@ -478,75 +543,93 @@
     "gateaux_bonbons": [
       {
         "nom": "Gateau en bonbons d'anniversaire",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_anniversaire.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_anniversaire.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_anniversaire.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons ballon de foot",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_ballon.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_ballon.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_ballon.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons barbie",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_barbie.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_barbie.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_barbie.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons bébé",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_bebe.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_bebe.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_bebe.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons citrouille",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_citrouille.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_citrouille.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_citrouille.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons licorne",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_licorne.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_licorne.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_licorne.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons madame",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_madame.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_madame.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_madame.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons madame",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_marie%CC%81s.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_marie%CC%81s.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_marie%CC%81s.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons poisson",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_poisson.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_poisson.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_poisson.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons spiderman",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_spiderman.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_spiderman.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_spiderman.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons roi lion",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_roi_lion.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_roi_lion.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_roi_lion.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons Minnie",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_minnie.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_minnie.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_minie.jpg?raw=true"
       },
       {
         "nom": "Gateau en bonbons avec jouet : hélicoptère",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/mgateau_bonbon_helico.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/mgateau_bonbon_helico.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_helico.JPG?raw=true"
       },
       {
         "nom": "Gateau en bonbons avec jouet : ambulance",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/mgateau_bonbon_ambulance.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/mgateau_bonbon_ambulance.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_ambulance.JPG?raw=true"
       },
       {
         "nom": "Gateau en bonbons barbie",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_barbie_photo.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/gateau_bonbon_barbie_photo.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/gateau_bonbon_barbie_photo.jpg?raw=true"
       },
       {
         "nom": "Composition de petits gateaux sur le thème du foot",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/compo_gateaux_1.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/compo_gateaux_1.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/compo_gateaux_1.jpg?raw=true"
       },
       {
         "nom": "Composition de petits gateaux en forme de coeur",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/compo_gateau_2.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/compo_gateau_2.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/compo_gateaux_2.jpg?raw=true"
       },
       {
         "nom": "Composition de petits gateaux initial",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/compo_gateaux_3.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Gateaux_bonbons/compo_gateaux_3.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Gateaux_bonbons_JPG/compo_gateaux_3.jpg?raw=true"
       }
     ],
     "chocolats_artisanaux": [

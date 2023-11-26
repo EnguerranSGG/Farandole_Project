@@ -38,7 +38,7 @@ export const viewerProduits = (produit) => {
 
   viewer.innerHTML = `
   <div>
-    <img src="${produit.image}" alt="${produit.nom}" id="viewer_img"/>
+    <img src="${produit.image}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}" id="viewer_img"/>
     <p>${produit.nom}</p>
     <button class="btn" id="fermer_deguisements">Fermer</button>
   </div>`
@@ -74,7 +74,7 @@ export const viewerAccessoires = (produit) => {
 
   viewer.innerHTML = `
     <div>
-      <img src="${produit.image}" alt="${produit.nom}"/>
+      <img src="${produit.image}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}"/>
       <p>${produit.nom}</p>
       <button class="btn" id="fermer_accessoires">Fermer</button>
     </div>`
