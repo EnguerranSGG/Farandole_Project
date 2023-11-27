@@ -93,9 +93,9 @@ export const viewerChateaux = (produit) => {
   viewer.innerHTML = `
     <div>
     <h2>${produit.nom}</h2>
-      <div id="images_chateaux"><img id="image1_chateaux" src="${produit.image1}" alt="${produit.nom}"/>
-      <img id="image2_chateaux" src="${produit.image2}" alt="${produit.nom}"/>
-      <img id="image3_chateaux" src="${produit.image3}" alt="${produit.nom}"/></div>
+      <div id="images_chateaux"><img id="image1_chateaux" src="${produit.image1}" onerror="this.src='${produit.imageJPG1}'" alt="${produit.nom}"/>
+      <img id="image2_chateaux" src="${produit.image2}" onerror="this.src='${produit.imageJPG2}'" alt="${produit.nom}"/>
+      <img id="image3_chateaux" src="${produit.image3}" onerror="this.src='${produit.imageJPG3}'" alt="${produit.nom}"/></div>
       <p>${produit.dimensions}</p>
       <button class="btn" id="fermer_accessoires">Fermer</button>
     </div>`

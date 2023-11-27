@@ -18,7 +18,7 @@ function Produits_regionnaux() {
         <section className='all_products'>
             {Array.isArray(produits_regionnaux) && !isEmpty(produits_regionnaux) && produits_regionnaux.map((produit, index) => (
                 <><div className='products' produit={produit} key={index}>
-                    <img src={produit.image} alt={produit.nom} onClick={() => viewerProduits(produit)} />
+                    <img src={produit.image} onError={e => e.currentTarget.src =`${produit.imageJPG}` } alt={produit.nom} onClick={() => viewerProduits(produit)} />
                 </div>
                     <div id='viewer' className='notViewer'></div>
                 </>

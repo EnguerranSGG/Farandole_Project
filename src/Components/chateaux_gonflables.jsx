@@ -18,7 +18,7 @@ function Chateaux_gonflables() {
         <section className='tous_les_chateaux'>
             {Array.isArray(chateaux_gonflables) && !isEmpty(chateaux_gonflables) && chateaux_gonflables.map((produit, index) => (
                 <><div className='chateaux' produit={produit} key={index}>
-                    <img id="chateaux_template_img" src={produit.image1} alt={produit.nom} onClick={() => viewerChateaux(produit)} />
+                    <img id="chateaux_template_img" src={produit.image1} onError={e => e.currentTarget.src =`${produit.imageJPG1}` } alt={produit.nom} onClick={() => viewerChateaux(produit)} />
                 </div>
                     <div id='viewer_accessoires' className='notViewer'></div>
                 </>
