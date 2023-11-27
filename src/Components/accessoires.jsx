@@ -1,4 +1,4 @@
-import illustration from 'https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illusatration_deguisement_provisoire.avif';
+import illustration from '../Illustrations/illusatration_deguisement_provisoire.avif';
 import illustrationJPG from 'https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illusatration_deguisement_provisoire.jpg?raw=true';
 import useProduits from '../hooks/convertFetchProduits';
 import { isEmpty, viewerAccessoires } from '../services/utilitaires';
