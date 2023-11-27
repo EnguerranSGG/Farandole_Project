@@ -1,5 +1,4 @@
 import illustration from '../Illustrations/illusatration_deguisement_provisoire.avif';
-import illustrationJPG from 'https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illusatration_deguisement_provisoire.jpg?raw=true';
 import useProduits from '../hooks/convertFetchProduits';
 import { isEmpty, viewerProduits } from '../services/utilitaires';
 import { voirDeguisements } from '../services/utilitaires';
@@ -21,7 +20,7 @@ function Deguisements() {
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           <a href='#deguisements' className='btnVoirDeguisements' onClick={() => voirDeguisements()}><span id='instruction_deguisements'>Voir tous nos déguisements</span></a>
         </div>
-        <img src={illustration} onError={e => e.currentTarget.src = {illustrationJPG} } className='illustrations_page_DeguisementsAccessories' />
+        <img src={illustration} onError={e => e.currentTarget.src = "https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illusatration_deguisement_provisoire.jpg?raw=true" } className='illustrations_page_DeguisementsAccessories' />
       </section>
       <section id='deguisements' className='pasProduits'>
         {Array.isArray(deguisements) && !isEmpty(deguisements) && deguisements.map((produit, index) => (
