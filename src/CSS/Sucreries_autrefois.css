@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_sucreries_antan.avif");
+    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_sucreries_antan.avif"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illustration_sucreries_antan.JPG?raw=true");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

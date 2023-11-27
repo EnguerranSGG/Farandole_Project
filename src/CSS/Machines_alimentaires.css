@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustrations_machines-alimentaires.avif");
+    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustrations_machines-alimentaires.avif"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illustrations_machines-alimentaires.jpg?raw=true");
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;

@@ -2,7 +2,7 @@
 
 .presentation_chocolats {
     display: flex;
-    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_chocolat.avif");
+    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_chocolat.avif"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illustration_chocolat.jpg?raw=true");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
