@@ -501,43 +501,53 @@
     "compositions_dragees": [
       {
         "nom": "Composition bébé et grande roue en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragee_bebe_roue.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragee_bebe_roue.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/deco_dragee_panda.jpg?raw=true"
       },
       {
         "nom": "Composition panda et grande roue en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragee_panda_roue.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragee_panda_roue.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/deco_dragee_panda.jpg?raw=true"
       },
       {
         "nom": "Composition wrecking chair en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_wrecking_chair.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_wrecking_chair.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/deco_dragee_wrecking_chair.jpg?raw=true"
       },
       {
         "nom": "Composition voiture en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragee_voiture_osier.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragee_voiture_osier.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/deco_dragee_voiture_osier.jpg?raw=true"
       },
       {
         "nom": "Composition en soier bleue",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragees_bleu.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragees_bleu.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/deco_dragee_bleu.jpg?raw=true"
       },
       {
         "nom": "Composition licorne en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragees_licorne.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_dragees_licorne.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/deco_dragee_licorne.jpg?raw=true"
       },
       {
         "nom": "Composition grande roue en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_grande_roue.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_grande_roue.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/presentoire_grande_roue.jpg?raw=true"
       },
       {
         "nom": "Composition licornes et fées en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_licornes_fees.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_licornes_fees.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/presentoire_licornes_fees.jpg?raw=true"
       },
       {
         "nom": "Composition panda et manège en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_manege_panda.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_manege_panda.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/presentoire_manege_panda.jpg?raw=true"
       },
       {
         "nom": "Composition licorne et mongolfière en osier",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_mongolfiere_licorne.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Compositions_dragees/presentoire_mongolfiere_licorne.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Compositions_dragees_JPG/presentoire_mongolfiere_licorne.jpg?raw=true"
       }
     ],
     "gateaux_bonbons": [
@@ -691,285 +701,353 @@
     "sucreries_antan": [
       {
         "nom": "Bois de réglisse",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/mbois_reglisse.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/mbois_reglisse.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/mbois_reglisse.JPG?raw=true"
       },
       {
         "nom": "Car en sac",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/car_en_sac.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/car_en_sac.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/car_en_sac.JPG?raw=true"
       },
       {
         "nom": "Bonbons à la violette",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/mbonbons_violettes.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/mbonbons_violettes.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/mbonbons_violettes.JPG?raw=true"
       },
       {
         "nom": "Boules coco",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/mboules_coco.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/mboules_coco.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/mboules_coco.JPG?raw=true"
       },
       {
         "nom": "Cacahuètes Kubli",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/cacahuetes_kubli.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/cacahuetes_kubli.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/cacahuetes_kubli.JPG?raw=true"
       },
       {
         "nom": "Colliers Dextrose",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/collier_dextrose.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/collier_dextrose.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/collier_dextrose.JPG?raw=true"
       },
       {
         "nom": "Sucettes Dextrose",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/sucettes_dextrose.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/sucettes_dextrose.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/sucettes_dextrose.JPG?raw=true"
       },
       {
         "nom": "Fondants au sucre",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/fondants_aux_sucres.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/fondants_aux_sucres.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/fondants_aux_sucres.JPG?raw=true"
       },
       {
         "nom": "Fraises mallow",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/fraises_mallow.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/fraises_mallow.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/fraises_mallow.JPG?raw=true"
       },
       {
         "nom": "Frizzy pazzy",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/frizzy_pazzy.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/frizzy_pazzy.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/frizzy_pazzy.JPG?raw=true"
       },
       {
         "nom": "Guimauves michoco",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/guimauves_michoco.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/guimauves_michoco.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/guimauves_michoco.JPG?raw=true"
       },
       {
         "nom": "Killtoïds",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/Killtoids.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/Killtoids.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/Killtoids.JPG?raw=true"
       },
       {
         "nom": "Palets au caramel",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/palets_caramel.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/palets_caramel.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/palets_caramel.JPG?raw=true"
       },
       {
         "nom": "Pipas",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/pipas.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/pipas.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/pipas.JPG?raw=true"
       },
       {
         "nom": "Pois au lard goût anis",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/pois_lard_anis.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/pois_lard_anis.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/pois_lard_anis.JPG?raw=true"
       },
       {
         "nom": "Roudoudous",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/roudoudou_1.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/roudoudou_1.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/roudoudou_1.JPG?raw=true"
       },
       {
         "nom": "Snap crackle",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/snap_and_crackle.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/snap_and_crackle.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/snap_and_crackle.JPG?raw=true"
       },
       {
         "nom": "Souris au caramel",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/souris_caramel.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/souris_caramel.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/souris_caramel.JPG?raw=true"
       },
       {
         "nom": "Sucettes Attrape",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/sucettes_attrape.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/sucettes_attrape.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/sucettes_attrape.JPG?raw=true"
       },
       {
         "nom": "Cigarettes bubble gum",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/cigarettes_bubble_gum.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/cigarettes_bubble_gum.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/cigarettes_bubble_gum.JPG?raw=true"
       },
       {
         "nom": "Tubble gum",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/tubble_gum.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/tubble_gum.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/tubble_gum.JPG?raw=true"
       },
       {
         "nom": "Zan goût menthe",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/zan_menthe.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/zan_menthe.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/zan_menthe.JPG?raw=true"
       },
       {
         "nom": "Zan goût réglisse",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/zan_reglisse.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/zan_reglisse.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrecrie_antan_JPG/zan_reglisse.JPG?raw=true"
       }
     ],
     "machines_alimentaires": [
       {
         "nom": "Machine à crèpes professionnelle",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_crepes_pro.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_crepes_pro.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/machine_crepes_pro.jpg?raw=true"
       },
       {
         "nom": "Machine à barbe à papa",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_barbe_a_papa_1.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_barbe_a_papa_1.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/machine_barbe_a_papa.jpg?raw=true"
       },
       {
         "nom": "Machine à pop-corn",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_pop_corn.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_pop_corn.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/machine_pop_corn.jpg?raw=true"
       },
       {
         "nom": "Machine à granités",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_granites.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_granites.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/machine_granites.png?raw=true"
       }
     ],
     "jeux_estaminet": [
       {
         "nom": "Jeu de la grenouille",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_grenouille.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_grenouille.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/billard_nicolas.jpg?raw=true"
       },
       {
         "nom": "Billard Nicolas",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/billard_nicolas.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/billard_nicolas.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/billard_nicolas.jpg?raw=true"
       },
       {
         "nom": "Boules à clapets",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/boules_clapets.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/boules_clapets.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/boules_clapets.jpg?raw=true"
       },
       {
         "nom": "Jeu de l'aéroboule",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_aeroboule.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_aeroboule.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/jeu_aeroboule.jpg?raw=true"
       },
       {
         "nom": "Jeu des battons",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_batton.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_batton.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/jeu_batton.jpg?raw=true"
       },
       {
         "nom": "Jeu d'estaminet",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_estaminet.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_estaminet.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/jeu_estaminet.jpg?raw=true"
       },
       {
         "nom": "Jeu à puces",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_puces.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_puces.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/jeu_puces.jpg?raw=true"
       },
       {
         "nom": "Mikado géant",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/mikado_geant.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/mikado_geant.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/mikado_geant.jpg?raw=true"
       },
       {
         "nom": "Rolup",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/rolup.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/rolup.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/rolup.jpg?raw=true"
       },
       {
         "nom": "Tables à élastiques",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_elastiques.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_elastiques.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/table_elastiques.jpg?raw=true"
       },
       {
         "nom": "Tables à glisser",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_glisser.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_glisser.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/table_glisser.jpg?raw=true"
       },
       {
         "nom": "Table hollandais",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_hollandais.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_hollandais.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/table_hollandais.jpg?raw=true"
       }
     ],
     "farce_attrape": [
       {
         "nom": "Bombes puantes",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/bombes_puantes.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/bombes_puantes.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Farce_attrape_JPG/bombes_puantes.jpg?raw=true"
       },
       {
         "nom": "Fart candies",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/fart_candies.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/fart_candies.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Farce_attrape_JPG/fart_candies.jpg?raw=true"
       },
       {
         "nom": "Doigt blessé",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/horrible_finger.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/horrible_finger.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Farce_attrape_JPG/horrible_finger.jpg?raw=true"
       },
       {
         "nom": "Poudre à gratter",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/itching_powder.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/itching_powder.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Farce_attrape_JPG/itching_powder.jpg?raw=true"
       },
       {
         "nom": "Money snaptcher",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/money_snaptcher.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/money_snaptcher.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Farce_attrape_JPG/money_snaptcher.jpg?raw=true"
       },
       {
         "nom": "Poudre éternuante",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/sneezing_powder.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/sneezing_powder.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Farce_attrape_JPG/sneezing_powder.jpg?raw=true"
       },
       {
         "nom": "Bonbons au savont",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/soap_sweets.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Farce_attrape/soap_sweets.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Farce_attrape_JPG/soap_sweets.jpg?raw=true"
       }
     ],
     "produits_regionnaux": [
       {
         "nom": "Babeluttes de Lille",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/babeluttes_de_lille.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/babeluttes_de_lille.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/babeluttes_de_lille.jpg?raw=true"
       },
       {
         "nom": "Babeluttes des Lys",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/babeluttes_des_lys.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/babeluttes_des_lys.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/babeluttes_des_lys.jpg?raw=true"
       },
       {
         "nom": "Bétîses de Cambrai",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/betises_de_cambrai.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/betises_de_cambrai.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/betises_de_cambrai.jpg?raw=true"
       },
       {
         "nom": "Bétîses des Ch'tits",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/betises_des_chtits.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/betises_des_chtits.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/betises_des_chtits.jpg?raw=true"
       },
       {
         "nom": "Bétîses nationales",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/betises_nationales.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/betises_nationales.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/betises_nationales.jpg?raw=true"
       },
       {
         "nom": "Chiques de Bavay",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/chiques_de_bavay.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/chiques_de_bavay.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/chiques_de_bavay.jpg?raw=true"
       },
       {
         "nom": "Chuques du Nord",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/chuques_du_nord.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/chuques_du_nord.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/chuques_du_nord.jpg?raw=true"
       },
       {
         "nom": "Coeurs de guimmauves",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/coeurs_de_guimauves.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/coeurs_de_guimauves.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/coeurs_de_guimauves.jpg?raw=true"
       },
       {
         "nom": "Gaufrettes amusantes goût vanille",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/gaufrettes_amusantes_vanilles.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/gaufrettes_amusantes_vanilles.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/gaufrettes_amusantes_vanilles.jpg?raw=true"
       },
       {
         "nom": "Guimauves moelleuses",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/guimauves_moelleuses.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/guimauves_moelleuses.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/guimauves_moelleuses.jpg?raw=true"
       }
     ],
     "cadeaux_occasionnels": [
       {
         "nom": "Soutien-gorge en bonbons",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_soutif_bonbons.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_soutif_bonbons.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_soutif_bonbons.jpg?raw=true"
       },
       {
         "nom": "Bas en bonbons",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_slip_bonbons.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_slip_bonbons.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_slip_bonbons.jpg?raw=true"
       },
       {
         "nom": "Cravates toutes occasions",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_cravates_celebrationelles.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_cravates_celebrationelles.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_cravates_celebrationelles.jpg?raw=true"
       },
       {
         "nom": "Biberons tout âge",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_biberon_30ans.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_biberon_30ans.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_biberon_30ans.jpg?raw=true"
       },
       {
         "nom": "Bavoirs femme",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_bavoir_femme_60ans.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_bavoir_femme_60ans.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_bavoir_femme_60ans.jpg?raw=true"
       },
       {
         "nom": "Bavoirs homme",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_bavoir_homme_50ans.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_bavoir_homme_50ans.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_bavoir_homme_50ans.jpg?raw=true"
       },
       {
         "nom": "T-Shirts à dédicacer",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_Tshirt_18ans.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_Tshirt_18ans.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_Tshirt_18ans.jpg?raw=true"
       },
       {
         "nom": "Tabliers à dédicacer",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_tablier_30ans.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_tablier_30ans.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_tablier_30ans.jpg?raw=true"
       },
       {
         "nom": "Verre citation",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation1.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation1.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_verre_citation1.jpg?raw=true"
       },
       {
         "nom": "Verre citation",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation2.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation2.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_verre_citation2.jpg?raw=true"
       },
       {
         "nom": "Verre citation",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation3.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation3.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_verre_citation3.jpg?raw=true"
       },
       {
         "nom": "Choppe citation",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation4.avif"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/cadeaux/cadeaux_verre_citation4.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Cadeaux_JPG/cadeaux_verre_citation4.jpg?raw=true"
       }
     ],
     "chateaux_gonflables": [
@@ -977,13 +1055,19 @@
         "nom": "Le capitaine",
         "image1": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chateaux_gonflables/chateau_gonflable_pirate.avif",
         "image2": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chateaux_gonflables/chateau_gonflable_pirate_2.avif",
-        "image3": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chateaux_gonflables/chateau_gonflable_pirate_3.avif"
+        "image3": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chateaux_gonflables/chateau_gonflable_pirate_3.avif",
+        "imageJPG1" : "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate.jpg?raw=true",
+        "imageJPG2" : "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate_2.jpg?raw=true",
+        "imageJPG3" : "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate_3.jpg?raw=true"
       },
       {
         "nom": "Le parcours",
         "image1": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chateaux_gonflables/grand_chateau_gonflable.avif",
         "image2": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chateaux_gonflables/grand_chateau_gonflable_2.avif",
-        "image3": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chateaux_gonflables/grand_chateau_gonflable_3.avif"
+        "image3": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Chateaux_gonflables/grand_chateau_gonflable_3.avif",
+        "imageJPG1" : "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable.jpg?raw=true",
+        "imageJPG2" : "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_2.jpg?raw=true",
+        "imageJPG3" : "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_3.jpg?raw=true"
       }
     ]
   }
