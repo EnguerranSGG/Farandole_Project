@@ -939,8 +939,8 @@
     "produits_regionnaux": [
       {
         "nom": "Babeluttes de Lille",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_regionnaux/babeluttes_de_lille.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionnaux_JPG/babeluttes_de_lille.jpg?raw=true"
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/raw/main/public/Produits/Produits_regionnaux/babeluttes_de_lille.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_regionaux_JPG/babeluttes_de_lille.jpg?raw=true"
       },
       {
         "nom": "Babeluttes des Lys",
