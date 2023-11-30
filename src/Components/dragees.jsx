@@ -15,7 +15,7 @@ function Dragees() {
         <>
             <div className="presentation_compositions">
                 <div><h1>Compositions de dragées</h1>
-                    <p>Que ce soit pour un batême, une communion ou un mariage; n'hésitez pas à nous faire confiance pour la composition de dragées ! </p>
+                    <h2>Que ce soit pour un batême, une communion ou un mariage; n'hésitez pas à nous faire confiance pour la composition de dragées ! </h2>
                 </div>
             </div>
             <div id="compositions">
