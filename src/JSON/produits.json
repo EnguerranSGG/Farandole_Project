@@ -835,68 +835,83 @@
         "nom": "Machine à granités",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Machines_alimentaires/machine_granites.avif",
         "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/machine_granites.png?raw=true"
+      },
+      {
+        "nom": "Machine glaces à l'italienne",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/machine_glaces_italiennes.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/machine_glaces_italiennes.jpg?raw=true"
+      },
+      {
+        "nom": "Fontaine à chocolat",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/fontaine_chocolat.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Machines_alimentaires_JPG/fontaine_chocolat.jpg?raw=true"
       }
     ],
-    "jeux_estaminet": [
+    "Jeux": [
+      {
+        "nom": "Pêche aux canards",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/peche_auc_canards.png?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/peche_auc_canards.png?raw=true"
+      },
       {
         "nom": "Jeu de la grenouille",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_grenouille.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/billard_nicolas.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/jeu_grenouille.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/billard_nicolas.jpg?raw=true"
       },
       {
         "nom": "Billard Nicolas",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/billard_nicolas.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/billard_nicolas.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/billard_nicolas.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/billard_nicolas.jpg?raw=true"
       },
       {
         "nom": "Boules à clapets",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/boules_clapets.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/boules_clapets.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/boules_clapets.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/boules_clapets.jpg?raw=true"
       },
       {
         "nom": "Jeu de l'aéroboule",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_aeroboule.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/jeu_aeroboule.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/jeu_aeroboule.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/jeu_aeroboule.jpg?raw=true"
       },
       {
         "nom": "Jeu des battons",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_batton.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/jeu_batton.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/jeu_batton.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/jeu_batton.jpg?raw=true"
       },
       {
         "nom": "Jeu d'estaminet",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_estaminet.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/jeu_estaminet.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/jeu_estaminet.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/jeu_estaminet.jpg?raw=true"
       },
       {
         "nom": "Jeu à puces",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/jeu_puces.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/jeu_puces.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/jeu_puces.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/jeu_puces.jpg?raw=true"
       },
       {
         "nom": "Mikado géant",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/mikado_geant.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/mikado_geant.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/mikado_geant.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/mikado_geant.jpg?raw=true"
       },
       {
         "nom": "Rolup",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/rolup.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/rolup.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/rolup.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/rolup.jpg?raw=true"
       },
       {
         "nom": "Tables à élastiques",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_elastiques.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/table_elastiques.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/table_elastiques.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/table_elastiques.jpg?raw=true"
       },
       {
         "nom": "Tables à glisser",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_glisser.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/table_glisser.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/table_glisser.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/table_glisser.jpg?raw=true"
       },
       {
         "nom": "Table hollandais",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/jeux_estaminet/table_hollandais.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_estaminet_JPG/table_hollandais.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Jeux/table_hollandais.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Jeux_JPG/table_hollandais.jpg?raw=true"
       }
     ],
     "farce_attrape": [
