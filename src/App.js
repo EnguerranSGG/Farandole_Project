@@ -15,7 +15,7 @@ import './CSS/Cadeaux_perso.css';
 import './CSS/Farces.css';
 import './CSS/Cadeaux.css';
 import './CSS/Machines_alimentaires.css';
-import './CSS/Estaminet.css';
+import './CSS/Jeux.css';
 import './CSS/Deco.css';
 import './CSS/Error.css';
 import './CSS/Mentions_legales.css';
@@ -36,7 +36,7 @@ import Perso from './Components/mug_puzzle_perso';
 import Farces from './Components/farces_attrapes';
 import Celebrations from './Components/cadeaux_celebrationnels';
 import Machines_alimentaires from './Components/machines_sucreries';
-import Estaminet from './Components/jeux_estaminet';
+import Jeux from './Components/jeux';
 import Deco from './Components/deco_evenementielle';
 import Error from './Components/error';
 import Mentions from './Components/mentions_legales';
@@ -120,9 +120,9 @@ const router = createBrowserRouter([
         element: <><Header /><Chateaux_gonflables /></>
       },
       {
-        path: 'Jeux_estaminet',
+        path: 'Jeux',
 
-        element: <><Header /><Estaminet /></>
+        element: <><Header /><Jeux /></>
       },
       {
         path: 'Deco_evenementielle',

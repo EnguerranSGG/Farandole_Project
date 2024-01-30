@@ -42,7 +42,7 @@ function HeaderHome() {
                     <div className='dropdown-content' onMouseOver={() => switchOver4()} onMouseOut={() => switchOut4()}>
                         <NavLink className="active" to="/Chateaux_gonflables">Chateaux gonflables</NavLink>
                         <NavLink className="active" to="/Machines_alimentaires">Machines à sucreries</NavLink>
-                        <NavLink className="active" to="/Jeux_estaminet">Jeux d'estaminet</NavLink>
+                        <NavLink className="active" to="/Jeux">Jeux</NavLink>
                         <NavLink className="active" to="/Deco_evenementielle">Décoration</NavLink>
                     </div>
                 </div>
