@@ -63,6 +63,9 @@
 }
 
 .bienvenue div {
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
     margin-top: 5%;
     margin-right: 15%;
     margin-left: 10%;
@@ -74,7 +77,7 @@
 .contact_home {
     display: flex;
     flex-direction: row;
-    justify-content: end;
+    justify-content: center;
 }
 
 .btn_contact_home {
