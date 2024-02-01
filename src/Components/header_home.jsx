@@ -50,7 +50,7 @@ function HeaderHome() {
             <div id='banniere_droite' />
             <div className='bienvenue'>
                 <div className='bienvenue_text'>
-                <h1>Vous organisez un batême ? Une communion ? Un mariage ? Un anniversaire ? </h1>
+                <h1>Vous organisez un baptême ? Une communion ? Un mariage ? Un anniversaire ? </h1>
                 <h2>Un événement important pour <strong>vous</strong> est aussi important pour <strong>nous</strong>. </h2>
                 <section className='contact_home'><NavLink to="/Contact" className="btn_contact_home">Nous contacter</NavLink></section>
                 </div>
