@@ -1084,6 +1084,14 @@
         "imageJPG2" : "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_2.jpg?raw=true",
         "imageJPG3" : "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_3.jpg?raw=true"
       }
+    ],
+    "produits_moment": [
+      {
+        "nom": "Bouquet de fleurs et ferrero",
+        "description": "Bouquet de fleurs et ferrero",
+        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_moment/bouquet_ferrero.avif",
+        "imageJPG": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_moment/bouquet_ferrero.avif"
+      }
     ]
   }
 }
