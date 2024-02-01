@@ -1089,8 +1089,20 @@
       {
         "nom": "Bouquet de fleurs et ferrero",
         "description": "Bouquet de fleurs et ferrero",
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_moment/bouquet_ferrero.avif",
-        "imageJPG": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Produits_moment/bouquet_ferrero.avif"
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_bouquet_ferrerot.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_bouquet_ferrerot.jpg?raw=true"
+      },
+      {
+        "nom": "Rose",
+        "description": "De bien belles roses",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_rose.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_rose.jpg?raw=true"
+      },
+      {
+        "nom": "Hand Warmer Saint-Valentin",
+        "description": "Hand warmer en forme de coeur",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_hand_warmer.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_hand_warmer.jpg?raw=true"
       }
     ]
   }
