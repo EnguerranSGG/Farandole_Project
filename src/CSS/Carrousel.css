@@ -1,0 +1,34 @@
+#produits_moment_titre {
+    color: aliceblue;
+    text-align: center;
+}
+
+.carrousel_element {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.carousel .thumbs-wrapper {
+    display: none;
+}
+
+.carrousel_element img {
+    width: 100%;
+    height: 100%;
+    filter: brightness(70%);
+}
+
+.nom_produit {
+    z-index: 20;
+    position : absolute;
+    bottom: 10%;
+    transform: translateY(-50);
+    left: 10%;
+}
+
+.carrousel_element h1 {
+    color: rgba(255, 124, 228, 1);
+}

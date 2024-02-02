@@ -19,6 +19,7 @@ import './CSS/Jeux.css';
 import './CSS/Deco.css';
 import './CSS/Error.css';
 import './CSS/Mentions_legales.css';
+import './CSS/Carrousel.css';
 
 import Header from './Components/header';
 import Deguisements from './Components/deguisements';
@@ -56,7 +57,7 @@ const router = createBrowserRouter([
       },
       {
         path: 'Farandole_Project',
-        element: <><HeaderHome /></>
+        element: <><HeaderHome /><Carrousel /></>
       },
       {
         path: 'Deguisements',
