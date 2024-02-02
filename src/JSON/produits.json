@@ -1088,21 +1088,48 @@
     "produits_moment": [
       {
         "nom": "Bouquet de fleurs et ferrero",
-        "description": "Bouquet de fleurs et ferrero",
-        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_bouquet_ferrerot.jpg?raw=true",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_bouquet_ferrerot.jpg?raw=true"
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_bouquet_ferrerot.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_bouquet_ferrerot.jpg?raw=true"
       },
       {
         "nom": "Rose",
-        "description": "De bien belles roses",
-        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_rose.jpg?raw=true",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_rose.jpg?raw=true"
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_rose.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_rose.jpg?raw=true"
       },
       {
         "nom": "Hand Warmer Saint-Valentin",
-        "description": "Hand warmer en forme de coeur",
-        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_hand_warmer.jpg?raw=true",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments/st_valentin_hand_warmer.jpg?raw=true"
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_hand_warmer.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_hand_warmer.jpg?raw=true"
+      },
+      {
+        "nom": "Figurine d'amoureux",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_amoureux.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_amoureux.jpg?raw=true"
+      },
+      {
+        "nom": "Bougies de St Valentin",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_bougies.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_bougies.jpg?raw=true"
+      },
+      {
+        "nom": "Coeur en peluche",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_coeur_peluche.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_coeur_peluche.jpg?raw=true"
+      },
+      {
+        "nom": "Mugs St Valentin",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_mug.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_mug.jpg?raw=true"
+      },
+      {
+        "nom": "Mugs St Valentin",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_mug2.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_mug2.jpg?raw=true"
+      },
+      {
+        "nom": "Message St Valentin",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_message.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moment_JPG/st_valentin_message.jpg?raw=true"
       }
     ]
   }
