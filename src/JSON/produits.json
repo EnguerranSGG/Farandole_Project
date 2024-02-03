@@ -705,6 +705,11 @@
         "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrerie_antan_JPG/bois_reglisse.JPG?raw=true"
       },
       {
+        "nom": "Pastador",
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/raw/main/public/Produits/sucrecries_antan/pastador.avif",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrerie_antan_JPG/pastador.jpg?raw=true"
+      },
+      {
         "nom": "Car en sac",
         "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/sucrecries_antan/car_en_sac.avif",
         "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Sucrerie_antan_JPG/car_en_sac.JPG?raw=true"
@@ -1123,8 +1128,8 @@
       },
       {
         "nom": "Mugs St Valentin",
-        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments_JPG/st_valentin_mug2.jpg?raw=true",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments_JPG/st_valentin_mug2.jpg?raw=true"
+        "image": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments_JPG/st_valentin_mug_2.jpg?raw=true",
+        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Produits_moments_JPG/st_valentin_mug_2.jpg?raw=true"
       },
       {
         "nom": "Message St Valentin",

@@ -41,7 +41,6 @@ import Jeux from './Components/jeux';
 import Deco from './Components/deco_evenementielle';
 import Error from './Components/error';
 import Mentions from './Components/mentions_legales';
-import Carrousel from './carrousel';
 
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom';
 
@@ -53,11 +52,11 @@ const router = createBrowserRouter([
     children: [
       {
         path: '',
-        element: <><HeaderHome /><Carrousel /></>
+        element: <><HeaderHome /></>
       },
       {
         path: 'Farandole_Project',
-        element: <><HeaderHome /><Carrousel /></>
+        element: <><HeaderHome /></>
       },
       {
         path: 'Deguisements',

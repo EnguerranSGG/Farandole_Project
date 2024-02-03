@@ -3,13 +3,14 @@
 #HeaderHome {
     background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_marriage.avif"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illustration_marriage.jpg?raw=true");
     background-size: cover;
-    background-position: top;
+    background-position: center; 
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    filter: brightness(80%);
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
-    grid-template-rows: 100px 100px 600px;
+    grid-template-rows: 100px 100px auto auto;
     padding-top: 0;
-    background-color: rgba(0, 0, 0, 0.9);
 }
 
 #HeaderHome #banniere_droite {
@@ -62,16 +63,16 @@
     grid-column-end: 4;
 }
 
-.bienvenue div {
+.bienvenue_text {
     display: flex;
     flex-direction: column;
     gap: 5%;
     margin-top: 5%;
-    margin-right: 15%;
-    margin-left: 10%;
+    margin-right: 12%;
+    margin-left: 12%;
     padding: 2%;
-    background-color: rgba(0, 0, 0, 0.4);
     border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .contact_home {
@@ -122,10 +123,47 @@
     text-align: justify;
 }
 
+.carrousel {
+    margin-top: 2%;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+.carrousel_element {
+    margin-right: 12%;
+    margin-left: 12%;
+    margin-bottom: 3%;
+}
+
+.control-arrow {
+    width: 12vw;
+}
+
 @media (min-width: 2200px) {
 
-    #HeaderHome #logo {
-        padding-top: 3%;
+    #HeaderHome {
+        display: grid;
+        grid-template-columns: 1fr 4fr 1fr;
+        grid-template-rows: 200px 200px auto auto;
+    }
+
+    #HeaderHome #banniere_droite {
+        height: 300px;
+    }
+    
+    #HeaderHome #banniere_gauche {
+        height: 300px;
+    }
+
+    #HeaderHome #logo img {
+        height: 150px;
+        padding-top: 8%;
+    }
+
+    .bienvenue {
+        margin-top: 5%;
     }
 
     .bienvenue h1 {
@@ -149,11 +187,16 @@
     
     .bienvenue div {
         margin-top: 1%;
-        margin-right: 15%;
-        margin-left: 10%;
+        margin-right: 12%;
+        margin-left: 12%;
         padding: 2%;
         background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
+    }
+
+    .carrousel_element {
+        margin-right: 12%;
+        margin-left: 12%;
     }
 }
 
@@ -163,7 +206,7 @@
         width: 100%;
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
-        grid-template-rows: auto auto auto 900px;
+        grid-template-rows: auto auto auto auto auto;
     }
 
     #HeaderHome #banniere_droite {
@@ -211,15 +254,15 @@
 
     .bienvenue div {
         margin-top: 15%;
-        margin-right: 15%;
-        margin-left: 10%;
+        margin-right: 12%;
+        margin-left: 12%;
         padding: 2%;
         background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
     }
 
     .bienvenue h1 {
-        font-size: 7vw;
+        font-size: 5.5vw;
     }
 
     .bienvenue h2 {
@@ -236,6 +279,17 @@
         border-left: 3px solid black;
     }
 
+    .carrousel {
+        grid-row-start: 5;
+        grid-row-end: 6;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .carrousel_element {
+        margin-right: 12%;
+        margin-left: 12%;
+    }
 }
 
 @media (min-width: 901px) and (max-width: 1300px) {
@@ -244,7 +298,7 @@
         width: 100%;
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
-        grid-template-rows: auto auto auto 1010px;
+        grid-template-rows: auto auto auto auto auto;
     }
 
     #HeaderHome #banniere_droite {
@@ -292,8 +346,8 @@
 
     .bienvenue div {
         margin-top: 15%;
-        margin-right: 15%;
-        margin-left: 10%;
+        margin-right: 12%;
+        margin-left: 12%;
         padding: 2%;
         background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
@@ -317,6 +371,18 @@
     .bienvenue p {
         font-size: 3vw;
     }
+
+    .carrousel {
+        grid-row-start: 5;
+        grid-row-end: 6;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .carrousel_element {
+        margin-right: 12%;
+        margin-left: 12%;
+    }
 }
 
 @media (min-width: 601px) and (max-width: 767px) {
@@ -325,7 +391,7 @@
         width: 100%;
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
-        grid-template-rows: auto auto auto 750px;
+        grid-template-rows: auto auto auto auto auto;
     }
 
     #HeaderHome #banniere_droite {
@@ -373,8 +439,8 @@
 
     .bienvenue div {
         margin-top: 20%;
-        margin-right: 15%;
-        margin-left: 10%;
+        margin-right: 12%;
+        margin-left: 12%;
         padding: 2%;
         background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
@@ -397,6 +463,18 @@
     .bienvenue p {
         font-size: 3.5vw;
     }
+
+    .carrousel {
+        grid-row-start: 5;
+        grid-row-end: 6;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .carrousel_element {
+        margin-right: 12%;
+        margin-left: 12%;
+    }
 }
 
 @media (min-width: 381px) and (max-width: 600px) {
@@ -404,7 +482,7 @@
         width: 100%;
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
-        grid-template-rows: auto auto auto 750px;
+        grid-template-rows: auto auto auto auto auto;
     }
 
     #HeaderHome #banniere_droite {
@@ -451,9 +529,10 @@
     }
 
     .bienvenue div {
-        margin-top: 20%;
+        margin-top: 15%;
         margin-right: 10%;
         margin-left: 10%;
+        margin-bottom: 10%;
         padding: 2%;
         background-color: rgba(0, 0, 0, 0.4);
         border-radius: 10px;
@@ -466,7 +545,7 @@
     }
 
     .bienvenue h1 {
-        font-size: 7vw;
+        font-size: 6vw;
     }
 
     .bienvenue h2 {
@@ -475,6 +554,19 @@
 
     .bienvenue p {
         font-size: 4vw;
+    }
+
+    .carrousel {
+        grid-row-start: 5;
+        grid-row-end: 6;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .carrousel_element {
+        height: 50vh !important;
+        margin-right: 10%;
+        margin-left: 10%;
     }
 }
 
@@ -484,7 +576,7 @@
         width: 100%;
         display: grid;
         grid-template-columns: 1fr 4fr 1fr;
-        grid-template-rows: auto auto auto 500px;
+        grid-template-rows: auto auto auto auto auto;
     }
 
     #HeaderHome #banniere_droite {
@@ -557,4 +649,16 @@
         font-size: 3.5vw;
     }
 
+    .carrousel {
+        grid-row-start: 5;
+        grid-row-end: 6;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+    .carrousel_element {
+        height: 40vh !important;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
 }

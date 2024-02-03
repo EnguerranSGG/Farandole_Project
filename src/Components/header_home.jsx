@@ -4,6 +4,8 @@ import Down from "../Illustrations/caret-down.svg";
 import Up from "../Illustrations/caret-up.svg";
 import { switchOver1, switchOut1, switchOver2, switchOut2, switchOver3, switchOut3, switchOver4, switchOut4 } from '../services/switch.arrows';
 
+import Carrousel from '../carrousel';
+
 function HeaderHome() {
     return (
         <header id='HeaderHome'>
@@ -55,6 +57,7 @@ function HeaderHome() {
                 <section className='contact_home'><NavLink to="/Contact" className="btn_contact_home">Nous contacter</NavLink></section>
                 </div>
             </div>
+            <Carrousel />    
         </header>
     )
 }

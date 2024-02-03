@@ -143,6 +143,15 @@ nav a {
     width: 269px;
 }
 
+@media (min-width: 2200px) {
+
+    #HeaderHome {
+        display: grid;
+        grid-template-columns: 1fr 4fr 1fr;
+        grid-template-rows: 200px 200px auto auto;
+    }
+}
+
 @media screen and (max-width: 900px) {
 
     #header {
