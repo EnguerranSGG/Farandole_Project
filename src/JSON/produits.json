@@ -6,8 +6,8 @@
         "catégorie": "Homme",
         "style": "Noël",
         "prix": 30,
-        "image": "https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/public/Produits/Deguisements/deguisement_pere_noel.avif",
-        "imageJPG": "https://github.com/EnguerranSGG/Farandole_Project/blob/main/public/Produits/Deguisements_JPG/deguisement_pere_noel.jpg?raw=true"
+        "image": "./Produits/Deguisements/deguisement_pere_noel.avif",
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pere_noel.jpg"
       },
       {
         "nom": "Déguisement de reine",
