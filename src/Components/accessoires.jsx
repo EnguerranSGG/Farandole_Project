@@ -18,7 +18,6 @@ function Accessoires() {
         <img src={illustration} onError={e => e.currentTarget.src = "../Illustrations_JPG/illusatration_deguisement_provisoire.jpg" } className='illustrations_page_DeguisementsAccessories' />
         <div>
           <h1>Découvrez aussi notre gamme d'accessoires</h1>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
           <a href='#accessoires' className='btnVoirAccessoires' onClick={() => voirAccessoires()}><span id='instruction_accessoires'>Voir tous nos accessoires</span></a>
         </div>
       </section>
