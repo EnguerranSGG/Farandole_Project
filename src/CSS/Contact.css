@@ -1,7 +1,7 @@
 /** Zone contact **/
 
 .presentation_contact {
-    background-image: url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/vitrine.jpg?raw=true"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/vitrine.jpg?raw=true");
+    background-image: url("../Illustrations/vitrine.avif"), url("../Illustrations_JPG/vitrine.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;

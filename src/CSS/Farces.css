@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_farce_attrape.avif"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illustration_farce_attrape.jpg?raw=true");
+    background-image: url("../Illustrations/illustration_farce_attrape.avif"), url("../Illustrations_JPG/illustration_farce_attrape.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

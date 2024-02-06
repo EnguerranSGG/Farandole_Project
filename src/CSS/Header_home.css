@@ -1,7 +1,7 @@
 /** Header Home */
 
 #HeaderHome {
-    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_marriage.avif"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illustration_marriage.jpg?raw=true");
+    background-image: url("../Illustrations/illustration_marriage.avif"), url("../Illustrations_JPG/illustration_marriage.jpg");
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;

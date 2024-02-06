@@ -1,7 +1,7 @@
 /** Zone deco **/
 
 .presentation_deco {
-    background-image: url("https://raw.githubusercontent.com/EnguerranSGG/Farandole_Project/main/src/Illustrations/illustration_deco.avif"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illustration_deco.jpg?raw=true");
+    background-image: url("../Illustrations/illustration_deco.avif"), url("../Illustrations_JPG/illustration_deco.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

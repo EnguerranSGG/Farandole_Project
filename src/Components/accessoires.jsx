@@ -15,7 +15,7 @@ function Accessoires() {
   return (
     <>
       <section className='presentation_accessoires'>
-        <img src={illustration} onError={e => e.currentTarget.src = "https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illusatration_deguisement_provisoire.jpg?raw=true" } className='illustrations_page_DeguisementsAccessories' />
+        <img src={illustration} onError={e => e.currentTarget.src = "../Illustrations_JPG/illusatration_deguisement_provisoire.jpg" } className='illustrations_page_DeguisementsAccessories' />
         <div>
           <h1>Découvrez aussi notre gamme d'accessoires</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
