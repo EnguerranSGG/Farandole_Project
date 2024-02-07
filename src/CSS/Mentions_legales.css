@@ -30,6 +30,21 @@
     font-size: 2vw;
 }
 
+.presentation_mentions a {
+    color: rgba(255, 124, 228, 1);
+    text-decoration: none;
+    transition: color 300ms ease-in-out;
+}
+
+.presentation_mentions a:hover {
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+.presentation_mentions a:visited {
+    color: rgba(255, 124, 228, 1);
+}
+
 /** Media queries **/
 
 @media (max-width: 390px) {
