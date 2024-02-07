@@ -1,6 +1,6 @@
 import React from "react";
-import useProduits from './hooks/convertFetchProduits';
-import { isEmpty, viewerProduits } from './services/utilitaires';
+import useProduits from '../hooks/convertFetchProduits';
+import { isEmpty, viewerProduits } from '../services/utilitaires';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 

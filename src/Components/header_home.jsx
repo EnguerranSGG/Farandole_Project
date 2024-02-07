@@ -4,7 +4,7 @@ import Down from "../Illustrations/caret-down.svg";
 import Up from "../Illustrations/caret-up.svg";
 import { switchOver1, switchOut1, switchOver2, switchOut2, switchOver3, switchOut3, switchOver4, switchOut4 } from '../services/switch.arrows';
 
-import Carrousel from '../carrousel';
+import Carrousel from './carrousel';
 
 function HeaderHome() {
     return (
