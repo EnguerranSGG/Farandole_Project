@@ -125,6 +125,11 @@
     grid-column-end: 3;
 }
 
+#images_chateaux_provisoires img {
+    width: 100%;
+    height: 70vh;
+}
+
 
 @media screen and (max-width: 900px) {
     /** Zone chateaux gonflables **/

@@ -105,3 +105,22 @@ export const viewerChateaux = (produit) => {
     viewer.className = 'notViewer';
   })
 }
+
+export const viewerChateauxProvisoires = (produit) => {
+  const viewer = document.getElementById('viewer_accessoires');
+  viewer.className = 'viewerChateaux';
+
+  viewer.innerHTML = `
+    <div>
+    <h2>${produit.nom}</h2>
+      <div id="images_chateaux_provisoires"><img src="${produit.imageAVIF}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}"/>
+      </div>
+      <button class="btn" id="fermer_accessoires">Fermer</button>
+    </div>`
+
+  const btn = document.getElementById('fermer_accessoires');
+
+  btn.addEventListener('click', () => {
+    viewer.className = 'notViewer';
+  })
+}

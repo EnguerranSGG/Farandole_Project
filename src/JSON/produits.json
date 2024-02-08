@@ -1090,6 +1090,28 @@
         "imageJPG3" : "./Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_3.jpg"
       }
     ],
+    "chateaux_gonflables_provisoires": [
+      {
+        "nom": "Le slide",
+        "imageJPG": "./Produits/Chateaux_gonflables_JPG/slide.jpg",
+        "imageAVIF": "./Produits/Chateaux_gonflables/slide.avif"
+      },      
+      {
+        "nom": "L'aquafun",
+        "imageJPG": "./Produits/Chateaux_gonflables_JPG/aquafun.jpg",
+        "imageAVIF": "./Produits/Chateaux_gonflables/aquafun.avif"
+      },      
+      {
+        "nom": "Le fiesta",
+        "imageJPG": "./Produits/Chateaux_gonflables_JPG/fiesta.jpg",
+        "imageAVIF": "./Produits/Chateaux_gonflables/fiesta.avif"
+      },
+      {
+        "nom": "Le clown",
+        "imageJPG": "./Produits/Chateaux_gonflables_JPG/clown.jpg",
+        "imageAVIF": "./Produits/Chateaux_gonflables/clown.avif"
+      }
+    ],
     "produits_moment": [
       {
         "nom": "Bouquet de fleurs et ferrero",
