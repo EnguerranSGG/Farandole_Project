@@ -40,7 +40,7 @@ function HeaderHome() {
                     </div>
                 </div>
                 <div className='dropdown'>
-                    <div className='arrows' onMouseOver={() => switchOver4()} onMouseOut={() => switchOut4()}><div><img src={Down} id='down4' className='up_down_show'></img><img src={Up} id='up4' className='up_down_none'></img></div><div><NavLink className="active">Locations évementielles</NavLink></div></div>
+                    <div className='arrows' onMouseOver={() => switchOver4()} onMouseOut={() => switchOut4()}><div><img src={Down} id='down4' className='up_down_show'></img><img src={Up} id='up4' className='up_down_none'></img></div><div><NavLink className="active">Locations événementielles</NavLink></div></div>
                     <div className='dropdown-content' onMouseOver={() => switchOver4()} onMouseOut={() => switchOut4()}>
                         <NavLink className="active" to="/Chateaux_gonflables">Chateaux gonflables</NavLink>
                         <NavLink className="active" to="/Machines_alimentaires">Machines à sucreries</NavLink>

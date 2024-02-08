@@ -16,7 +16,7 @@ function Jeux() {
             <div className="presentation_jeux">
                 <div>
                     <h1>Jeux</h1>
-                    <h2>Vous organisez un événement? D'estminet ou de kermesse; découvrez nos divers jeux en location !</h2>
+                    <h2>Vous organisez un événement? D'estaminet ou de kermesse, découvrez nos divers jeux en location !</h2>
                 </div>
             </div>
             <section className='all_jeux'>

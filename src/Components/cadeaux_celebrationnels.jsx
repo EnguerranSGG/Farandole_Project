@@ -16,7 +16,7 @@ function Celebrations() {
             <div className="presentation_cadeaux">
                 <div>
                     <h1>Cadeaux toutes occasions</h1>
-                    <h2>Découvrez notre gamme de cadeaux toutes occasions disponible en magasin et sur commande !</h2>
+                    <h2>Découvrez notre gamme de cadeaux toutes les occasions, disponible en magasin et sur commande !</h2>
                 </div>
             </div>
             <section className='all_products'>
