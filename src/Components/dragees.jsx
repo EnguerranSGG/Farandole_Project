@@ -19,7 +19,6 @@ function Dragees() {
                 </div>
             </div>
             <div id="compositions">
-                <h2> Nos dernières créations : </h2>
             </div>
             <section className='all_products'>
                 {Array.isArray(compositions) && !isEmpty(compositions) && compositions.map((produit, index) => (

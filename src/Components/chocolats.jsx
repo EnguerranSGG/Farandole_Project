@@ -19,9 +19,6 @@ function Chocolats() {
                 </div>
             </section>
             <section id="chocolats">
-                <h1 className="chocolats">
-                    Toute notre gamme :
-                </h1>
             </section>
             <section className='all_products'>
                     {Array.isArray(chocolats) && !isEmpty(chocolats) && chocolats.map((produit, index) => (
