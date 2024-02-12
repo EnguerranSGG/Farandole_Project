@@ -2,25 +2,25 @@ import React from "react";
 import useProduits from '../hooks/convertFetchProduits';
 import { isEmpty, viewerProduits } from '../services/utilitaires';
 
-function Machines_alimentaires() {
+function Mascottes() {
     const produits = useProduits();
 
     if (!produits) {
         return null;
     }
 
-    const machines = produits.produits.machines_alimentaires;
+    const mascottes = produits.produits.mascottes;
 
     return (
         <>
             <div className="presentation_machines_mascottes">
                 <div>
-                    <h1>Machines à sucreries</h1>
-                    <h2>Vous organisez un événement? Découvrez nos machines à sucreries en location !</h2>
+                    <h1>Mascottes</h1>
+                    <h2>Vous organisez un événement? Découvrez nos mascottes en location !</h2>
                 </div>
             </div>
             <section className='all_machines_mascots'>
-                {Array.isArray(machines) && !isEmpty(machines) && machines.map((produit, index) => (
+                {Array.isArray(mascottes) && !isEmpty(mascottes) && mascottes.map((produit, index) => (
                     <><div className='products' produit={produit} key={index}>
                         <img src={produit.image} onError={e => e.currentTarget.src =`${produit.imageJPG}` } alt={produit.nom} onClick={() => viewerProduits(produit)} />
                     </div>
@@ -32,4 +32,4 @@ function Machines_alimentaires() {
     );
 }
 
-export default Machines_alimentaires;
+export default Mascottes;

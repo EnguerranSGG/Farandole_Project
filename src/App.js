@@ -14,7 +14,7 @@ import './CSS/Gateaux_bonbons.css';
 import './CSS/Cadeaux_perso.css';
 import './CSS/Farces.css';
 import './CSS/Cadeaux.css';
-import './CSS/Machines_alimentaires.css';
+import './CSS/Machines_mascottes.css';
 import './CSS/Jeux.css';
 import './CSS/Deco.css';
 import './CSS/Error.css';
@@ -38,6 +38,7 @@ import Farces from './Components/farces_attrapes';
 import Celebrations from './Components/cadeaux_celebrationnels';
 import Machines_alimentaires from './Components/machines_sucreries';
 import Jeux from './Components/jeux';
+import Mascottes from './Components/mascottes';
 import Deco from './Components/deco_evenementielle';
 import Error from './Components/error';
 import Mentions from './Components/mentions_legales';
@@ -119,6 +120,11 @@ const router = createBrowserRouter([
         path: 'Chateaux_gonflables',
 
         element: <><Header /><Chateaux_gonflables /></>
+      },
+      {
+        path: 'Mascottes',
+
+        element: <><Header /><Mascottes /></>
       },
       {
         path: 'Jeux',
