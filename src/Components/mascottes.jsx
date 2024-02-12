@@ -13,7 +13,7 @@ function Mascottes() {
 
     return (
         <>
-            <div className="presentation_machines_mascottes">
+            <div className="presentation_machines_mascottes" id="mascotte_presentation">
                 <div>
                     <h1>Mascottes</h1>
                     <h2>Vous organisez un événement? Découvrez nos mascottes en location !</h2>

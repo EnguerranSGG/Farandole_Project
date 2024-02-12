@@ -4,11 +4,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("../Illustrations/illustrations_machines-alimentaires.avif"), url("https://github.com/EnguerranSGG/Farandole_Project/blob/main/src/Illustrations_JPG/illustrations_machines-alimentaires.jpg");
+    background-image: url("../Illustrations/illustrations_machines-alimentaires.avif"), url("../Illustrations_JPG/illustrations_machines-alimentaires.jpg");
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
     height: 550px;
+}
+
+#mascotte_presentation {
+    background-image: url("../Illustrations/mascottes_illustration.avif"), url("../Illustrations_JPG/mascottes_illustration.jpg");
+    background-position: center;
 }
 
 .presentation_machines_mascottes h2 {
