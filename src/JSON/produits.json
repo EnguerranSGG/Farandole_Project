@@ -820,8 +820,8 @@
     "jeux": [
       {
         "nom": "Pêche aux canards",
-        "image": "./Produits/Jeux_AVIF/peche_auc_canards.png",
-        "imageJPG": "./Produits/Jeux_JPG/peche_auc_canards.png"
+        "image": "./Produits/Jeux_AVIF/peche_aux_canards.avif",
+        "imageJPG": "./Produits/Jeux_JPG/peche_aux_canards.png"
       },
       {
         "nom": "Jeu de la grenouille",
