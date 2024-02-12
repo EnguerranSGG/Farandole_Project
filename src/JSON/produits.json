@@ -5,7 +5,6 @@
         "nom": "Déguisement de Père Noël",
         "catégorie": "Homme",
         "style": "Noël",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_pere_noel.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_pere_noel.jpg"
       },
@@ -13,7 +12,6 @@
         "nom": "Déguisement de reine",
         "catégorie": "Femme",
         "style": "Reine / Princesse / Médiéval",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_reine.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_reine.jpg"
       },
@@ -21,7 +19,6 @@
         "nom": "Déguisement de hippie",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_hippie_femme.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_hippie_femme.jpg"
       },
@@ -29,7 +26,6 @@
         "nom": "Déguisement de roi",
         "catégorie": "Homme",
         "style": "Roi / Prince / Médiéval",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_roi.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_roi.jpg"
       },
@@ -37,7 +33,6 @@
         "nom": "Déguisement de reine",
         "catégorie": "Femme",
         "style": "Reine / Princesse / Médiéval",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_reine_2.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_reine_2.jpg"
       },
@@ -45,7 +40,6 @@
         "nom": "Déguisement de chevalier",
         "catégorie": "Homme",
         "style": "Roi / Chevalier / Médiéval / Croisé",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_chevalier.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_chevalier.jpg"
       },
@@ -53,7 +47,6 @@
         "nom": "Déguisement de pirate",
         "catégorie": "Homme",
         "style": "Pirate / Corsaire",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_pirate.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_pirate.jpg"
       },
@@ -61,7 +54,6 @@
         "nom": "Déguisement robe de soirée",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Nouvelle Année / Nouvel An",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_robe_soiree.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_soiree.jpg"
       },
@@ -69,7 +61,6 @@
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_films_noirs_femme_1.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_1.jpg"
       },
@@ -77,7 +68,6 @@
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_films_noirs_femme_2.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_2.jpg"
       },
@@ -85,7 +75,6 @@
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_films_noirs_femme_3.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_3.jpg"
       },
@@ -93,7 +82,6 @@
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An / Disco",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_films_noirs_femme_4.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_4.jpg"
       },
@@ -101,7 +89,6 @@
         "nom": "Déguisement de pharaon",
         "catégorie": "Femme",
         "style": "Robe / Égyptien / Pharaon",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_pharaon.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_pharaon.jpg"
       },
@@ -109,7 +96,6 @@
         "nom": "Déguisement de vampire",
         "catégorie": "Femme",
         "style": "Robe / Vampire / Halloween / Dracula",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_vampire_femme.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_vampire_femme.jpg"
       },
@@ -117,7 +103,6 @@
         "nom": "Déguisement d'infirmière",
         "catégorie": "Femme",
         "style": "Robe / Infirmière",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_infirmiere.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_infirmiere.jpg"
       },
@@ -125,7 +110,6 @@
         "nom": "Déguisement robe style 70's",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_70s_femme.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_70s_femme.jpg"
       },
@@ -133,7 +117,6 @@
         "nom": "Déguisement d'infirmière",
         "catégorie": "Femme",
         "style": "Robe / Infirmière",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_infirmiere_2.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_infirmiere_2.jpg"
       },
@@ -141,7 +124,6 @@
         "nom": "Déguisement de loup-garou",
         "catégorie": "Homme",
         "style": "Loup-garou / Loup garou / Halloween",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_loup_garou.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_loup_garou.jpg"
       },
@@ -149,7 +131,6 @@
         "nom": "Déguisement Marilyn Monroe",
         "catégorie": "Femme",
         "style": "Robe / Marilyn Monroe / Soirée",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_marilyn_monroe.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_marilyn_monroe.jpg"
       },
@@ -157,7 +138,6 @@
         "nom": "Déguisement tenue style 70's",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_70s_femme_2.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_70s_femme_2.jpg"
       },
@@ -165,7 +145,6 @@
         "nom": "Déguisement de savant fou",
         "catégorie": "Homme",
         "style": "Savant fou / Chimiste / Halloween",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_savant_fou.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_savant_fou.jpg"
       },
@@ -173,7 +152,6 @@
         "nom": "Déguisement de prisonnier",
         "catégorie": "Homme",
         "style": "Prisonnier / Évadé / Halloween",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_prisonnier.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_prisonnier.jpg"
       },
@@ -181,7 +159,6 @@
         "nom": "Déguisement de César",
         "catégorie": "Homme",
         "style": "César / Romain",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_cesar.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_cesar.jpg"
       },
@@ -189,7 +166,6 @@
         "nom": "Déguisement de pirate",
         "catégorie": "Femme",
         "style": "Pirate / Corsaire",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_pirate_femme.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_pirate.jpg"
       },
@@ -197,7 +173,6 @@
         "nom": "Déguisement de prisonnier",
         "catégorie": "Homme",
         "style": "Prisonnier / Évadé / Halloween",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_prisonnier_2.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_prisonnier_2.jpg"
       },
@@ -205,7 +180,6 @@
         "nom": "Déguisement d'écossais",
         "catégorie": "Homme",
         "style": "Écossais / St Patrick / Kilt",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_ecossais.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_ecossais.jpg"
       },
@@ -213,7 +187,6 @@
         "nom": "Déguisement de braqueur",
         "catégorie": "Homme",
         "style": "Braqueur / Squid Game / La casa de papel",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_braqueur.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_braqueur.jpg"
       },
@@ -221,7 +194,6 @@
         "nom": "Déguisement de ballerine",
         "catégorie": "Femme",
         "style": "Robe / Ballerine / Ballet / Soirée / Nouvelle Année / Nouvel An",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_ballerine.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_ballerine.jpg"
       },
@@ -229,7 +201,6 @@
         "nom": "Déguisement de sorcière",
         "catégorie": "Femme",
         "style": "Robe / Sorcière / Halloween",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_sorciere.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_sorciere.jpg"
       },
@@ -237,7 +208,6 @@
         "nom": "Déguisement de clown",
         "catégorie": "Femme",
         "style": "Clown / Cirque / Halloween",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_clown_1.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_clown.jpg"
       },
@@ -245,7 +215,6 @@
         "nom": "Déguisement de pilote",
         "catégorie": "Homme",
         "style": "Pilote / Avion",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_pilote.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_pilote.jpg"
       },
@@ -253,7 +222,6 @@
         "nom": "Déguisement robe disco",
         "catégorie": "Femme",
         "style": "Robe / Disco / Hippie / 70's / Années 70",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_robe_disco.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_disco.jpg"
       },
@@ -261,7 +229,6 @@
         "nom": "Déguisement de socière",
         "catégorie": "Enfant",
         "style": "Robe / Sorcière / Halloween",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_sorciere_enfant.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_sorciere_enfant.jpg"
       },
@@ -269,7 +236,6 @@
         "nom": "Déguisement de clown",
         "catégorie": "Enfant",
         "style": "Clown / Cirque / Halloween",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_clown_enfant.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_clown_enfant.jpg"
       },
@@ -277,7 +243,6 @@
         "nom": "Déguisement exploratrice galactique",
         "catégorie": "Femme",
         "style": "Espace / Galactique / Exploratrice",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_galactique_femme.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_galactique_femme.jpg"
       },
@@ -285,7 +250,6 @@
         "nom": "Déguisement de ninja",
         "catégorie": "Homme",
         "style": "Ninja / Samouraï / Asiatique",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_ninja.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_ninja.jpg"
       },
@@ -293,7 +257,6 @@
         "nom": "Déguisement robe asiatique",
         "catégorie": "Femme",
         "style": "Ninja / Asiatique",
-        "prix": 30,
         "image": "./Produits/Deguisements_AVIF/deguisement_robe_asiatique.avif",
         "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_asiatique.jpg"
       }
@@ -302,195 +265,167 @@
       {
         "nom": "Spray pour cheveux couleur rouge",
         "catégorie": "Cheveux",
-        "prix": 30,
         "image": "./Produits/Accessoires_AVIF/accessoires_spray_cheveux_bleu.avif",
         "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_bleu.jpg"
       },
       {
         "nom": "Spray pour cheveux couleur noir",
         "catégorie": "Cheveux",
-        "prix": 30,
         "image": "./Produits/Accessoires_AVIF/accessoires_spray_cheveux_noir.avif",
         "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_noir.jpg"
       },
       {
         "nom": "Spray pour cheveux couleur bleu",
-        "prix": 30,
         "catégorie": "Cheveux",
         "image": "./Produits/Accessoires_AVIF/accessoires_spray_cheveux_rouges.avif",
         "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_rouges.jpg"
       },
       {
         "nom": "Kit de maquillage de clown",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_clown.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_clown.jpg"
       },
       {
         "nom": "Kit de maquillage de pirate",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_pirate.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_pirate.jpg"
       },
       {
         "nom": "Kit de maquillage de diable",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_diable.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_diable.jpg"
       },
       {
         "nom": "Kit de maquillage de vampire",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_vampire.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_vampire.jpg"
       },
       {
         "nom": "Kit de maquillage de faucheuse",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_faucheuse.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_faucheuse.jpg"
       },
       {
         "nom": "Kit de maquillage de sorcière",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_sorciere.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_sorciere.jpg"
       },
       {
         "nom": "Kit de maquillage de zombie",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_zombie.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_zombie.jpg"
-      },      
+      },
       {
         "nom": "Capsule de faux sang",
         "catégorie": "Maquillage",
-        "prix": 30,
         "image": "./Produits/Accessoires_AVIF/accessoires_capsules_sang.avif",
         "imageJPG": "./Produits/Accessoires_JPG/accessoires_capsules_sang.jpg"
       },
       {
         "nom": "Collier de faux sang",
-        "prix": 30,
         "catégorie": "Collier",
         "image": "./Produits/Accessoires_AVIF/collier_faux_sang.avif",
         "imageJPG": "./Produits/Accessoires_JPG/collier_faux_sang.jpg"
       },
       {
         "nom": "Palette de maquillage",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/palette_maquillage.avif",
         "imageJPG": "./Produits/Accessoires_JPG/palette_maquillage.jpg"
       },
       {
         "nom": "Maquillage arc-en-ciel",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/maquillage_arc_en_ciel.avif",
         "imageJPG": "./Produits/Accessoires_JPG/maquillage_arc_en_ciel.jpg"
       },
       {
         "nom": "Maquillage drapeau français",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_drapeau_francais.avif",
         "imageJPG": "./Produits/Accessoires_JPG/maquillage_drapeau_francais.jpg"
       },
       {
         "nom": "Kit maquillage noir et blanc",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_noir_et_blanc.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_noir_et_blanc.jpg"
       },
       {
         "nom": "Kit maquillage rouge et noir",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_rouge_et_noir.avif",
         "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_rouge_et_noir.jpg"
       },
       {
         "nom": "Maquillage noir",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_noir.avif",
         "imageJPG": "./Produits/Accessoires_JPG/maquillage_noir.jpg"
       },
       {
         "nom": "Palette de maquillage phosphorescent",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/palette_maquillage_phosphorescent.avif",
         "imageJPG": "./Produits/Accessoires_JPG/palette_maquillage_phosphorescent.jpg"
       },
       {
         "nom": "Crayons de maquillage phosphorescent",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/crayons_maquillage_phosphorescent.avif",
         "imageJPG": "./Produits/Accessoires_JPG/crayons_maquillage_phosphorescent.jpg"
       },
       {
         "nom": "Maquillage rose phosphorescent",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_rose_phosphorescent.avif",
         "imageJPG": "./Produits/Accessoires_JPG/maquillage_rose_phosphorescent.jpg"
       },
       {
         "nom": "Maquillage vert phosphorescent",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_vert_phosphorescent.avif",
         "imageJPG": "./Produits/Accessoires_JPG/maquillage_vert_phosphorescent.jpg"
       },
       {
         "nom": "Maquillage orange phosphorescent",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_orange_phosphorescent.avif",
         "imageJPG": "./Produits/Accessoires_JPG/maquillage_orange_phosphorescent.jpg"
       },
       {
         "nom": "Maquillage jaune phosphorescent",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_jaune_phosphorescent.avif",
         "imageJPG": "./Produits/Accessoires_JPG/maquillage_jaune_phosphorescent.jpg"
       },
       {
         "nom": "Tatouage brûlure au visage",
-        "prix": 30,
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/tatouage_brulure_visage.avif",
         "imageJPG": "./Produits/Accessoires_JPG/tatouage_brulure_visage.jpg"
       },
       {
         "nom": "Lentilles noir absolu",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/lentilles_noir_absolu.avif",
         "imageJPG": "./Produits/Accessoires_JPG/lentilles_noir_absolu.jpg"
       },
       {
         "nom": "Lentilles rouges yeux de loup",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/lentilles_rouges_yeux_de_loup.avif",
         "imageJPG": "./Produits/Accessoires_JPG/lentilles_rouges_yeux_de_loup.jpg"
       },
       {
         "nom": "Lentilles bleues arctiques",
-        "prix": 30,
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/lentilles_bleues_arctiques.avif",
         "imageJPG": "./Produits/Accessoires_JPG/lentilles_bleues_arctiques.jpg"
@@ -645,55 +580,55 @@
         "nom": "Chocolats artisanaux en balottins",
         "description": "Disponibles en magasin et sur commande",
         "image": "./Produits/Chocolats_artisanaux_AVIF/chocolats_prix.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/chocolats_prix.jpg"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/chocolats_prix.jpg"
       },
       {
         "nom": "La couronne",
         "description": "Ganache rhum raisin enrobée de chocolat noir",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_la_couronne.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/choco_la_couronne.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_la_couronne.JPG"
       },
       {
         "nom": "Chiraz",
         "description": "Pranliné brésilien amandes/noisettes caramélisées enrobé de chocolat noir",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_chiraz.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/choco_chiraz.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_chiraz.JPG"
       },
       {
         "nom": "Frivole",
         "description": "Pâte d'amande aux fruits confits enrobée de chocolat noir et surmontée d'une amande entière",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_frivole.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/choco_frivole.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_frivole.JPG"
       },
       {
         "nom": "Louise",
         "description": "Praliné au chocolat noir enrobé de chocolat noir",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_louise.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/choco_louise.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_louise.JPG"
       },
       {
         "nom": "Macchiato",
         "description": "Praliné au café enrobé de chocolat au lait",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_macchiato.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/choco_macchiato.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_macchiato.JPG"
       },
       {
         "nom": "Monica",
         "description": "Ganache moka enrobée de chocolat au lait",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_monica.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/choco_monica.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_monica.JPG"
       },
       {
         "nom": "Sinatra",
         "description": "Praliné croustillant enrobé de chocolat au lait",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_sinatra.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/choco_sinatra.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_sinatra.JPG"
       },
       {
         "nom": "Stromboli",
         "description": "Praliné brésilien amandes/noisettes caramélisées et concassées enrobé de chocolat noir",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_stromboli.avif",
-        "imageJPG":"./Produits/Chocolats_artisanaux_JPG/choco_stromboli.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_stromboli.JPG"
       }
     ],
     "sucreries_antan": [
@@ -849,7 +784,7 @@
         "image": "./Produits/Machines_alimentaires_JPG/fontaine_chocolat.jpg",
         "imageJPG": "./Produits/Machines_alimentaires_JPG/fontaine_chocolat.jpg"
       }
-    ],    
+    ],
     "mascottes": [
       {
         "nom": "Déguisement de Mickey",
@@ -1106,18 +1041,18 @@
         "image1": "./Produits/Chateaux_gonflables_AVIF/chateau_gonflable_pirate.avif",
         "image2": "./Produits/Chateaux_gonflables_AVIF/chateau_gonflable_pirate_2.avif",
         "image3": "./Produits/Chateaux_gonflables_AVIF/chateau_gonflable_pirate_3.avif",
-        "imageJPG1" : "./Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate.jpg",
-        "imageJPG2" : "./Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate_2.jpg",
-        "imageJPG3" : "./Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate_3.jpg"
+        "imageJPG1": "./Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate.jpg",
+        "imageJPG2": "./Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate_2.jpg",
+        "imageJPG3": "./Produits/Chateaux_gonflables_JPG/chateau_gonflable_pirate_3.jpg"
       },
       {
         "nom": "Le parcours",
         "image1": "./Produits/Chateaux_gonflables_AVIF/grand_chateau_gonflable.avif",
         "image2": "./Produits/Chateaux_gonflables_AVIF/grand_chateau_gonflable_2.avif",
         "image3": "./Produits/Chateaux_gonflables_AVIF/grand_chateau_gonflable_3.avif",
-        "imageJPG1" : "./Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable.jpg",
-        "imageJPG2" : "./Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_2.jpg",
-        "imageJPG3" : "./Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_3.jpg"
+        "imageJPG1": "./Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable.jpg",
+        "imageJPG2": "./Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_2.jpg",
+        "imageJPG3": "./Produits/Chateaux_gonflables_JPG/grand_chateau_gonflable_3.jpg"
       }
     ],
     "chateaux_gonflables_provisoires": [
@@ -1125,12 +1060,12 @@
         "nom": "Le slide",
         "imageJPG": "./Produits/Chateaux_gonflables_JPG/slide.jpg",
         "imageAVIF": "./Produits/Chateaux_gonflables_AVIF/slide.avif"
-      },      
+      },
       {
         "nom": "L'aquafun",
         "imageJPG": "./Produits/Chateaux_gonflables_JPG/aquafun.jpg",
         "imageAVIF": "./Produits/Chateaux_gonflables_AVIF/aquafun.avif"
-      },      
+      },
       {
         "nom": "Le fiesta",
         "imageJPG": "./Produits/Chateaux_gonflables_JPG/fiesta.jpg",
