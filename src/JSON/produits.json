@@ -789,32 +789,32 @@
       {
         "nom": "Déguisement de Mickey",
         "image": "./Produits/Mascottes_AVIF/deguisement_mickey.avif",
-        "imageJPG": "./Produits/Mascottes_JPG/deguisement_mickey.jpg"
+        "imageJPG": "./Produits/Mascottes_JPG/deguisement_mickey.JPG"
       },
       {
         "nom": "Déguisement de Minnie",
         "image": "./Produits/Mascottes_AVIF/deguisement_minnie.avif",
-        "imageJPG": "./Produits/Mascottes_JPG/deguisement_minnie.jpg"
+        "imageJPG": "./Produits/Mascottes_JPG/deguisement_minnie.JPG"
       },
       {
         "nom": "Déguisement de Dingo",
         "image": "./Produits/Mascottes_AVIF/deguisement_dingo.avif",
-        "imageJPG": "./Produits/Mascottes_JPG/deguisement_dingo.jpg"
+        "imageJPG": "./Produits/Mascottes_JPG/deguisement_dingo.JPG"
       },
       {
         "nom": "Déguisement d'Olaf",
         "image": "./Produits/Mascottes_AVIF/deguisement_olaf.avif",
-        "imageJPG": "./Produits/Mascottes_JPG/deguisement_olaf.jpg"
+        "imageJPG": "./Produits/Mascottes_JPG/deguisement_olaf.JPG"
       },
       {
         "nom": "Déguisement de lapin",
         "image": "./Produits/Mascottes_AVIF/deguisement_lapin.avif",
-        "imageJPG": "./Produits/Mascottes_JPG/deguisement_lapin.jpg"
+        "imageJPG": "./Produits/Mascottes_JPG/deguisement_lapin.JPG"
       },
       {
         "nom": "Déguisement d'ours",
         "image": "./Produits/Mascottes_AVIF/deguisement_ours.avif",
-        "imageJPG": "./Produits/Mascottes_JPG/deguisement_ours.jpg"
+        "imageJPG": "./Produits/Mascottes_JPG/deguisement_ours.JPG"
       }
     ],
     "jeux": [
