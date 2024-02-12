@@ -29,7 +29,7 @@ import HeaderHome from './Components/header_home';
 import Chocolats from './Components/chocolats';
 import Footer from './Components/footer';
 import Dragees from './Components/dragees';
-import Produits_regionnaux from './Components/produits_regionnaux';
+import Produits_regionaux from './Components/produits_regionaux';
 import Sucreries_autrefois from './Components/sucrerie_autrefois';
 import Gateaux_bonbons from './Components/gateaux_bonbons';
 import Chateaux_gonflables from './Components/chateaux_gonflables';
@@ -88,7 +88,7 @@ const router = createBrowserRouter([
       {
         path: 'Produits_regionnaux',
 
-        element: <><Header /><Produits_regionnaux /></>
+        element: <><Header /><Produits_regionaux /></>
       },
       {
         path: 'Sucreries_antan',

@@ -9,7 +9,7 @@ function Jeux() {
         return null;
     }
 
-    const Jeux = produits.produits.Jeux;
+    const Jeux = produits.produits.jeux;
 
     return (
         <>
