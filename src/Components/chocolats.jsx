@@ -15,7 +15,7 @@ function Chocolats() {
         <>
             <section className="presentation_chocolats">
                 <div><h1>Chocolats artisanaux</h1>
-                    <h2> Découvrez notre gamme de chocolats faits maison !</h2>
+                    <h2>Découvrez notre gamme de chocolats faits maison !</h2>
                 </div>
             </section>
             <section id="chocolats">
