@@ -32,14 +32,14 @@ export const voirAccessoires = () => {
   }
 }
 
-export const viewerProduits = (produit) => {
+export const viewerProduct = (product) => {
   const viewer = document.getElementById('viewer');
   viewer.className = 'viewer';
 
   viewer.innerHTML = `
   <div>
-    <img src="${produit.image}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}" id="viewer_img"/>
-    <p>${produit.nom}</p>
+    <img src="${product.image}" onerror="this.src='${product.imageJPG}'" alt="${product.name}" id="viewer_img"/>
+    <p>${product.name}</p>
     <button class="btn" id="fermer_deguisements">Fermer</button>
   </div>`
 
