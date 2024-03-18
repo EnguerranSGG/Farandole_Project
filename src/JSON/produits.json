@@ -6,259 +6,296 @@
         "catégorie": "Homme",
         "style": "Noël",
         "image": "./Produits/Deguisements_AVIF/deguisement_pere_noel.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pere_noel.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pere_noel.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de reine",
         "catégorie": "Femme",
         "style": "Reine / Princesse / Médiéval",
         "image": "./Produits/Deguisements_AVIF/deguisement_reine.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_reine.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_reine.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de hippie",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
         "image": "./Produits/Deguisements_AVIF/deguisement_hippie_femme.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_hippie_femme.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_hippie_femme.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de roi",
         "catégorie": "Homme",
         "style": "Roi / Prince / Médiéval",
         "image": "./Produits/Deguisements_AVIF/deguisement_roi.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_roi.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_roi.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de reine",
         "catégorie": "Femme",
         "style": "Reine / Princesse / Médiéval",
         "image": "./Produits/Deguisements_AVIF/deguisement_reine_2.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_reine_2.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_reine_2.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de chevalier",
         "catégorie": "Homme",
         "style": "Roi / Chevalier / Médiéval / Croisé",
         "image": "./Produits/Deguisements_AVIF/deguisement_chevalier.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_chevalier.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_chevalier.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de pirate",
         "catégorie": "Homme",
         "style": "Pirate / Corsaire",
         "image": "./Produits/Deguisements_AVIF/deguisement_pirate.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pirate.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pirate.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement robe de soirée",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Nouvelle Année / Nouvel An",
         "image": "./Produits/Deguisements_AVIF/deguisement_robe_soiree.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_soiree.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_soiree.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
         "image": "./Produits/Deguisements_AVIF/deguisement_films_noirs_femme_1.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_1.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_1.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
         "image": "./Produits/Deguisements_AVIF/deguisement_films_noirs_femme_2.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_2.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_2.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An",
         "image": "./Produits/Deguisements_AVIF/deguisement_films_noirs_femme_3.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_3.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_3.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement robe de soirée films noirs",
         "catégorie": "Femme",
         "style": "Robe / Soirée / Films Noirs / Prohibition / Nouvelle Année / Nouvel An / Disco",
         "image": "./Produits/Deguisements_AVIF/deguisement_films_noirs_femme_4.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_4.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_films_noirs_femme_4.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de pharaon",
         "catégorie": "Femme",
         "style": "Robe / Égyptien / Pharaon",
         "image": "./Produits/Deguisements_AVIF/deguisement_pharaon.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pharaon.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pharaon.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de vampire",
         "catégorie": "Femme",
         "style": "Robe / Vampire / Halloween / Dracula",
         "image": "./Produits/Deguisements_AVIF/deguisement_vampire_femme.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_vampire_femme.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_vampire_femme.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement d'infirmière",
         "catégorie": "Femme",
         "style": "Robe / Infirmière",
         "image": "./Produits/Deguisements_AVIF/deguisement_infirmiere.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_infirmiere.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_infirmiere.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement robe style 70's",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
         "image": "./Produits/Deguisements_AVIF/deguisement_70s_femme.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_70s_femme.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_70s_femme.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement d'infirmière",
         "catégorie": "Femme",
         "style": "Robe / Infirmière",
         "image": "./Produits/Deguisements_AVIF/deguisement_infirmiere_2.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_infirmiere_2.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_infirmiere_2.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de loup-garou",
         "catégorie": "Homme",
         "style": "Loup-garou / Loup garou / Halloween",
         "image": "./Produits/Deguisements_AVIF/deguisement_loup_garou.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_loup_garou.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_loup_garou.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement Marilyn Monroe",
         "catégorie": "Femme",
         "style": "Robe / Marilyn Monroe / Soirée",
         "image": "./Produits/Deguisements_AVIF/deguisement_marilyn_monroe.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_marilyn_monroe.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_marilyn_monroe.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement tenue style 70's",
         "catégorie": "Femme",
         "style": "Hippie / 70's / Années 70 / Disco",
         "image": "./Produits/Deguisements_AVIF/deguisement_70s_femme_2.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_70s_femme_2.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_70s_femme_2.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de savant fou",
         "catégorie": "Homme",
         "style": "Savant fou / Chimiste / Halloween",
         "image": "./Produits/Deguisements_AVIF/deguisement_savant_fou.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_savant_fou.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_savant_fou.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de prisonnier",
         "catégorie": "Homme",
         "style": "Prisonnier / Évadé / Halloween",
         "image": "./Produits/Deguisements_AVIF/deguisement_prisonnier.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_prisonnier.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_prisonnier.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de César",
         "catégorie": "Homme",
         "style": "César / Romain",
         "image": "./Produits/Deguisements_AVIF/deguisement_cesar.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_cesar.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_cesar.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de pirate",
         "catégorie": "Femme",
         "style": "Pirate / Corsaire",
         "image": "./Produits/Deguisements_AVIF/deguisement_pirate_femme.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pirate.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pirate.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de prisonnier",
         "catégorie": "Homme",
         "style": "Prisonnier / Évadé / Halloween",
         "image": "./Produits/Deguisements_AVIF/deguisement_prisonnier_2.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_prisonnier_2.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_prisonnier_2.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement d'écossais",
         "catégorie": "Homme",
         "style": "Écossais / St Patrick / Kilt",
         "image": "./Produits/Deguisements_AVIF/deguisement_ecossais.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_ecossais.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_ecossais.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de braqueur",
         "catégorie": "Homme",
         "style": "Braqueur / Squid Game / La casa de papel",
         "image": "./Produits/Deguisements_AVIF/deguisement_braqueur.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_braqueur.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_braqueur.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de ballerine",
         "catégorie": "Femme",
         "style": "Robe / Ballerine / Ballet / Soirée / Nouvelle Année / Nouvel An",
         "image": "./Produits/Deguisements_AVIF/deguisement_ballerine.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_ballerine.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_ballerine.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de sorcière",
         "catégorie": "Femme",
         "style": "Robe / Sorcière / Halloween",
         "image": "./Produits/Deguisements_AVIF/deguisement_sorciere.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_sorciere.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_sorciere.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de clown",
         "catégorie": "Femme",
         "style": "Clown / Cirque / Halloween",
         "image": "./Produits/Deguisements_AVIF/deguisement_clown_1.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_clown.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_clown.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de pilote",
         "catégorie": "Homme",
         "style": "Pilote / Avion",
         "image": "./Produits/Deguisements_AVIF/deguisement_pilote.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pilote.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_pilote.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement robe disco",
         "catégorie": "Femme",
         "style": "Robe / Disco / Hippie / 70's / Années 70",
         "image": "./Produits/Deguisements_AVIF/deguisement_robe_disco.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_disco.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_disco.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de socière",
         "catégorie": "Enfant",
         "style": "Robe / Sorcière / Halloween",
         "image": "./Produits/Deguisements_AVIF/deguisement_sorciere_enfant.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_sorciere_enfant.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_sorciere_enfant.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de clown",
         "catégorie": "Enfant",
         "style": "Clown / Cirque / Halloween",
         "image": "./Produits/Deguisements_AVIF/deguisement_clown_enfant.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_clown_enfant.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_clown_enfant.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement exploratrice galactique",
         "catégorie": "Femme",
         "style": "Espace / Galactique / Exploratrice",
         "image": "./Produits/Deguisements_AVIF/deguisement_galactique_femme.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_galactique_femme.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_galactique_femme.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement de ninja",
         "catégorie": "Homme",
         "style": "Ninja / Samouraï / Asiatique",
         "image": "./Produits/Deguisements_AVIF/deguisement_ninja.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_ninja.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_ninja.jpg",
+        "category": "deguisements"
       },
       {
         "nom": "Déguisement robe asiatique",
         "catégorie": "Femme",
         "style": "Ninja / Asiatique",
         "image": "./Produits/Deguisements_AVIF/deguisement_robe_asiatique.avif",
-        "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_asiatique.jpg"
+        "imageJPG": "./Produits/Deguisements_JPG/deguisement_robe_asiatique.jpg",
+        "category": "deguisements"
       }
     ],
     "accessoires": [
@@ -266,313 +303,369 @@
         "nom": "Spray pour cheveux couleur rouge",
         "catégorie": "Cheveux",
         "image": "./Produits/Accessoires_AVIF/accessoires_spray_cheveux_bleu.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_bleu.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_bleu.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Spray pour cheveux couleur noir",
         "catégorie": "Cheveux",
         "image": "./Produits/Accessoires_AVIF/accessoires_spray_cheveux_noir.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_noir.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_noir.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Spray pour cheveux couleur bleu",
         "catégorie": "Cheveux",
         "image": "./Produits/Accessoires_AVIF/accessoires_spray_cheveux_rouges.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_rouges.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/accessoires_spray_cheveux_rouges.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit de maquillage de clown",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_clown.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_clown.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_clown.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit de maquillage de pirate",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_pirate.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_pirate.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_pirate.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit de maquillage de diable",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_diable.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_diable.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_diable.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit de maquillage de vampire",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_vampire.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_vampire.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_vampire.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit de maquillage de faucheuse",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_faucheuse.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_faucheuse.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_faucheuse.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit de maquillage de sorcière",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_sorciere.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_sorciere.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_sorciere.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit de maquillage de zombie",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_zombie.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_zombie.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_zombie.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Capsule de faux sang",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/accessoires_capsules_sang.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/accessoires_capsules_sang.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/accessoires_capsules_sang.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Collier de faux sang",
         "catégorie": "Collier",
         "image": "./Produits/Accessoires_AVIF/collier_faux_sang.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/collier_faux_sang.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/collier_faux_sang.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Palette de maquillage",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/palette_maquillage.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/palette_maquillage.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/palette_maquillage.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Maquillage arc-en-ciel",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/maquillage_arc_en_ciel.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/maquillage_arc_en_ciel.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/maquillage_arc_en_ciel.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Maquillage drapeau français",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_drapeau_francais.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/maquillage_drapeau_francais.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/maquillage_drapeau_francais.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit maquillage noir et blanc",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_noir_et_blanc.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_noir_et_blanc.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_noir_et_blanc.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Kit maquillage rouge et noir",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/kit_maquillage_rouge_et_noir.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_rouge_et_noir.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/kit_maquillage_rouge_et_noir.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Maquillage noir",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_noir.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/maquillage_noir.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/maquillage_noir.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Palette de maquillage phosphorescent",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/palette_maquillage_phosphorescent.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/palette_maquillage_phosphorescent.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/palette_maquillage_phosphorescent.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Crayons de maquillage phosphorescent",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/crayons_maquillage_phosphorescent.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/crayons_maquillage_phosphorescent.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/crayons_maquillage_phosphorescent.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Maquillage rose phosphorescent",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_rose_phosphorescent.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/maquillage_rose_phosphorescent.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/maquillage_rose_phosphorescent.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Maquillage vert phosphorescent",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_vert_phosphorescent.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/maquillage_vert_phosphorescent.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/maquillage_vert_phosphorescent.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Maquillage orange phosphorescent",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_orange_phosphorescent.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/maquillage_orange_phosphorescent.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/maquillage_orange_phosphorescent.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Maquillage jaune phosphorescent",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/maquillage_jaune_phosphorescent.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/maquillage_jaune_phosphorescent.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/maquillage_jaune_phosphorescent.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Tatouage brûlure au visage",
         "catégorie": "Maquillage",
         "image": "./Produits/Accessoires_AVIF/tatouage_brulure_visage.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/tatouage_brulure_visage.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/tatouage_brulure_visage.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Lentilles noir absolu",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/lentilles_noir_absolu.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/lentilles_noir_absolu.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/lentilles_noir_absolu.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Lentilles rouges yeux de loup",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/lentilles_rouges_yeux_de_loup.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/lentilles_rouges_yeux_de_loup.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/lentilles_rouges_yeux_de_loup.jpg",
+        "category": "accessories"
       },
       {
         "nom": "Lentilles bleues arctiques",
         "catégorie": "Lentilles",
         "image": "./Produits/Accessoires_AVIF/lentilles_bleues_arctiques.avif",
-        "imageJPG": "./Produits/Accessoires_JPG/lentilles_bleues_arctiques.jpg"
+        "imageJPG": "./Produits/Accessoires_JPG/lentilles_bleues_arctiques.jpg",
+        "category": "accessories"
       }
     ],
     "compositions_dragees": [
       {
         "nom": "Composition bébé et grande roue en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_dragee_bebe_roue.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragee_bebe_roue.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragee_bebe_roue.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition panda et grande roue en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_dragee_panda_roue.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragee_panda_roue.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragee_panda_roue.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition wrecking chair en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_wrecking_chair.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_mongolfiere_licorne.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_mongolfiere_licorne.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition voiture en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_dragee_voiture_osier.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragee_voiture_osier.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragee_voiture_osier.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition en soie bleue",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_dragees_bleu.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragees_bleu.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragees_bleu.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition licorne en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_dragees_licorne.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragees_licorne.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_dragees_licorne.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition grande roue en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_grande_roue.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_grande_roue.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_grande_roue.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition licornes et fées en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_licornes_fees.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_licornes_fees.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_licornes_fees.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition panda et manège en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_manege_panda.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_manege_panda.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_manege_panda.jpg",
+        "category": "sugared_almonds_compositions"
       },
       {
         "nom": "Composition licorne et mongolfière en osier",
         "image": "./Produits/Compositions_dragees_AVIF/presentoire_mongolfiere_licorne.avif",
-        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_mongolfiere_licorne.jpg"
+        "imageJPG": "./Produits/Compositions_dragees_JPG/presentoire_mongolfiere_licorne.jpg",
+        "category": "sugared_almonds_compositions"
       }
     ],
     "gateaux_bonbons": [
       {
         "nom": "Gateau en bonbons d'anniversaire",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_anniversaire.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_anniversaire.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_anniversaire.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons ballon de foot",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_ballon.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_ballon.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_ballon.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons barbie",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_barbie.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_barbie.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_barbie.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons bébé",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_bebe.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_bebe.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_bebe.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons citrouille",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_citrouille.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_citrouille.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_citrouille.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons licorne",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_licorne.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_licorne.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_licorne.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons madame",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_madame.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_madame.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_madame.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons madame",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_marie%CC%81s.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_marie%CC%81s.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_marie%CC%81s.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons poisson",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_poisson.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_poisson.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_poisson.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons spiderman",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_spiderman.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_spiderman.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_spiderman.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons roi lion",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_roi_lion.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_roi_lion.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_roi_lion.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons Minnie",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_minnie.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_minnie.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_minnie.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons avec jouet : hélicoptère",
         "image": "./Produits/Gateaux_bonbons_AVIF/mgateau_bonbon_helico.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_helico.JPG"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_helico.JPG",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons avec jouet : ambulance",
         "image": "./Produits/Gateaux_bonbons_AVIF/mgateau_bonbon_ambulance.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_ambulance.JPG"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_ambulance.JPG",
+        "category": "candies_cakes"
       },
       {
         "nom": "Gateau en bonbons barbie",
         "image": "./Produits/Gateaux_bonbons_AVIF/gateau_bonbon_barbie_photo.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_barbie_photo.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/gateau_bonbon_barbie_photo.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Composition de petits gateaux sur le thème du foot",
         "image": "./Produits/Gateaux_bonbons_AVIF/compo_gateaux_1.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/compo_gateaux_1.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/compo_gateaux_1.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Composition de petits gateaux en forme de coeur",
         "image": "./Produits/Gateaux_bonbons_AVIF/compo_gateau_2.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/compo_gateau_2.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/compo_gateau_2.jpg",
+        "category": "candies_cakes"
       },
       {
         "nom": "Composition de petits gateaux initial",
         "image": "./Produits/Gateaux_bonbons_AVIF/compo_gateaux_3.avif",
-        "imageJPG": "./Produits/Gateaux_bonbons_JPG/compo_gateaux_3.jpg"
+        "imageJPG": "./Produits/Gateaux_bonbons_JPG/compo_gateaux_3.jpg",
+        "category": "candies_cakes"
       }
     ],
     "chocolats_artisanaux": [
@@ -580,55 +673,65 @@
         "nom": "Chocolats artisanaux en balottins",
         "description": "Disponibles en magasin et sur commande",
         "image": "./Produits/Chocolats_artisanaux_AVIF/chocolats_prix.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/chocolats_prix.jpg"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/chocolats_prix.jpg",
+        "category": "artisanal_chocolates"
+        
       },
       {
         "nom": "La couronne",
         "description": "Ganache rhum raisin enrobée de chocolat noir",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_la_couronne.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_la_couronne.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_la_couronne.JPG",
+        "category": "artisanal_chocolates"
       },
       {
         "nom": "Chiraz",
         "description": "Pranliné brésilien amandes/noisettes caramélisées enrobé de chocolat noir",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_chiraz.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_chiraz.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_chiraz.JPG",
+        "category": "artisanal_chocolates"
       },
       {
         "nom": "Frivole",
         "description": "Pâte d'amande aux fruits confits enrobée de chocolat noir et surmontée d'une amande entière",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_frivole.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_frivole.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_frivole.JPG",
+        "category": "artisanal_chocolates"
       },
       {
         "nom": "Louise",
         "description": "Praliné au chocolat noir enrobé de chocolat noir",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_louise.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_louise.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_louise.JPG",
+        "category": "artisanal_chocolates"
       },
       {
         "nom": "Macchiato",
         "description": "Praliné au café enrobé de chocolat au lait",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_macchiato.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_macchiato.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_macchiato.JPG",
+        "category": "artisanal_chocolates"
       },
       {
         "nom": "Monica",
         "description": "Ganache moka enrobée de chocolat au lait",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_monica.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_monica.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_monica.JPG",
+        "category": "artisanal_chocolates"
       },
       {
         "nom": "Sinatra",
         "description": "Praliné croustillant enrobé de chocolat au lait",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_sinatra.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_sinatra.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_sinatra.JPG",
+        "category": "artisanal_chocolates"
       },
       {
         "nom": "Stromboli",
         "description": "Praliné brésilien amandes/noisettes caramélisées et concassées enrobé de chocolat noir",
         "image": "./Produits/Chocolats_artisanaux_AVIF/choco_stromboli.avif",
-        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_stromboli.JPG"
+        "imageJPG": "./Produits/Chocolats_artisanaux_JPG/choco_stromboli.JPG",
+        "category": "artisanal_chocolates"
       }
     ],
     "sucreries_antan": [
