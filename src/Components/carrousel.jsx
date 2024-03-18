@@ -16,7 +16,7 @@ function Carrousel() {
 
     return (
         <div className="carrousel">
-            <h1 id="produits_moment_titre">Nos produits du moment</h1>
+            <h1 id="produits_moment_titre">Pâques est arrivé !</h1>
             <Carousel autoPlay interval={3000} infiniteLoop showStatus={false} showIndicators={false}>
                 {Array.isArray(produits_moment) && !isEmpty(produits_moment) && produits_moment.map((produit, index) => (
                     <><div className='carrousel_element' produit={produit} key={index}>
