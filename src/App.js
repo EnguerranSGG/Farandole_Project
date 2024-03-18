@@ -42,6 +42,7 @@ import Mascottes from './Components/mascottes';
 import Deco from './Components/deco_evenementielle';
 import Error from './Components/error';
 import Mentions from './Components/mentions_legales';
+import ProductComponent1 from './Components/product_component_1';
 
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom';
 
@@ -85,6 +86,11 @@ const router = createBrowserRouter([
         path: 'Dragees',
 
         element: <><Header /><Dragees /></>
+      },
+      {
+        path: 'test',
+
+        element: <><Header /><ProductComponent1 product={'compositions_dragees'} /></>
       },
       {
         path: 'Produits_regionnaux',
