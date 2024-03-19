@@ -6,20 +6,14 @@ import './CSS/Header.css';
 import './CSS/Chateaux.css';
 import './CSS/Modales_Templates.css';
 import './CSS/Deguisements_Accessoires.css';
-import './CSS/Dragees.css';
-import './CSS/Produits_regionaux.css';
 import './CSS/Chocolats.css';
-import './CSS/Sucreries_autrefois.css';
-import './CSS/Gateaux_bonbons.css';
 import './CSS/Cadeaux_perso.css';
-import './CSS/Farces.css';
-import './CSS/Cadeaux.css';
 import './CSS/Machines_mascottes.css';
-import './CSS/Jeux.css';
 import './CSS/Deco.css';
 import './CSS/Error.css';
 import './CSS/Mentions_legales.css';
 import './CSS/Carrousel.css';
+import './CSS/Product_presentation.css'
 
 import Header from './Components/header';
 import Deguisements from './Components/deguisements';
@@ -28,21 +22,13 @@ import Contact from './Components/contact';
 import HeaderHome from './Components/header_home';
 import Chocolats from './Components/chocolats';
 import Footer from './Components/footer';
-import Dragees from './Components/dragees';
-import Produits_regionaux from './Components/produits_regionaux';
-import Sucreries_autrefois from './Components/sucrerie_autrefois';
-import Gateaux_bonbons from './Components/gateaux_bonbons';
 import Chateaux_gonflables from './Components/chateaux_gonflables';
 import Perso from './Components/mug_puzzle_perso';
-import Farces from './Components/farces_attrapes';
-import Celebrations from './Components/cadeaux_celebrationnels';
 import Machines_alimentaires from './Components/machines_sucreries';
-import Jeux from './Components/jeux';
-import Mascottes from './Components/mascottes';
 import Deco from './Components/deco_evenementielle';
 import Error from './Components/error';
 import Mentions from './Components/mentions_legales';
-import ProductComponent1 from './Components/product_component_1';
+import ProductsMapper from './Components/product_component_1';
 
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom';
 
@@ -75,7 +61,7 @@ const router = createBrowserRouter([
       {
         path: 'Celebrations',
 
-        element: <><Header /><Celebrations /></>
+        element: <><Header /><ProductsMapper category={'occasional_gifts'} /></>
       },
       {
         path: 'Chocolats',
@@ -85,37 +71,27 @@ const router = createBrowserRouter([
       {
         path: 'Dragees',
 
-        element: <><Header /><Dragees /></>
-      },
-      {
-        path: 'test',
-
-        element: <><Header /><ProductComponent1 product={'compositions_dragees'} /></>
+        element: <><Header /><ProductsMapper category={'sugared_almonds_compositions'} /></>
       },
       {
         path: 'Produits_regionnaux',
 
-        element: <><Header /><Produits_regionaux /></>
+        element: <><Header /><ProductsMapper category={'local_products'} /></>
       },
       {
         path: 'Sucreries_antan',
 
-        element: <><Header /><Sucreries_autrefois /></>
-      },
-      {
-        path: 'Confiseries',
-
-        element: <><Header /><Sucreries_autrefois /></>
+        element: <><Header /><ProductsMapper category={'yesteryear_candies'} /></>
       },
       {
         path: 'Gateaux_bonbons',
 
-        element: <><Header /><Gateaux_bonbons /></>
+        element: <><Header /><ProductsMapper category={'candies_cakes'} /></>
       },
       {
         path: 'Farces_attrapes',
 
-        element: <><Header /><Farces /></>
+        element: <><Header /><ProductsMapper category={'farces'} /></>
       },
       {
         path: 'Machines_alimentaires',
@@ -130,12 +106,12 @@ const router = createBrowserRouter([
       {
         path: 'Mascottes',
 
-        element: <><Header /><Mascottes /></>
+        element: <><Header /><ProductsMapper category={'mascots'} /></>
       },
       {
         path: 'Jeux',
 
-        element: <><Header /><Jeux /></>
+        element: <><Header /><ProductsMapper category={'games'} /></>
       },
       {
         path: 'Deco_evenementielle',
