@@ -20,7 +20,6 @@ import Deguisements from './Components/deguisements';
 import Accessoires from './Components/accessoires';
 import Contact from './Components/contact';
 import HeaderHome from './Components/header_home';
-import Chocolats from './Components/chocolats';
 import Footer from './Components/footer';
 import Chateaux_gonflables from './Components/chateaux_gonflables';
 import Perso from './Components/mug_puzzle_perso';
