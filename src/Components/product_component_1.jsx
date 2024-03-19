@@ -1,29 +1,36 @@
 import React from "react";
-import useProduits from '../hooks/convertFetchProduits';
-import { isEmpty, viewerProduits } from '../services/utilitaires';
+import useProductsData from '../hooks/convertFetchProductsData';
+import { isEmpty, viewerProduct } from '../services/utilitaires';
 
-function ProductComponent1({ product }) {
-    const produits = useProduits();
+function ProductsMapper({ category }) {
+    const products = useProductsData();
 
-    if (!produits) {
-        return null;
-    }
+    if (!products) return null;
 
-    const compositions = product || produits.produits.product;
+    /* D'abord, le code va vérifier si products.products existe bien avant de s'assurer qu'il est bien une longueur supérieure à 0
+    est est donc une array. Une fois ces deux vérification faite, il applique le filtrage basé sur la category*/
+
+    const filteredProducts = (products.products && products.products.length > 0) ?
+    products.products.filter(product => product.category === category) :
+    [];
+
+    const filteredProductsPresentation = (products.products_presentations && products.products_presentations.length > 0) ?
+    products.products_presentations.filter(productPresentation => productPresentation.category === category) :
+    [];
 
     return (
         <>
-            <div className="presentation_compositions">
-                <div><h1>Compositions de dragées</h1>
-                    <h2>Que ce soit pour un baptême, une communion ou un mariage; n'hésitez pas à nous faire confiance pour la composition de dragées ! </h2>
+            <div className="products_presentation" style={{ backgroundImage: `url(${filteredProductsPresentation[0].image}), url(${filteredProductsPresentation[0].imageJPG})` }}>
+                <div className="products_description"><h1>{filteredProductsPresentation[0].first_title}</h1>
+                    <h2>{filteredProductsPresentation[0].second_title}</h2>
                 </div>
             </div>
             <div id="compositions">
             </div>
             <section className='all_products'>
-                {Array.isArray(compositions) && !isEmpty(compositions) && compositions.map((produit, index) => (
-                    <><div className='products' produit={produit} key={index}>
-                        <img src={produit.image} onError={e => e.currentTarget.src =`${produit.imageJPG}` } alt={produit.nom} onClick={() => viewerProduits(produit)} />
+                {Array.isArray(filteredProducts) && !isEmpty(filteredProducts) && filteredProducts.map((product, index) => (
+                    <><div className='products' product={product} key={product.name}>
+                        <img src={product.image} onError={e => e.currentTarget.src =`${product.imageJPG}` } alt={product.name} onClick={() => viewerProduct(product)} />
                     </div>
                         <div id='viewer' className='notViewer'></div>
                     </>
@@ -33,4 +40,4 @@ function ProductComponent1({ product }) {
     );
 }
 
-export default ProductComponent1;
+export default ProductsMapper;
