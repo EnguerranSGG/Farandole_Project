@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import produits from "../JSON/produits.json";
 
-function useProducts() {
+function useProductsData() {
     const [productsData, setProductsData] = useState(null);
 
     useEffect(() => {
@@ -18,4 +18,4 @@ function useProducts() {
     return productsData;
 }
 
-export default useProducts;
+export default useProductsData;
