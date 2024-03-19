@@ -1236,58 +1236,100 @@
       "category": "temporary_boncy_castels"
     },
     {
-      "name": "Bouquet de fleurs et ferrero",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_bouquet_ferrerot.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_bouquet_ferrerot.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_vitrine.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_vitrine.JPG",
+      "category":"limited_time_products"
     },
     {
-      "name": "Rose",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_rose.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_rose.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_oeuf_poussins_chocolats.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_oeuf_poussins_chocolats.JPG",
+      "category":"limited_time_products"
     },
     {
-      "name": "Hand Warmer Saint-Valentin",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_hand_warmer.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_hand_warmer.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_poussins_sucre.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_poussins_sucre.JPG",
+      "category":"limited_time_products"
     },
     {
-      "name": "Figurine d'amoureux",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_amoureux.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_amoureux.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_coq_chocolat.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_coq_chocolat.JPG",
+      "category":"limited_time_products"
     },
     {
-      "name": "Bougies de St Valentin",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_bougies.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_bougies.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_friandises.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_friandises.JPG",
+      "category":"limited_time_products"
     },
     {
-      "name": "Coeur en peluche",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_coeur_peluche.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_coeur_peluche.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_lapine_chocolat.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_lapine_chocolat.JPG",
+      "category":"limited_time_products"
     },
     {
-      "name": "Mugs St Valentin",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_mug.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_mug.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_lapins_chocolats_2.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_lapins_chocolats_2.JPG",
+      "category":"limited_time_products"
     },
     {
-      "name": "Mugs St Valentin",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_mug_2.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_mug_2.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_lapins_chocolats.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_lapins_chocolats.JPG",
+      "category":"limited_time_products"
     },
     {
-      "name": "Message St Valentin",
-      "image": "./Produits/Produits_moments_JPG/st_valentin_message.jpg",
-      "imageJPG": "./Produits/Produits_moments_JPG/st_valentin_message.jpg",
-      "category": "limited_time_products"
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_oeuf_chocolat.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_oeuf_chocolat.JPG",
+      "category":"limited_time_products"
+    },
+    {
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_lot_chocolats_1.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_lot_chocolats_1.JPG",
+      "category":"limited_time_products"
+    },
+    {
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_lot_chocolats_2.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_lot_chocolats_2.JPG",
+      "category":"limited_time_products"
+    },
+    {
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_lot_chocolats_3.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_lot_chocolats_3.JPG",
+      "category":"limited_time_products"
+    },
+    {
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_lots_chocolats_4.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_lots_chocolats_4.JPG",
+      "category":"limited_time_products"
+    },
+    {
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_mug_chocolats.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_mug_chocolats.JPG",
+      "category":"limited_time_products"
+    },
+    {
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_stel_choc.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_stel_choc.JPG",
+      "category":"limited_time_products"
+    },
+    {
+      "name": "",
+      "image": "./Produits/Produits_moments_JPG/paques_sucettes_chocolat.JPG",
+      "imageJPG": "./Produits/Produits_moments_JPG/paques_sucettes_chocolat.JPG",
+      "category":"limited_time_products"
     }
   ],
   "products_presentations": [
