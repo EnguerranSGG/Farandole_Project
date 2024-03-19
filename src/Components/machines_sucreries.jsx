@@ -1,15 +1,17 @@
 import React from "react";
-import useProduits from '../hooks/convertFetchProduits';
-import { isEmpty, viewerProduits } from '../services/utilitaires';
+import { isEmpty, viewerProduct } from '../services/utilitaires';
+import useProductsData from "../hooks/convertFetchProductsData";
 
 function Machines_alimentaires() {
-    const produits = useProduits();
+    const products = useProductsData();
 
-    if (!produits) {
+    if (!products) {
         return null;
     }
 
-    const machines = produits.produits.machines_alimentaires;
+    const machines = (products.products && products.products.length > 0) ?
+    products.products.filter(product => product.category === "alimentary_machines") :
+    [];
 
     return (
         <>
@@ -20,9 +22,9 @@ function Machines_alimentaires() {
                 </div>
             </div>
             <section className='all_machines_mascots'>
-                {Array.isArray(machines) && !isEmpty(machines) && machines.map((produit, index) => (
-                    <><div className='products' produit={produit} key={index}>
-                        <img src={produit.image} onError={e => e.currentTarget.src =`${produit.imageJPG}` } alt={produit.nom} onClick={() => viewerProduits(produit)} />
+                {Array.isArray(machines) && !isEmpty(machines) && machines.map((product, index) => (
+                    <><div className='products' product={product} key={index}>
+                        <img src={product.image} onError={e => e.currentTarget.src =`${product.imageJPG}` } alt={product.name} onClick={() => viewerProduct(product)} />
                     </div>
                         <div id='viewer' className='notViewer'></div>
                     </>
