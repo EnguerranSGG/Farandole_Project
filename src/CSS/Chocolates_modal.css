@@ -77,7 +77,7 @@
 
     #choco_img {
         height: 700px;
-        width: 400px;
+        width: 100%;
     }
 
     .showCoco p {
@@ -90,6 +90,7 @@
 
     #choco_img {
         height: 500px;
+        width: 100%;
     }
 
     .showCoco p {
@@ -103,7 +104,7 @@
 
     #choco_img {
         height: 350px;
-        min-width: 250px;
+        width: 100%;
     }
 
     .showCocoSection {
