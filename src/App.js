@@ -6,7 +6,7 @@ import './CSS/Header.css';
 import './CSS/Chateaux.css';
 import './CSS/Modales_Templates.css';
 import './CSS/Deguisements_Accessoires.css';
-import './CSS/Chocolats.css';
+import './CSS/Chocolates_modal.css';
 import './CSS/Cadeaux_perso.css';
 import './CSS/Machines_mascottes.css';
 import './CSS/Deco.css';
@@ -27,7 +27,7 @@ import Machines_alimentaires from './Components/machines_sucreries';
 import Deco from './Components/deco_evenementielle';
 import Error from './Components/error';
 import Mentions from './Components/mentions_legales';
-import ProductsMapper from './Components/product_component_1';
+import ProductsMapper from './Components/products_mapper';
 
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom';
 
