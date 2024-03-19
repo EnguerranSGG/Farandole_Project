@@ -66,7 +66,7 @@ const router = createBrowserRouter([
       {
         path: 'Chocolats',
 
-        element: <><Header /><Chocolats /></>
+        element: <><Header /><ProductsMapper category={'artisanal_chocolates'} /></>
       },
       {
         path: 'Dragees',
