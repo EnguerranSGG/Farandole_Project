@@ -1,5 +1,5 @@
 import React from "react";
-import useProduits from '../hooks/convertFetchProduits';
+import useProduits from '../hooks/convertFetchProductsData';
 import { isEmpty, viewerProduits } from '../services/utilitaires';
 
 function Mascottes() {

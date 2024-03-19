@@ -1,27 +1,30 @@
 import React from "react";
-import useProduits from '../hooks/convertFetchProduits';
-import { isEmpty, viewerProduits } from '../services/utilitaires';
+import useProductsData from '../hooks/convertFetchProductsData';
+import { isEmpty, viewerProduct } from '../services/utilitaires';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 
 function Carrousel() {
 
-    const produits = useProduits();
+    const products = useProductsData();
 
-    if (!produits) {
-        return null;
-    }
+    if (!products) return null;
 
-    const produits_moment = produits.produits.produits_moment;
+    /* D'abord, le code va vérifier si products.products existe bien avant de s'assurer qu'il est bien une longueur supérieure à 0
+    est est donc une array. Une fois ces deux vérification faite, il applique le filtrage basé sur la category*/
+
+    const limitedTimeProducts = (products.products && products.products.length > 0) ?
+    products.products.filter(product => product.category === "limited_time_products") :
+    [];
 
     return (
         <div className="carrousel">
             <h1 id="produits_moment_titre">Pâques est arrivé !</h1>
             <Carousel autoPlay interval={3000} infiniteLoop showStatus={false} showIndicators={false}>
-                {Array.isArray(produits_moment) && !isEmpty(produits_moment) && produits_moment.map((produit, index) => (
-                    <><div className='carrousel_element' produit={produit} key={index}>
-                        <h1 className="nom_produit">{produit.nom}</h1>
-                        <img src={produit.image} onError={e => e.currentTarget.src = `${produit.imageJPG}`} alt={produit.nom} onClick={() => viewerProduits(produit)} />
+                {Array.isArray(limitedTimeProducts) && !isEmpty(limitedTimeProducts) && limitedTimeProducts.map((product, index) => (
+                    <><div className='carrousel_element' product={product} key={index}>
+                        <h1 className="nom_produit">{product.name}</h1>
+                        <img src={product.image} onError={e => e.currentTarget.src = `${product.imageJPG}`} alt={product.name} onClick={() => viewerProduct(product)} />
                     </div>
                         <div id='viewer' className='notViewer'></div>
                     </>

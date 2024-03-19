@@ -1,16 +1,18 @@
 import illustration from '../Illustrations_JPG/accessoires.jpg';
-import useProduits from '../hooks/convertFetchProduits';
+import useProductsData from '../hooks/convertFetchProductsData';
 import { isEmpty, viewerAccessoires } from '../services/utilitaires';
 import { voirAccessoires } from '../services/utilitaires';
 
 function Accessoires() {
-  const produits = useProduits();
+  const products = useProductsData();
 
-  if (!produits) {
+  if (!products) {
     return null;
   }
 
-  const accessoires = produits.produits.accessoires;
+  const accessories = (products.products && products.products.length > 0) ?
+  products.products.filter(product => product.category === "accessories") :
+  [];
 
   return (
     <>
@@ -22,9 +24,9 @@ function Accessoires() {
         </div>
       </section>
       <section id='accessoires' className='pasAccessoires'>
-        {Array.isArray(accessoires) && !isEmpty(accessoires) && accessoires.map((produit) => (
-          <><div className='produit' key={produit.id}>
-            <img src={produit.image} onError={e => e.currentTarget.src =`${produit.imageJPG}` } alt={produit.nom} onClick={() => viewerAccessoires(produit)} />
+        {Array.isArray(accessories) && !isEmpty(accessories) && accessories.map((product) => (
+          <><div className='product' key={product.id}>
+            <img src={product.image} onError={e => e.currentTarget.src =`${product.imageJPG}` } alt={product.nom} onClick={() => viewerAccessoires(product)} />
           </div>
             <div id='viewer_accessoires' className='notViewer'></div>
           </>

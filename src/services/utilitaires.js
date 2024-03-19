@@ -32,14 +32,14 @@ export const voirAccessoires = () => {
   }
 }
 
-export const viewerProduits = (produit) => {
+export const viewerProduct = (product) => {
   const viewer = document.getElementById('viewer');
   viewer.className = 'viewer';
 
   viewer.innerHTML = `
   <div>
-    <img src="${produit.image}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}" id="viewer_img"/>
-    <p>${produit.nom}</p>
+    <img src="${product.image}" onerror="this.src='${product.imageJPG}'" alt="${product.name}" id="viewer_img"/>
+    <p>${product.name}</p>
     <button class="btn" id="fermer_deguisements">Fermer</button>
   </div>`
 
@@ -50,15 +50,15 @@ export const viewerProduits = (produit) => {
   })
 }
 
-export const showCoco = (produit) => {
+export const showCoco = (product) => {
   const viewer = document.getElementById('showCoco');
   viewer.className = 'showCoco';
 
   viewer.innerHTML = `
     <section class="showCocoSection">
-    <div><img src="${produit.image}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}" id="choco_img"/></div>
-    <div class="showCocoText"><p>${produit.nom}</p>
-    <p>${produit.description}</p>
+    <div><img src="${product.image}" onerror="this.src='${product.imageJPG}'" alt="${product.name}" id="choco_img"/></div>
+    <div class="showCocoText"><p>${product.name}</p>
+    <p>${product.description}</p>
     <button class="btn" id="fermer_deguisements">Fermer</button></div></section>`
 
   const btn = document.getElementById('fermer_deguisements');
@@ -68,14 +68,14 @@ export const showCoco = (produit) => {
   })
 }
 
-export const viewerAccessoires = (produit) => {
+export const viewerAccessoires = (product) => {
   const viewer = document.getElementById('viewer_accessoires');
   viewer.className = 'viewer';
 
   viewer.innerHTML = `
     <div>
-      <img src="${produit.image}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}"/>
-      <p>${produit.nom}</p>
+      <img src="${product.image}" onerror="this.src='${product.imageJPG}'" alt="${product.name}"/>
+      <p>${product.name}</p>
       <button class="btn" id="fermer_accessoires">Fermer</button>
     </div>`
 
@@ -86,16 +86,16 @@ export const viewerAccessoires = (produit) => {
   })
 }
 
-export const viewerChateaux = (produit) => {
+export const viewerChateaux = (product) => {
   const viewer = document.getElementById('viewer_accessoires');
   viewer.className = 'viewerChateaux';
 
   viewer.innerHTML = `
     <div>
-    <h2>${produit.nom}</h2>
-      <div id="images_chateaux"><img id="image1_chateaux" src="${produit.image1}" onerror="this.src='${produit.imageJPG1}'" alt="${produit.nom}"/>
-      <img id="image2_chateaux" src="${produit.image2}" onerror="this.src='${produit.imageJPG2}'" alt="${produit.nom}"/>
-      <img id="image3_chateaux" src="${produit.image3}" onerror="this.src='${produit.imageJPG3}'" alt="${produit.nom}"/></div>
+    <h2>${product.name}</h2>
+      <div id="images_chateaux"><img id="image1_chateaux" src="${product.image1}" onerror="this.src='${product.imageJPG1}'" alt="${product.name}"/>
+      <img id="image2_chateaux" src="${product.image2}" onerror="this.src='${product.imageJPG2}'" alt="${product.name}"/>
+      <img id="image3_chateaux" src="${product.image3}" onerror="this.src='${product.imageJPG3}'" alt="${product.name}"/></div>
       <button class="btn" id="fermer_accessoires">Fermer</button>
     </div>`
 
@@ -106,14 +106,14 @@ export const viewerChateaux = (produit) => {
   })
 }
 
-export const viewerChateauxProvisoires = (produit) => {
+export const viewerChateauxProvisoires = (product) => {
   const viewer = document.getElementById('viewer_accessoires');
   viewer.className = 'viewerChateaux';
 
   viewer.innerHTML = `
     <div>
-    <h2>${produit.nom}</h2>
-      <div id="images_chateaux_provisoires"><img src="${produit.imageAVIF}" onerror="this.src='${produit.imageJPG}'" alt="${produit.nom}"/>
+    <h2>${product.name}</h2>
+      <div id="images_chateaux_provisoires"><img src="${product.imageAVIF}" onerror="this.src='${product.imageJPG}'" alt="${product.name}"/>
       </div>
       <button class="btn" id="fermer_accessoires">Fermer</button>
     </div>`

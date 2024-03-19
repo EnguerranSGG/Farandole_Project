@@ -1,13 +1,13 @@
 import { useEffect, useState } from 'react';
 import produits from "../JSON/produits.json";
 
-function useProduits() {
-    const [produitsData, setProduitsData] = useState(null);
+function useProductsData() {
+    const [productsData, setProductsData] = useState(null);
 
     useEffect(() => {
         async function fetchData() {
             try {
-                setProduitsData(produits);
+                setProductsData(produits);
             } catch (error) {
                 console.error('Error fetching data', error);
             }
@@ -15,7 +15,7 @@ function useProduits() {
         fetchData();
     }, []);
 
-    return produitsData;
+    return productsData;
 }
 
-export default useProduits;
+export default useProductsData;
