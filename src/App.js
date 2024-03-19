@@ -3,15 +3,15 @@ import './CSS/Contact.css';
 import './CSS/Footer.css';
 import './CSS/Header_home.css';
 import './CSS/Header.css';
-import './CSS/Chateaux.css';
+import './CSS/Castles.css';
 import './CSS/Modales_Templates.css';
-import './CSS/Deguisements_Accessoires.css';
+import './CSS/Deguisements_Accessories.css';
 import './CSS/Chocolates_modal.css';
-import './CSS/Cadeaux_perso.css';
-import './CSS/Machines_mascottes.css';
+import './CSS/Customized_gifts.css';
+import './CSS/Machines_mascots.css';
 import './CSS/Deco.css';
 import './CSS/Error.css';
-import './CSS/Mentions_legales.css';
+import './CSS/Legal_notices.css';
 import './CSS/Carrousel.css';
 import './CSS/Product_presentation.css'
 
